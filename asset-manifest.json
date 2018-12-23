@@ -1,7 +1,7 @@
 {
   "main.css": "/labwhat/static/css/main.19e58b6b.chunk.css",
-  "main.js": "/labwhat/static/js/main.c4031b04.chunk.js",
-  "main.js.map": "/labwhat/static/js/main.c4031b04.chunk.js.map",
+  "main.js": "/labwhat/static/js/main.1bc22602.chunk.js",
+  "main.js.map": "/labwhat/static/js/main.1bc22602.chunk.js.map",
   "static/js/1.0a41e3d5.chunk.js": "/labwhat/static/js/1.0a41e3d5.chunk.js",
   "static/js/1.0a41e3d5.chunk.js.map": "/labwhat/static/js/1.0a41e3d5.chunk.js.map",
   "runtime~main.js": "/labwhat/static/js/runtime~main.62447b61.js",
@@ -20,6 +20,6 @@
   "static/media/issou.mp3": "/labwhat/static/media/issou.732100f2.mp3",
   "static/css/main.19e58b6b.chunk.css.map": "/labwhat/static/css/main.19e58b6b.chunk.css.map",
   "index.html": "/labwhat/index.html",
-  "precache-manifest.5e6095bf85459a7c9692a9deb636edc8.js": "/labwhat/precache-manifest.5e6095bf85459a7c9692a9deb636edc8.js",
+  "precache-manifest.9644e66f93dc6bc7c22dffce468fc237.js": "/labwhat/precache-manifest.9644e66f93dc6bc7c22dffce468fc237.js",
   "service-worker.js": "/labwhat/service-worker.js"
 }

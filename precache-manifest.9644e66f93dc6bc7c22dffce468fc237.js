@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c4031b0411590abec73b",
+    "revision": "1bc22602e3d7eaa8e674",
     "url": "/labwhat/static/css/main.19e58b6b.chunk.css"
   },
   {
-    "revision": "c4031b0411590abec73b",
-    "url": "/labwhat/static/js/main.c4031b04.chunk.js"
+    "revision": "1bc22602e3d7eaa8e674",
+    "url": "/labwhat/static/js/main.1bc22602.chunk.js"
   },
   {
     "revision": "0a41e3d53f8f0f89d878",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/issou.732100f2.mp3"
   },
   {
-    "revision": "882159506e76c834d08896e7f6d25c1e",
+    "revision": "4912f08e704cfc55cb759cb9c4b3c2e9",
     "url": "/labwhat/index.html"
   }
 ];
