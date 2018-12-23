@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "1bc22602e3d7eaa8e674",
-    "url": "/labwhat/static/css/main.19e58b6b.chunk.css"
+    "revision": "49863d64de10ef820bd2",
+    "url": "/labwhat/static/css/main.a157da6a.chunk.css"
   },
   {
-    "revision": "1bc22602e3d7eaa8e674",
-    "url": "/labwhat/static/js/main.1bc22602.chunk.js"
+    "revision": "49863d64de10ef820bd2",
+    "url": "/labwhat/static/js/main.49863d64.chunk.js"
   },
   {
-    "revision": "0a41e3d53f8f0f89d878",
-    "url": "/labwhat/static/js/1.0a41e3d5.chunk.js"
+    "revision": "d4088dfcb22326311e83",
+    "url": "/labwhat/static/js/1.d4088dfc.chunk.js"
   },
   {
     "revision": "62447b614a590b4256ff",
@@ -64,7 +64,11 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/issou.732100f2.mp3"
   },
   {
-    "revision": "4c52f8664ff7a3e9f9dcb85be977d71d",
+    "revision": "d39ffd58197175b9321c9616a72128bd",
+    "url": "/labwhat/static/media/logo.d39ffd58.png"
+  },
+  {
+    "revision": "193ef2f3a36362aa6f8098daecfbd75d",
     "url": "/labwhat/index.html"
   }
 ];

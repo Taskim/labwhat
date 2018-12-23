@@ -1,9 +1,9 @@
 {
-  "main.css": "/labwhat/static/css/main.19e58b6b.chunk.css",
-  "main.js": "/labwhat/static/js/main.1bc22602.chunk.js",
-  "main.js.map": "/labwhat/static/js/main.1bc22602.chunk.js.map",
-  "static/js/1.0a41e3d5.chunk.js": "/labwhat/static/js/1.0a41e3d5.chunk.js",
-  "static/js/1.0a41e3d5.chunk.js.map": "/labwhat/static/js/1.0a41e3d5.chunk.js.map",
+  "main.css": "/labwhat/static/css/main.a157da6a.chunk.css",
+  "main.js": "/labwhat/static/js/main.49863d64.chunk.js",
+  "main.js.map": "/labwhat/static/js/main.49863d64.chunk.js.map",
+  "static/js/1.d4088dfc.chunk.js": "/labwhat/static/js/1.d4088dfc.chunk.js",
+  "static/js/1.d4088dfc.chunk.js.map": "/labwhat/static/js/1.d4088dfc.chunk.js.map",
   "runtime~main.js": "/labwhat/static/js/runtime~main.62447b61.js",
   "runtime~main.js.map": "/labwhat/static/js/runtime~main.62447b61.js.map",
   "static/media/jingle-sncf-hq.mp3": "/labwhat/static/media/jingle-sncf-hq.3551befd.mp3",
@@ -18,8 +18,9 @@
   "static/media/mais-putain-ta-gueule.mp3": "/labwhat/static/media/mais-putain-ta-gueule.c36216c3.mp3",
   "static/media/oh-puteuh-jai-dit-puteuh.mp3": "/labwhat/static/media/oh-puteuh-jai-dit-puteuh.f23d92d3.mp3",
   "static/media/issou.mp3": "/labwhat/static/media/issou.732100f2.mp3",
-  "static/css/main.19e58b6b.chunk.css.map": "/labwhat/static/css/main.19e58b6b.chunk.css.map",
+  "static/media/logo.png": "/labwhat/static/media/logo.d39ffd58.png",
+  "static/css/main.a157da6a.chunk.css.map": "/labwhat/static/css/main.a157da6a.chunk.css.map",
   "index.html": "/labwhat/index.html",
-  "precache-manifest.f0a034d530f198d95c1a132ff92c1625.js": "/labwhat/precache-manifest.f0a034d530f198d95c1a132ff92c1625.js",
+  "precache-manifest.29d51eee9c1f6546b03faa60834fa3d4.js": "/labwhat/precache-manifest.29d51eee9c1f6546b03faa60834fa3d4.js",
   "service-worker.js": "/labwhat/service-worker.js"
 }
