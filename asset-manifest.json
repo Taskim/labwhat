@@ -1,7 +1,7 @@
 {
-  "main.css": "/labwhat/static/css/main.a157da6a.chunk.css",
-  "main.js": "/labwhat/static/js/main.49863d64.chunk.js",
-  "main.js.map": "/labwhat/static/js/main.49863d64.chunk.js.map",
+  "main.css": "/labwhat/static/css/main.d748e870.chunk.css",
+  "main.js": "/labwhat/static/js/main.3c810f42.chunk.js",
+  "main.js.map": "/labwhat/static/js/main.3c810f42.chunk.js.map",
   "static/js/1.d4088dfc.chunk.js": "/labwhat/static/js/1.d4088dfc.chunk.js",
   "static/js/1.d4088dfc.chunk.js.map": "/labwhat/static/js/1.d4088dfc.chunk.js.map",
   "runtime~main.js": "/labwhat/static/js/runtime~main.62447b61.js",
@@ -19,8 +19,8 @@
   "static/media/oh-puteuh-jai-dit-puteuh.mp3": "/labwhat/static/media/oh-puteuh-jai-dit-puteuh.f23d92d3.mp3",
   "static/media/issou.mp3": "/labwhat/static/media/issou.732100f2.mp3",
   "static/media/logo.png": "/labwhat/static/media/logo.d39ffd58.png",
-  "static/css/main.a157da6a.chunk.css.map": "/labwhat/static/css/main.a157da6a.chunk.css.map",
+  "static/css/main.d748e870.chunk.css.map": "/labwhat/static/css/main.d748e870.chunk.css.map",
   "index.html": "/labwhat/index.html",
-  "precache-manifest.29d51eee9c1f6546b03faa60834fa3d4.js": "/labwhat/precache-manifest.29d51eee9c1f6546b03faa60834fa3d4.js",
+  "precache-manifest.6070a8a0e9a8c9b49238ae4258c731e1.js": "/labwhat/precache-manifest.6070a8a0e9a8c9b49238ae4258c731e1.js",
   "service-worker.js": "/labwhat/service-worker.js"
 }
