@@ -27,6 +27,7 @@ import coucouTuVeuxVoirMaBiteSound from './assets/coucou-tu-veux-voir-ma-bite-go
 import maisPutainTGSound from './assets/mais-putain-ta-gueule.mp3'
 import jaiDitPuteuhSound from './assets/oh-puteuh-jai-dit-puteuh.mp3'
 import issouSound from './assets/issou.mp3'
+import logo from './assets/logo.png';
 
 const data = [
     { name: 'SNCF', image: sncf, sound: sncfSound },
@@ -73,6 +74,7 @@ class App extends Component {
         const selected = this.state.selected
         return (
             <div className="app">
+                <img src={logo} alt="Labwhat" className="logo" />
                 <svg className="detail" viewBox="0 0 170 256">
                     {selected.image.map((p, i) => (
                         <Spring key={i} native to={p}>
