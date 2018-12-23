@@ -30,7 +30,8 @@ body {
     flex-wrap: wrap;
     max-height: 100%;
     position: fixed;
-    overflow: auto;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 .master div {
