@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/issou.732100f2.mp3"
   },
   {
-    "revision": "4912f08e704cfc55cb759cb9c4b3c2e9",
+    "revision": "4c52f8664ff7a3e9f9dcb85be977d71d",
     "url": "/labwhat/index.html"
   }
 ];
