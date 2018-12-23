@@ -66,7 +66,7 @@ const data = [
 class App extends Component {
     state = { selected: data[0] }
     select = selected => {
-        document.querySelector(`audio[data-key="${selected.name}"`).play()
+        document.querySelector(`audio[data-key="${selected.name}"]`).play()
         this.setState({ selected })
     }
     render() {
