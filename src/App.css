@@ -1,0 +1,86 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+html {
+    font-size: 60%;
+}
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff;
+}
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+.master {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    max-height: 100%;
+    position: fixed;
+    overflow: auto;
+}
+
+.master div {
+    flex: 0 0 27%;
+    padding: 16px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background: rgba(20, 20, 20, 0.8);
+    justify-content: center;
+    color: #dfdfdf;
+    font-family: Kanit, sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 10px;
+    text-align: center;
+    z-index: 1;
+    height: 200px;
+    opacity: 0.4;
+    background: black;
+    margin-bottom: 16px;
+}
+
+.master div.active {
+    background: rgba(60, 60, 60, 0.8);
+}
+
+.master div:hover {
+    background: rgba(40, 40, 40, 0.8);
+}
+
+.detail {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    mix-blend-mode: multiply;
+}
+
+@media screen and (max-width: 800px) {
+    .master {
+        display: inherit;
+    }
+    .master div {
+        flex: 1 1 120px;
+        font-size: 16px;
+        letter-spacing: 5px;
+        height: 120px;
+    }
+}
