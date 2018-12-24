@@ -36,7 +36,7 @@ body {
 }
 
 .master div {
-    flex: 0 0 27%;
+    flex: 1 0 27%;
     padding: 16px;
     list-style: none;
     display: flex;
@@ -54,7 +54,7 @@ body {
     height: 200px;
     opacity: 0.4;
     background: black;
-    margin-bottom: 16px;
+    margin: 16px;
 }
 
 .master div.active {
