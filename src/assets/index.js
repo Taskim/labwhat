@@ -11,6 +11,7 @@ import {
     jojobernard,
     kaaris,
     issou,
+    maisOuiCestClair,
 } from './data'
 import sncfSound from './jingle-sncf-hq.mp3'
 import surpriseSound from './surprise.mp3'
@@ -19,14 +20,15 @@ import smokeSound from './Smoke Weed Everyday.mp3'
 import ahSound from './ah.mp3'
 import cartmanSound from './je-vous-emmerde-et-je-rentre-a-ma-maison.mp3'
 import onSenBatLesCouillesSound from './on-sen-bat-les-couilles.mp3'
-import JeSuisPasVenueIciPourSoufrrirSound from './je-suis-pas-venue-ici-pour-souffrir-ok-cest-mon-choix.mp3'
+import JeSuisPasVenueIciPourSouffrirSound from './je-suis-pas-venue-ici-pour-souffrir-ok-cest-mon-choix.mp3'
 import coucouTuVeuxVoirMaBiteSound from './coucou-tu-veux-voir-ma-bite-gollum.mp3'
 import maisPutainTGSound from './mais-putain-ta-gueule.mp3'
 import jaiDitPuteuhSound from './oh-puteuh-jai-dit-puteuh.mp3'
 import issouSound from './issou.mp3'
+import maisOuiCestClairSound from './maisOuiCestClair.mp3'
 
-export {default as logo } from './logo.png'
-export {default as silence } from './silence.mp3';
+export { default as logo } from './logo.png'
+export { default as silence } from './silence.mp3'
 
 export const data = {
     1: { id: 1, name: 'SNCF', image: sncf, sound: sncfSound },
@@ -58,9 +60,9 @@ export const data = {
     },
     8: {
         id: 8,
-        name: 'JE SUIS PAS VENUE ICI POUR SOUFFIR',
+        name: 'JE SUIS PAS VENUE ICI POUR SOUFFRIR',
         image: souffrir,
-        sound: JeSuisPasVenueIciPourSoufrrirSound,
+        sound: JeSuisPasVenueIciPourSouffrirSound,
     },
     9: {
         id: 9,
@@ -81,4 +83,10 @@ export const data = {
         sound: jaiDitPuteuhSound,
     },
     12: { id: 12, name: 'ISSOU', image: issou, sound: issouSound },
+    13: {
+        id: 13,
+        name: "MAIS OUI C'EST CLAIR",
+        image: maisOuiCestClair,
+        sound: maisOuiCestClairSound,
+    },
 }
