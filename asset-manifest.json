@@ -1,9 +1,9 @@
 {
-  "main.css": "/labwhat/static/css/main.bc101408.chunk.css",
-  "main.js": "/labwhat/static/js/main.f6e22dfb.chunk.js",
-  "main.js.map": "/labwhat/static/js/main.f6e22dfb.chunk.js.map",
-  "static/js/1.ce59abba.chunk.js": "/labwhat/static/js/1.ce59abba.chunk.js",
-  "static/js/1.ce59abba.chunk.js.map": "/labwhat/static/js/1.ce59abba.chunk.js.map",
+  "main.css": "/labwhat/static/css/main.af0ad88e.chunk.css",
+  "main.js": "/labwhat/static/js/main.e04af9ea.chunk.js",
+  "main.js.map": "/labwhat/static/js/main.e04af9ea.chunk.js.map",
+  "static/js/1.5db8db4f.chunk.js": "/labwhat/static/js/1.5db8db4f.chunk.js",
+  "static/js/1.5db8db4f.chunk.js.map": "/labwhat/static/js/1.5db8db4f.chunk.js.map",
   "runtime~main.js": "/labwhat/static/js/runtime~main.62447b61.js",
   "runtime~main.js.map": "/labwhat/static/js/runtime~main.62447b61.js.map",
   "static/media/logo.png": "/labwhat/static/media/logo.d39ffd58.png",
@@ -20,8 +20,9 @@
   "static/media/mais-putain-ta-gueule.mp3": "/labwhat/static/media/mais-putain-ta-gueule.c36216c3.mp3",
   "static/media/oh-puteuh-jai-dit-puteuh.mp3": "/labwhat/static/media/oh-puteuh-jai-dit-puteuh.f23d92d3.mp3",
   "static/media/issou.mp3": "/labwhat/static/media/issou.732100f2.mp3",
-  "static/css/main.bc101408.chunk.css.map": "/labwhat/static/css/main.bc101408.chunk.css.map",
+  "static/media/maisOuiCestClair.mp3": "/labwhat/static/media/maisOuiCestClair.42694036.mp3",
+  "static/css/main.af0ad88e.chunk.css.map": "/labwhat/static/css/main.af0ad88e.chunk.css.map",
   "index.html": "/labwhat/index.html",
-  "precache-manifest.7f08a9a05fc4437ec9b56833eee301f9.js": "/labwhat/precache-manifest.7f08a9a05fc4437ec9b56833eee301f9.js",
+  "precache-manifest.9868bb1921ff6e34842a065156fcc4d3.js": "/labwhat/precache-manifest.9868bb1921ff6e34842a065156fcc4d3.js",
   "service-worker.js": "/labwhat/service-worker.js"
 }

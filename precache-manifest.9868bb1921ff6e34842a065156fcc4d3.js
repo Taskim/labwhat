@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "f6e22dfb56cc8073b382",
-    "url": "/labwhat/static/css/main.bc101408.chunk.css"
+    "revision": "e04af9eafc7d47fca12d",
+    "url": "/labwhat/static/css/main.af0ad88e.chunk.css"
   },
   {
-    "revision": "f6e22dfb56cc8073b382",
-    "url": "/labwhat/static/js/main.f6e22dfb.chunk.js"
+    "revision": "e04af9eafc7d47fca12d",
+    "url": "/labwhat/static/js/main.e04af9ea.chunk.js"
   },
   {
-    "revision": "ce59abbac7ac9299e471",
-    "url": "/labwhat/static/js/1.ce59abba.chunk.js"
+    "revision": "5db8db4f4cc9a97a6b7f",
+    "url": "/labwhat/static/js/1.5db8db4f.chunk.js"
   },
   {
     "revision": "62447b614a590b4256ff",
@@ -72,7 +72,11 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/issou.732100f2.mp3"
   },
   {
-    "revision": "02d463643841d122db0f1c36c9718c2f",
+    "revision": "42694036a0a7e28ded24c09db660319b",
+    "url": "/labwhat/static/media/maisOuiCestClair.42694036.mp3"
+  },
+  {
+    "revision": "0bc0b48adaf61207cb28b0f2314200e7",
     "url": "/labwhat/index.html"
   }
 ];
