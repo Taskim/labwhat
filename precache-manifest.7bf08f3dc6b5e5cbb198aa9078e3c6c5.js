@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e04af9eafc7d47fca12d",
-    "url": "/labwhat/static/css/main.af0ad88e.chunk.css"
+    "revision": "a96ec0f451e467b907a7",
+    "url": "/labwhat/static/css/main.373eaf7b.chunk.css"
   },
   {
-    "revision": "e04af9eafc7d47fca12d",
-    "url": "/labwhat/static/js/main.e04af9ea.chunk.js"
+    "revision": "a96ec0f451e467b907a7",
+    "url": "/labwhat/static/js/main.a96ec0f4.chunk.js"
   },
   {
-    "revision": "5db8db4f4cc9a97a6b7f",
-    "url": "/labwhat/static/js/1.5db8db4f.chunk.js"
+    "revision": "9591d285deed641b0ca7",
+    "url": "/labwhat/static/js/1.9591d285.chunk.js"
   },
   {
     "revision": "62447b614a590b4256ff",
@@ -76,7 +76,11 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/maisOuiCestClair.42694036.mp3"
   },
   {
-    "revision": "0bc0b48adaf61207cb28b0f2314200e7",
+    "revision": "fef8415b6e5bcf86c288cfed63be4426",
+    "url": "/labwhat/static/media/warcraft.fef8415b.mp3"
+  },
+  {
+    "revision": "10e1ae4501285b39efc689af36613a3f",
     "url": "/labwhat/index.html"
   }
 ];
