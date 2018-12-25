@@ -12,6 +12,7 @@ import {
     kaaris,
     issou,
     maisOuiCestClair,
+    warcraft,
 } from './data'
 import sncfSound from './jingle-sncf-hq.mp3'
 import surpriseSound from './surprise.mp3'
@@ -26,12 +27,18 @@ import maisPutainTGSound from './mais-putain-ta-gueule.mp3'
 import jaiDitPuteuhSound from './oh-puteuh-jai-dit-puteuh.mp3'
 import issouSound from './issou.mp3'
 import maisOuiCestClairSound from './maisOuiCestClair.mp3'
+import warcraftSound from './warcraft.mp3'
 
 export { default as logo } from './logo.png'
 export { default as silence } from './silence.mp3'
 
 export const data = {
-    1: { id: 1, name: 'SNCF', image: sncf, sound: sncfSound },
+    1: {
+        id: 1,
+        name: 'SNCF',
+        image: sncf,
+        sound: sncfSound,
+    },
     2: {
         id: 2,
         name: 'ARRETE LA DROGUE',
@@ -50,8 +57,18 @@ export const data = {
         image: cartman,
         sound: cartmanSound,
     },
-    5: { id: 5, name: 'AH !', image: denis, sound: ahSound },
-    6: { id: 6, name: 'SMOKE WEED EVERYDAY', image: snoop, sound: smokeSound },
+    5: {
+        id: 5,
+        name: 'AH !',
+        image: denis,
+        sound: ahSound,
+    },
+    6: {
+        id: 6,
+        name: 'SMOKE WEED EVERYDAY',
+        image: snoop,
+        sound: smokeSound,
+    },
     7: {
         id: 7,
         name: "ON S'EN BAT LES COUILLES",
@@ -82,11 +99,22 @@ export const data = {
         image: kaaris,
         sound: jaiDitPuteuhSound,
     },
-    12: { id: 12, name: 'ISSOU', image: issou, sound: issouSound },
+    12: {
+        id: 12,
+        name: 'ISSOU',
+        image: issou,
+        sound: issouSound,
+    },
     13: {
         id: 13,
         name: "MAIS OUI C'EST CLAIR",
         image: maisOuiCestClair,
         sound: maisOuiCestClairSound,
+    },
+    14: {
+        id: 14,
+        name: 'travail terminé',
+        image: warcraft,
+        sound: warcraftSound,
     },
 }
