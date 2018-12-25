@@ -31,8 +31,11 @@ class Buttons extends Component {
     }
 
     play(id) {
-        const audio = document.querySelector(`audio[data-key="${id}"]`)
-        audio.play()
+        const currentAudio = document.querySelector(`audio[data-key="${this.state.selected.id}"]`);
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        const nextAudio = document.querySelector(`audio[data-key="${id}"]`)
+        nextAudio.play()
         this.setState({ selected: data[id] })
     }
 
