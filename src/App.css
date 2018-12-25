@@ -10,7 +10,7 @@ body {
     margin: 0;
     font-size: 1.6rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #fff;
+    background: linear-gradient(135deg, #FFF, #6c6c6c, #3c3c3c);
 }
 
 .app {
@@ -55,6 +55,7 @@ body {
     opacity: 0.4;
     background: black;
     margin: 16px;
+    text-transform: uppercase;
 }
 
 .master div.active {
