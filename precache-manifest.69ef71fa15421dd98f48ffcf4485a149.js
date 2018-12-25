@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a96ec0f451e467b907a7",
+    "revision": "76c1094335f824203f9a",
     "url": "/labwhat/static/css/main.373eaf7b.chunk.css"
   },
   {
-    "revision": "a96ec0f451e467b907a7",
-    "url": "/labwhat/static/js/main.a96ec0f4.chunk.js"
+    "revision": "76c1094335f824203f9a",
+    "url": "/labwhat/static/js/main.76c10943.chunk.js"
   },
   {
     "revision": "9591d285deed641b0ca7",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/warcraft.fef8415b.mp3"
   },
   {
-    "revision": "10e1ae4501285b39efc689af36613a3f",
+    "revision": "0d4e26e0645e208b1256b5aba0f6bdec",
     "url": "/labwhat/index.html"
   }
 ];
