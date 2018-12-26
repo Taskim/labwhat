@@ -1,7 +1,7 @@
 {
   "main.css": "/labwhat/static/css/main.373eaf7b.chunk.css",
-  "main.js": "/labwhat/static/js/main.76c10943.chunk.js",
-  "main.js.map": "/labwhat/static/js/main.76c10943.chunk.js.map",
+  "main.js": "/labwhat/static/js/main.71568254.chunk.js",
+  "main.js.map": "/labwhat/static/js/main.71568254.chunk.js.map",
   "static/js/1.9591d285.chunk.js": "/labwhat/static/js/1.9591d285.chunk.js",
   "static/js/1.9591d285.chunk.js.map": "/labwhat/static/js/1.9591d285.chunk.js.map",
   "runtime~main.js": "/labwhat/static/js/runtime~main.62447b61.js",
@@ -20,10 +20,10 @@
   "static/media/mais-putain-ta-gueule.mp3": "/labwhat/static/media/mais-putain-ta-gueule.c36216c3.mp3",
   "static/media/oh-puteuh-jai-dit-puteuh.mp3": "/labwhat/static/media/oh-puteuh-jai-dit-puteuh.f23d92d3.mp3",
   "static/media/issou.mp3": "/labwhat/static/media/issou.732100f2.mp3",
-  "static/media/maisOuiCestClair.mp3": "/labwhat/static/media/maisOuiCestClair.42694036.mp3",
+  "static/media/maisOuiCestClair.mp3": "/labwhat/static/media/maisOuiCestClair.5ca40f92.mp3",
   "static/media/warcraft.mp3": "/labwhat/static/media/warcraft.fef8415b.mp3",
   "static/css/main.373eaf7b.chunk.css.map": "/labwhat/static/css/main.373eaf7b.chunk.css.map",
   "index.html": "/labwhat/index.html",
-  "precache-manifest.69ef71fa15421dd98f48ffcf4485a149.js": "/labwhat/precache-manifest.69ef71fa15421dd98f48ffcf4485a149.js",
+  "precache-manifest.f94fcc4f182004ff69c1c0e675f8aa18.js": "/labwhat/precache-manifest.f94fcc4f182004ff69c1c0e675f8aa18.js",
   "service-worker.js": "/labwhat/service-worker.js"
 }

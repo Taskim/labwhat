@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "76c1094335f824203f9a",
+    "revision": "71568254dc85e2819380",
     "url": "/labwhat/static/css/main.373eaf7b.chunk.css"
   },
   {
-    "revision": "76c1094335f824203f9a",
-    "url": "/labwhat/static/js/main.76c10943.chunk.js"
+    "revision": "71568254dc85e2819380",
+    "url": "/labwhat/static/js/main.71568254.chunk.js"
   },
   {
     "revision": "9591d285deed641b0ca7",
@@ -72,15 +72,15 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/issou.732100f2.mp3"
   },
   {
-    "revision": "42694036a0a7e28ded24c09db660319b",
-    "url": "/labwhat/static/media/maisOuiCestClair.42694036.mp3"
+    "revision": "5ca40f9239f14f8888aea41d39e83944",
+    "url": "/labwhat/static/media/maisOuiCestClair.5ca40f92.mp3"
   },
   {
     "revision": "fef8415b6e5bcf86c288cfed63be4426",
     "url": "/labwhat/static/media/warcraft.fef8415b.mp3"
   },
   {
-    "revision": "0d4e26e0645e208b1256b5aba0f6bdec",
+    "revision": "4e1dfe8fab5fa8da36cab985e04b6517",
     "url": "/labwhat/index.html"
   }
 ];
