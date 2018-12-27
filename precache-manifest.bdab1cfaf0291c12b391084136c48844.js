@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "71568254dc85e2819380",
-    "url": "/labwhat/static/css/main.373eaf7b.chunk.css"
+    "revision": "fd6a4ff6e1c7673d162e",
+    "url": "/labwhat/static/css/main.10591478.chunk.css"
   },
   {
-    "revision": "71568254dc85e2819380",
-    "url": "/labwhat/static/js/main.71568254.chunk.js"
+    "revision": "fd6a4ff6e1c7673d162e",
+    "url": "/labwhat/static/js/main.fd6a4ff6.chunk.js"
   },
   {
-    "revision": "9591d285deed641b0ca7",
-    "url": "/labwhat/static/js/1.9591d285.chunk.js"
+    "revision": "e8fb213b3e1f9f51e05c",
+    "url": "/labwhat/static/js/1.e8fb213b.chunk.js"
   },
   {
     "revision": "62447b614a590b4256ff",
@@ -80,7 +80,11 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/warcraft.fef8415b.mp3"
   },
   {
-    "revision": "4e1dfe8fab5fa8da36cab985e04b6517",
+    "revision": "f7a77756ac2b9328da7e6aac4d72aef9",
+    "url": "/labwhat/static/media/kassos_lapin.f7a77756.mp3"
+  },
+  {
+    "revision": "7eedf08a4052c9f015bdd3d4bb71993d",
     "url": "/labwhat/index.html"
   }
 ];
