@@ -13,6 +13,7 @@ import {
     issou,
     maisOuiCestClair,
     warcraft,
+    kassosLapin,
 } from './data'
 import sncfSound from './jingle-sncf-hq.mp3'
 import surpriseSound from './surprise.mp3'
@@ -28,6 +29,7 @@ import jaiDitPuteuhSound from './oh-puteuh-jai-dit-puteuh.mp3'
 import issouSound from './issou.mp3'
 import maisOuiCestClairSound from './maisOuiCestClair.mp3'
 import warcraftSound from './warcraft.mp3'
+import kassosLapinSound from './kassos_lapin.mp3'
 
 export { default as logo } from './logo.png'
 export { default as silence } from './silence.mp3'
@@ -116,5 +118,11 @@ export const data = {
         name: 'travail terminé',
         image: warcraft,
         sound: warcraftSound,
+    },
+    15: {
+        id: 15,
+        name: 'Tu risques de te faire pincer très fort',
+        image: kassosLapin,
+        sound: kassosLapinSound,
     },
 }

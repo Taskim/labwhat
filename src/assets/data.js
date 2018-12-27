@@ -1,3 +1,708 @@
+export const kassosLapin = [
+    {
+        d: 'M-94,52L283,-199L152,90Z',
+        fill: 'rgb(219, 203, 206)',
+        fillOpacity: '0.65',
+    },
+    {
+        d: 'M305,65L109,378L-31,139Z',
+        fill: 'rgb(22, 0, 19)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M170,36L263,59L221,117Z',
+        fill: 'rgb(24, 17, 40)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M117,139L75,41L175,126Z',
+        fill: 'rgb(227, 129, 159)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M144,21L273,29L200,-105Z',
+        fill: 'rgb(212, 200, 204)',
+        fillOpacity: '0.99',
+    },
+    { d: 'M30,110L97,91L56,73Z', fill: 'rgb(62, 21, 44)', fillOpacity: '0.53' },
+    { d: 'M51,1L51,37L70,2Z', fill: 'rgb(131, 100, 65)', fillOpacity: '0.50' },
+    {
+        d: 'M166,95L209,82L114,66Z',
+        fill: 'rgb(254, 212, 212)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M247,87L156,72L155,40Z',
+        fill: 'rgb(28, 12, 43)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M161,123L126,171L165,138Z',
+        fill: 'rgb(43, 125, 215)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M137,32L148,55L133,43Z',
+        fill: 'rgb(33, 13, 22)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M167,124L148,112L135,89Z',
+        fill: 'rgb(243, 172, 194)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M35,113L-34,134L39,150Z',
+        fill: 'rgb(44, 41, 59)',
+        fillOpacity: '0.65',
+    },
+    {
+        d: 'M105,-27L106,54L147,92Z',
+        fill: 'rgb(231, 217, 218)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M-25,114L35,113L12,33Z',
+        fill: 'rgb(195, 190, 198)',
+        fillOpacity: '0.73',
+    },
+    {
+        d: 'M216,13L145,26L235,51Z',
+        fill: 'rgb(190, 141, 155)',
+        fillOpacity: '0.89',
+    },
+    {
+        d: 'M66,103L43,112L65,113Z',
+        fill: 'rgb(212, 202, 214)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M90,79L34,72L29,108Z',
+        fill: 'rgb(107, 57, 80)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M148,39L139,27L148,26Z',
+        fill: 'rgb(15, 0, 10)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M170,92L144,265L253,116Z',
+        fill: 'rgb(26, 24, 30)',
+        fillOpacity: '0.66',
+    },
+    {
+        d: 'M38,127L26,76L62,123Z',
+        fill: 'rgb(148, 84, 107)',
+        fillOpacity: '0.75',
+    },
+    {
+        d: 'M63,110L143,128L120,67Z',
+        fill: 'rgb(182, 103, 129)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M144,98L160,82L153,107Z',
+        fill: 'rgb(64, 49, 64)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M234,44L203,85L230,88Z',
+        fill: 'rgb(14, 14, 17)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M226,17L243,120L349,149Z',
+        fill: 'rgb(113, 103, 127)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M144,114L138,102L159,122Z',
+        fill: 'rgb(9, 5, 15)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M182,28L201,25L169,34Z',
+        fill: 'rgb(64, 27, 38)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M205,35L220,50L204,46Z',
+        fill: 'rgb(44, 38, 57)',
+        fillOpacity: '0.58',
+    },
+    { d: 'M102,48L100,35L114,68Z', fill: 'rgb(5, 3, 9)', fillOpacity: '0.39' },
+    {
+        d: 'M225,13L170,13L201,-34Z',
+        fill: 'rgb(247, 237, 226)',
+        fillOpacity: '0.63',
+    },
+    {
+        d: 'M119,74L-8,-18L53,77Z',
+        fill: 'rgb(182, 180, 185)',
+        fillOpacity: '0.74',
+    },
+    {
+        d: 'M142,106L132,96L140,117Z',
+        fill: 'rgb(22, 14, 25)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M19,28L55,9L94,26Z',
+        fill: 'rgb(146, 138, 135)',
+        fillOpacity: '0.69',
+    },
+    {
+        d: 'M133,134L152,132L137,145Z',
+        fill: 'rgb(200, 87, 122)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M133,82L147,98L123,79Z',
+        fill: 'rgb(85, 39, 53)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M118,154L68,128L116,122Z',
+        fill: 'rgb(6, 10, 11)',
+        fillOpacity: '0.39',
+    },
+    {
+        d: 'M111,63L143,55L134,83Z',
+        fill: 'rgb(255, 240, 242)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M165,59L174,40L149,23Z',
+        fill: 'rgb(214, 128, 150)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M219,21L220,15L236,34Z',
+        fill: 'rgb(148, 99, 125)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M144,35L155,43L145,28Z',
+        fill: 'rgb(42, 13, 20)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M104,51L113,67L118,71Z',
+        fill: 'rgb(15, 9, 16)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M133,38L152,25L132,32Z',
+        fill: 'rgb(85, 63, 78)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M204,16L167,27L179,20Z',
+        fill: 'rgb(82, 68, 73)',
+        fillOpacity: '0.44',
+    },
+    {
+        d: 'M101,81L91,97L95,103Z',
+        fill: 'rgb(57, 31, 42)',
+        fillOpacity: '0.62',
+    },
+    {
+        d: 'M95,123L49,206L37,128Z',
+        fill: 'rgb(19, 26, 32)',
+        fillOpacity: '0.37',
+    },
+    {
+        d: 'M204,84L157,84L192,93Z',
+        fill: 'rgb(252, 198, 199)',
+        fillOpacity: '0.39',
+    },
+    {
+        d: 'M44,80L56,106L88,101Z',
+        fill: 'rgb(67, 60, 74)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M147,72L139,53L144,75Z',
+        fill: 'rgb(73, 54, 55)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M103,119L106,106L125,94Z',
+        fill: 'rgb(136, 71, 94)',
+        fillOpacity: '0.64',
+    },
+    { d: 'M84,88L82,75L27,103Z', fill: 'rgb(74, 52, 68)', fillOpacity: '0.59' },
+    {
+        d: 'M130,45L141,54L129,42Z',
+        fill: 'rgb(69, 53, 55)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M147,56L162,69L154,66Z',
+        fill: 'rgb(59, 30, 49)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M70,118L54,124L72,99Z',
+        fill: 'rgb(188, 104, 132)',
+        fillOpacity: '0.51',
+    },
+    { d: 'M42,118L59,115L47,120Z', fill: 'rgb(1, 0, 18)', fillOpacity: '0.51' },
+    {
+        d: 'M237,51L183,27L216,28Z',
+        fill: 'rgb(241, 166, 189)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M147,50L157,56L156,44Z',
+        fill: 'rgb(255, 248, 242)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M138,90L100,97L113,73Z',
+        fill: 'rgb(237, 155, 180)',
+        fillOpacity: '0.45',
+    },
+    { d: 'M50,4L49,16L67,-2Z', fill: 'rgb(150, 110, 61)', fillOpacity: '0.55' },
+    {
+        d: 'M241,54L250,32L219,4Z',
+        fill: 'rgb(202, 165, 196)',
+        fillOpacity: '0.36',
+    },
+    {
+        d: 'M42,99L52,90L31,91Z',
+        fill: 'rgb(212, 116, 143)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M231,21L276,20L230,-25Z',
+        fill: 'rgb(214, 239, 245)',
+        fillOpacity: '0.70',
+    },
+    {
+        d: 'M224,24L222,52L233,47Z',
+        fill: 'rgb(234, 177, 193)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M181,13L199,16L165,24Z',
+        fill: 'rgb(194, 154, 174)',
+        fillOpacity: '0.69',
+    },
+    {
+        d: 'M159,78L148,90L143,49Z',
+        fill: 'rgb(241, 225, 227)',
+        fillOpacity: '0.67',
+    },
+    {
+        d: 'M170,56L176,55L174,31Z',
+        fill: 'rgb(55, 36, 61)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M208,36L160,64L182,33Z',
+        fill: 'rgb(94, 76, 107)',
+        fillOpacity: '0.44',
+    },
+    {
+        d: 'M43,116L88,104L46,104Z',
+        fill: 'rgb(170, 173, 181)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M84,109L82,95L103,49Z',
+        fill: 'rgb(182, 177, 180)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M177,91L148,95L167,129Z',
+        fill: 'rgb(68, 63, 84)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M44,97L22,69L47,75Z',
+        fill: 'rgb(210, 126, 153)',
+        fillOpacity: '0.35',
+    },
+    { d: 'M123,26L133,33L141,48Z', fill: 'rgb(8, 3, 14)', fillOpacity: '0.44' },
+    {
+        d: 'M166,52L160,47L168,64Z',
+        fill: 'rgb(73, 58, 72)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M119,25L97,34L119,18Z',
+        fill: 'rgb(100, 100, 106)',
+        fillOpacity: '0.39',
+    },
+    {
+        d: 'M116,36L107,36L119,34Z',
+        fill: 'rgb(27, 11, 15)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M109,103L165,123L160,129Z',
+        fill: 'rgb(221, 124, 152)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M172,44L197,80L236,57Z',
+        fill: 'rgb(72, 66, 93)',
+        fillOpacity: '0.72',
+    },
+    {
+        d: 'M190,57L233,70L160,23Z',
+        fill: 'rgb(86, 68, 95)',
+        fillOpacity: '0.68',
+    },
+    {
+        d: 'M165,122L155,123L166,129Z',
+        fill: 'rgb(220, 141, 165)',
+        fillOpacity: '0.65',
+    },
+    {
+        d: 'M208,90L220,87L206,101Z',
+        fill: 'rgb(135, 106, 95)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M104,48L109,25L125,78Z',
+        fill: 'rgb(253, 234, 235)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M105,79L96,88L105,83Z',
+        fill: 'rgb(65, 64, 60)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M99,110L109,124L119,123Z',
+        fill: 'rgb(191, 100, 128)',
+        fillOpacity: '0.64',
+    },
+    {
+        d: 'M178,76L188,59L166,69Z',
+        fill: 'rgb(43, 39, 62)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M231,36L229,37L215,24Z',
+        fill: 'rgb(61, 34, 43)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M50,104L29,101L39,123Z',
+        fill: 'rgb(134, 78, 99)',
+        fillOpacity: '0.61',
+    },
+    {
+        d: 'M22,112L-67,132L34,122Z',
+        fill: 'rgb(97, 95, 124)',
+        fillOpacity: '0.72',
+    },
+    {
+        d: 'M244,97L298,61L249,41Z',
+        fill: 'rgb(61, 60, 83)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M123,119L145,115L120,101Z',
+        fill: 'rgb(190, 110, 135)',
+        fillOpacity: '0.63',
+    },
+    {
+        d: 'M154,56L149,59L139,44Z',
+        fill: 'rgb(72, 31, 44)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M161,42L155,60L162,25Z',
+        fill: 'rgb(117, 72, 82)',
+        fillOpacity: '0.48',
+    },
+    { d: 'M40,89L43,89L40,76Z', fill: 'rgb(16, 0, 4)', fillOpacity: '0.55' },
+    {
+        d: 'M240,109L203,118L221,88Z',
+        fill: 'rgb(13, 14, 14)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M118,70L112,66L134,91Z',
+        fill: 'rgb(49, 27, 35)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M113,98L121,93L122,103Z',
+        fill: 'rgb(67, 0, 32)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M98,115L92,113L98,108Z',
+        fill: 'rgb(160, 182, 190)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M78,103L138,109L88,111Z',
+        fill: 'rgb(145, 84, 105)',
+        fillOpacity: '0.67',
+    },
+    {
+        d: 'M229,36L227,22L234,48Z',
+        fill: 'rgb(32, 6, 19)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M160,77L176,63L148,59Z',
+        fill: 'rgb(100, 88, 109)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M165,27L177,20L154,19Z',
+        fill: 'rgb(222, 218, 210)',
+        fillOpacity: '0.63',
+    },
+    {
+        d: 'M174,43L206,40L179,37Z',
+        fill: 'rgb(203, 148, 184)',
+        fillOpacity: '0.39',
+    },
+    {
+        d: 'M142,43L148,46L168,33Z',
+        fill: 'rgb(163, 87, 110)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M107,27L97,36L102,40Z',
+        fill: 'rgb(94, 90, 94)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M-91,77L29,77L58,26Z',
+        fill: 'rgb(187, 181, 188)',
+        fillOpacity: '0.82',
+    },
+    { d: 'M218,49L204,36L216,45Z', fill: 'rgb(15, 0, 9)', fillOpacity: '0.51' },
+    {
+        d: 'M123,127L132,142L107,167Z',
+        fill: 'rgb(53, 17, 29)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M230,62L238,80L195,96Z',
+        fill: 'rgb(18, 17, 21)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M27,18L31,29L33,17Z',
+        fill: 'rgb(107, 106, 108)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M171,41L167,30L156,28Z',
+        fill: 'rgb(255, 176, 201)',
+        fillOpacity: '0.48',
+    },
+    { d: 'M94,97L99,81L95,109Z', fill: 'rgb(63, 34, 44)', fillOpacity: '0.53' },
+    {
+        d: 'M135,144L141,118L125,118Z',
+        fill: 'rgb(124, 58, 77)',
+        fillOpacity: '0.61',
+    },
+    {
+        d: 'M152,90L139,90L145,99Z',
+        fill: 'rgb(67, 44, 54)',
+        fillOpacity: '0.62',
+    },
+    {
+        d: 'M80,116L91,110L77,114Z',
+        fill: 'rgb(49, 17, 36)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M98,51L106,14L27,55Z',
+        fill: 'rgb(197, 194, 198)',
+        fillOpacity: '0.64',
+    },
+    {
+        d: 'M111,77L168,127L134,86Z',
+        fill: 'rgb(220, 148, 171)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M217,25L204,27L191,24Z',
+        fill: 'rgb(91, 51, 64)',
+        fillOpacity: '0.51',
+    },
+    { d: 'M87,87L100,90L75,90Z', fill: 'rgb(57, 39, 46)', fillOpacity: '0.58' },
+    {
+        d: 'M160,81L160,69L156,98Z',
+        fill: 'rgb(84, 71, 74)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M149,131L151,125L163,130Z',
+        fill: 'rgb(29, 38, 63)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M94,109L98,110L86,116Z',
+        fill: 'rgb(153, 177, 185)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M141,42L133,37L160,38Z',
+        fill: 'rgb(217, 191, 197)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M123,138L136,142L156,132Z',
+        fill: 'rgb(167, 82, 109)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M159,60L169,51L145,65Z',
+        fill: 'rgb(248, 182, 195)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M148,45L148,60L142,44Z',
+        fill: 'rgb(128, 78, 93)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M174,43L156,42L165,53Z',
+        fill: 'rgb(245, 170, 189)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M43,-162L164,25L67,17Z',
+        fill: 'rgb(200, 195, 195)',
+        fillOpacity: '0.89',
+    },
+    {
+        d: 'M67,15L39,15L67,19Z',
+        fill: 'rgb(196, 186, 183)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M135,110L147,110L135,99Z',
+        fill: 'rgb(29, 21, 34)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M48,127L123,92L36,125Z',
+        fill: 'rgb(200, 99, 131)',
+        fillOpacity: '0.62',
+    },
+    {
+        d: 'M122,26L121,24L105,26Z',
+        fill: 'rgb(10, 7, 11)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M230,36L234,43L233,49Z',
+        fill: 'rgb(24, 14, 22)',
+        fillOpacity: '0.53',
+    },
+    { d: 'M84,77L82,79L65,77Z', fill: 'rgb(11, 7, 17)', fillOpacity: '0.66' },
+    {
+        d: 'M235,36L216,19L202,18Z',
+        fill: 'rgb(233, 188, 202)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M172,48L158,64L177,45Z',
+        fill: 'rgb(15, 6, 13)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M88,94L118,69L116,73Z',
+        fill: 'rgb(84, 86, 86)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M215,9L204,14L217,19Z',
+        fill: 'rgb(230, 222, 215)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M143,110L158,121L128,105Z',
+        fill: 'rgb(35, 23, 36)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M84,29L43,19L86,18Z',
+        fill: 'rgb(130, 129, 129)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M232,38L245,22L244,88Z',
+        fill: 'rgb(145, 134, 147)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M76,114L106,114L78,127Z',
+        fill: 'rgb(68, 72, 97)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M81,89L52,104L83,103Z',
+        fill: 'rgb(85, 76, 88)',
+        fillOpacity: '0.60',
+    },
+    {
+        d: 'M140,81L138,72L142,69Z',
+        fill: 'rgb(46, 26, 31)',
+        fillOpacity: '0.31',
+    },
+    {
+        d: 'M247,138L214,185L166,125Z',
+        fill: 'rgb(34, 24, 24)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M273,26L262,45L229,36Z',
+        fill: 'rgb(159, 148, 163)',
+        fillOpacity: '0.72',
+    },
+    {
+        d: 'M126,60L128,42L131,42Z',
+        fill: 'rgb(124, 113, 115)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M135,140L112,164L153,143Z',
+        fill: 'rgb(11, 45, 92)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M103,44L102,45L103,19Z',
+        fill: 'rgb(65, 57, 61)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M56,109L49,114L49,100Z',
+        fill: 'rgb(196, 189, 198)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M155,38L143,42L139,46Z',
+        fill: 'rgb(105, 72, 84)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M237,138L279,165L236,86Z',
+        fill: 'rgb(62, 62, 69)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M93,91L122,103L120,110Z',
+        fill: 'rgb(213, 129, 158)',
+        fillOpacity: '0.48',
+    },
+]
+
 export const warcraft = [
     {
         d: 'M83,4L43,46L-50,-42Z',
