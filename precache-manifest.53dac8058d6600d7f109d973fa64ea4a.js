@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "fd6a4ff6e1c7673d162e",
-    "url": "/labwhat/static/css/main.10591478.chunk.css"
+    "revision": "65a0a7bd5123ad00d7c338682d1c43d0",
+    "url": "/labwhat/static/media/je-vous-emmerde-et-je-rentre-a-ma-maison.65a0a7bd.mp3"
   },
   {
-    "revision": "fd6a4ff6e1c7673d162e",
-    "url": "/labwhat/static/js/main.fd6a4ff6.chunk.js"
+    "revision": "58edc34487e8e66d462b",
+    "url": "/labwhat/static/css/main.101e6b10.chunk.css"
   },
   {
-    "revision": "e8fb213b3e1f9f51e05c",
-    "url": "/labwhat/static/js/1.e8fb213b.chunk.js"
+    "revision": "7409e47ee5c21786126f",
+    "url": "/labwhat/static/js/1.7409e47e.chunk.js"
   },
   {
     "revision": "62447b614a590b4256ff",
@@ -44,16 +44,16 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/ah.e96707cb.mp3"
   },
   {
-    "revision": "65a0a7bd5123ad00d7c338682d1c43d0",
-    "url": "/labwhat/static/media/je-vous-emmerde-et-je-rentre-a-ma-maison.65a0a7bd.mp3"
+    "revision": "58edc34487e8e66d462b",
+    "url": "/labwhat/static/js/main.58edc344.chunk.js"
   },
   {
     "revision": "ffc0f4e7eef8f28aaf7ea2d4d851ae0c",
     "url": "/labwhat/static/media/on-sen-bat-les-couilles.ffc0f4e7.mp3"
   },
   {
-    "revision": "c3b758efb78a47123604f1828f433775",
-    "url": "/labwhat/static/media/je-suis-pas-venue-ici-pour-souffrir-ok-cest-mon-choix.c3b758ef.mp3"
+    "revision": "6874477cd886edac5d7b22320a39ff00",
+    "url": "/labwhat/static/media/je-suis-pas-venue-ici-pour-souffrir-ok-cest-mon-choix.6874477c.mp3"
   },
   {
     "revision": "7259fc77c27c8336f7bc03e79dad4f29",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/kassos_lapin.f7a77756.mp3"
   },
   {
-    "revision": "7eedf08a4052c9f015bdd3d4bb71993d",
+    "revision": "b33ba11aab29154f2abbe7de243d7184",
     "url": "/labwhat/index.html"
   }
 ];
