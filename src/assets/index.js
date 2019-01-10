@@ -14,6 +14,7 @@ import {
     maisOuiCestClair,
     warcraft,
     kassosLapin,
+    drums,
 } from './data'
 import sncfSound from './jingle-sncf-hq.mp3'
 import surpriseSound from './surprise.mp3'
@@ -30,6 +31,7 @@ import issouSound from './issou.mp3'
 import maisOuiCestClairSound from './maisOuiCestClair.mp3'
 import warcraftSound from './warcraft.mp3'
 import kassosLapinSound from './kassos_lapin.mp3'
+import drums from 'drums.mp3'
 
 export { default as logo } from './logo.png'
 export { default as silence } from './silence.mp3'
@@ -125,4 +127,10 @@ export const data = {
         image: kassosLapin,
         sound: kassosLapinSound,
     },
+    16: {
+        id: 16,
+        name: 'Drums',
+        image: drums,
+        sound: drums,
+    }
 }
