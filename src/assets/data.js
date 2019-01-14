@@ -24,8 +24,8 @@ export const kassosLapin = [
         fill: 'rgb(212, 200, 204)',
         fillOpacity: '0.99',
     },
-    { d: 'M30,110L97,91L56,73Z', fill: 'rgb(62, 21, 44)', fillOpacity: '0.53' },
-    { d: 'M51,1L51,37L70,2Z', fill: 'rgb(131, 100, 65)', fillOpacity: '0.50' },
+    { d: 'M30,110L97,91L56,73Z', fill: 'rgb(62, 21, 44)', fillOpacity: '0.53', },
+    { d: 'M51,1L51,37L70,2Z', fill: 'rgb(131, 100, 65)', fillOpacity: '0.50', },
     {
         d: 'M166,95L209,82L114,66Z',
         fill: 'rgb(254, 212, 212)',
@@ -131,7 +131,7 @@ export const kassosLapin = [
         fill: 'rgb(44, 38, 57)',
         fillOpacity: '0.58',
     },
-    { d: 'M102,48L100,35L114,68Z', fill: 'rgb(5, 3, 9)', fillOpacity: '0.39' },
+    { d: 'M102,48L100,35L114,68Z', fill: 'rgb(5, 3, 9)', fillOpacity: '0.39', },
     {
         d: 'M225,13L170,13L201,-34Z',
         fill: 'rgb(247, 237, 226)',
@@ -232,7 +232,7 @@ export const kassosLapin = [
         fill: 'rgb(136, 71, 94)',
         fillOpacity: '0.64',
     },
-    { d: 'M84,88L82,75L27,103Z', fill: 'rgb(74, 52, 68)', fillOpacity: '0.59' },
+    { d: 'M84,88L82,75L27,103Z', fill: 'rgb(74, 52, 68)', fillOpacity: '0.59', },
     {
         d: 'M130,45L141,54L129,42Z',
         fill: 'rgb(69, 53, 55)',
@@ -248,7 +248,7 @@ export const kassosLapin = [
         fill: 'rgb(188, 104, 132)',
         fillOpacity: '0.51',
     },
-    { d: 'M42,118L59,115L47,120Z', fill: 'rgb(1, 0, 18)', fillOpacity: '0.51' },
+    { d: 'M42,118L59,115L47,120Z', fill: 'rgb(1, 0, 18)', fillOpacity: '0.51', },
     {
         d: 'M237,51L183,27L216,28Z',
         fill: 'rgb(241, 166, 189)',
@@ -264,7 +264,7 @@ export const kassosLapin = [
         fill: 'rgb(237, 155, 180)',
         fillOpacity: '0.45',
     },
-    { d: 'M50,4L49,16L67,-2Z', fill: 'rgb(150, 110, 61)', fillOpacity: '0.55' },
+    { d: 'M50,4L49,16L67,-2Z', fill: 'rgb(150, 110, 61)', fillOpacity: '0.55', },
     {
         d: 'M241,54L250,32L219,4Z',
         fill: 'rgb(202, 165, 196)',
@@ -325,7 +325,7 @@ export const kassosLapin = [
         fill: 'rgb(210, 126, 153)',
         fillOpacity: '0.35',
     },
-    { d: 'M123,26L133,33L141,48Z', fill: 'rgb(8, 3, 14)', fillOpacity: '0.44' },
+    { d: 'M123,26L133,33L141,48Z', fill: 'rgb(8, 3, 14)', fillOpacity: '0.44', },
     {
         d: 'M166,52L160,47L168,64Z',
         fill: 'rgb(73, 58, 72)',
@@ -421,7 +421,7 @@ export const kassosLapin = [
         fill: 'rgb(117, 72, 82)',
         fillOpacity: '0.48',
     },
-    { d: 'M40,89L43,89L40,76Z', fill: 'rgb(16, 0, 4)', fillOpacity: '0.55' },
+    { d: 'M40,89L43,89L40,76Z', fill: 'rgb(16, 0, 4)', fillOpacity: '0.55', },
     {
         d: 'M240,109L203,118L221,88Z',
         fill: 'rgb(13, 14, 14)',
@@ -482,7 +482,7 @@ export const kassosLapin = [
         fill: 'rgb(187, 181, 188)',
         fillOpacity: '0.82',
     },
-    { d: 'M218,49L204,36L216,45Z', fill: 'rgb(15, 0, 9)', fillOpacity: '0.51' },
+    { d: 'M218,49L204,36L216,45Z', fill: 'rgb(15, 0, 9)', fillOpacity: '0.51', },
     {
         d: 'M123,127L132,142L107,167Z',
         fill: 'rgb(53, 17, 29)',
@@ -503,7 +503,7 @@ export const kassosLapin = [
         fill: 'rgb(255, 176, 201)',
         fillOpacity: '0.48',
     },
-    { d: 'M94,97L99,81L95,109Z', fill: 'rgb(63, 34, 44)', fillOpacity: '0.53' },
+    { d: 'M94,97L99,81L95,109Z', fill: 'rgb(63, 34, 44)', fillOpacity: '0.53', },
     {
         d: 'M135,144L141,118L125,118Z',
         fill: 'rgb(124, 58, 77)',
@@ -534,7 +534,7 @@ export const kassosLapin = [
         fill: 'rgb(91, 51, 64)',
         fillOpacity: '0.51',
     },
-    { d: 'M87,87L100,90L75,90Z', fill: 'rgb(57, 39, 46)', fillOpacity: '0.58' },
+    { d: 'M87,87L100,90L75,90Z', fill: 'rgb(57, 39, 46)', fillOpacity: '0.58', },
     {
         d: 'M160,81L160,69L156,98Z',
         fill: 'rgb(84, 71, 74)',
@@ -605,7 +605,7 @@ export const kassosLapin = [
         fill: 'rgb(24, 14, 22)',
         fillOpacity: '0.53',
     },
-    { d: 'M84,77L82,79L65,77Z', fill: 'rgb(11, 7, 17)', fillOpacity: '0.66' },
+    { d: 'M84,77L82,79L65,77Z', fill: 'rgb(11, 7, 17)', fillOpacity: '0.66', },
     {
         d: 'M235,36L216,19L202,18Z',
         fill: 'rgb(233, 188, 202)',
@@ -729,7 +729,7 @@ export const warcraft = [
         fill: 'rgb(255, 255, 252)',
         fillOpacity: '0.61',
     },
-    { d: 'M2,65L104,247L140,2Z', fill: 'rgb(7, 6, 9)', fillOpacity: '0.72' },
+    { d: 'M2,65L104,247L140,2Z', fill: 'rgb(7, 6, 9)', fillOpacity: '0.72', },
     {
         d: 'M44,-3L45,51L34,48Z',
         fill: 'rgb(255, 241, 188)',
@@ -740,7 +740,7 @@ export const warcraft = [
         fill: 'rgb(145, 104, 70)',
         fillOpacity: '0.85',
     },
-    { d: 'M29,20L42,68L8,54Z', fill: 'rgb(18, 0, 0)', fillOpacity: '0.63' },
+    { d: 'M29,20L42,68L8,54Z', fill: 'rgb(18, 0, 0)', fillOpacity: '0.63', },
     {
         d: 'M107,92L140,69L192,157Z',
         fill: 'rgb(8, 16, 29)',
@@ -751,13 +751,13 @@ export const warcraft = [
         fill: 'rgb(252, 192, 132)',
         fillOpacity: '0.49',
     },
-    { d: 'M26,30L15,41L3,4Z', fill: 'rgb(244, 168, 81)', fillOpacity: '0.57' },
+    { d: 'M26,30L15,41L3,4Z', fill: 'rgb(244, 168, 81)', fillOpacity: '0.57', },
     {
         d: 'M58,37L30,11L74,-21Z',
         fill: 'rgb(255, 251, 196)',
         fillOpacity: '0.55',
     },
-    { d: 'M30,-8L22,12L32,37Z', fill: 'rgb(106, 49, 11)', fillOpacity: '0.63' },
+    { d: 'M30,-8L22,12L32,37Z', fill: 'rgb(106, 49, 11)', fillOpacity: '0.63', },
     {
         d: 'M6,63L19,118L10,123Z',
         fill: 'rgb(254, 243, 217)',
@@ -783,20 +783,20 @@ export const warcraft = [
         fill: 'rgb(55, 101, 122)',
         fillOpacity: '0.36',
     },
-    { d: 'M98,25L69,1L141,-2Z', fill: 'rgb(7, 13, 10)', fillOpacity: '0.55' },
+    { d: 'M98,25L69,1L141,-2Z', fill: 'rgb(7, 13, 10)', fillOpacity: '0.55', },
     {
         d: 'M244,80L235,135L232,76Z',
         fill: 'rgb(68, 86, 117)',
         fillOpacity: '0.68',
     },
-    { d: 'M73,126L-20,179L58,75Z', fill: 'rgb(8, 1, 4)', fillOpacity: '0.57' },
+    { d: 'M73,126L-20,179L58,75Z', fill: 'rgb(8, 1, 4)', fillOpacity: '0.57', },
     {
         d: 'M162,31L180,45L131,39Z',
         fill: 'rgb(15, 25, 40)',
         fillOpacity: '0.69',
     },
-    { d: 'M1,33L7,5L-17,3Z', fill: 'rgb(20, 0, 0)', fillOpacity: '0.61' },
-    { d: 'M42,56L50,22L64,52Z', fill: 'rgb(77, 30, 5)', fillOpacity: '0.48' },
+    { d: 'M1,33L7,5L-17,3Z', fill: 'rgb(20, 0, 0)', fillOpacity: '0.61', },
+    { d: 'M42,56L50,22L64,52Z', fill: 'rgb(77, 30, 5)', fillOpacity: '0.48', },
     {
         d: 'M7,1L13,31L28,-21Z',
         fill: 'rgb(254, 220, 149)',
@@ -822,8 +822,8 @@ export const warcraft = [
         fill: 'rgb(3, 3, 3)',
         fillOpacity: '0.85',
     },
-    { d: 'M249,48L261,68L246,-2Z', fill: 'rgb(0, 3, 22)', fillOpacity: '0.58' },
-    { d: 'M20,159L23,20L37,27Z', fill: 'rgb(20, 0, 0)', fillOpacity: '0.37' },
+    { d: 'M249,48L261,68L246,-2Z', fill: 'rgb(0, 3, 22)', fillOpacity: '0.58', },
+    { d: 'M20,159L23,20L37,27Z', fill: 'rgb(20, 0, 0)', fillOpacity: '0.37', },
     {
         d: 'M238,110L190,159L240,125Z',
         fill: 'rgb(86, 106, 137)',
@@ -834,19 +834,19 @@ export const warcraft = [
         fill: 'rgb(255, 252, 208)',
         fillOpacity: '0.41',
     },
-    { d: 'M38,48L1,76L-21,60Z', fill: 'rgb(21, 9, 11)', fillOpacity: '0.68' },
+    { d: 'M38,48L1,76L-21,60Z', fill: 'rgb(21, 9, 11)', fillOpacity: '0.68', },
     {
         d: 'M140,65L142,45L153,58Z',
         fill: 'rgb(148, 162, 160)',
         fillOpacity: '0.44',
     },
-    { d: 'M52,75L73,96L68,53Z', fill: 'rgb(77, 75, 93)', fillOpacity: '0.51' },
+    { d: 'M52,75L73,96L68,53Z', fill: 'rgb(77, 75, 93)', fillOpacity: '0.51', },
     {
         d: 'M252,50L240,68L259,67Z',
         fill: 'rgb(113, 160, 227)',
         fillOpacity: '0.33',
     },
-    { d: 'M-13,151L7,86L6,104Z', fill: 'rgb(123, 37, 0)', fillOpacity: '0.51' },
+    { d: 'M-13,151L7,86L6,104Z', fill: 'rgb(123, 37, 0)', fillOpacity: '0.51', },
     {
         d: 'M230,-31L181,23L142,12Z',
         fill: 'rgb(123, 145, 137)',
@@ -887,13 +887,13 @@ export const warcraft = [
         fill: 'rgb(255, 142, 51)',
         fillOpacity: '0.36',
     },
-    { d: 'M24,41L4,21L3,40Z', fill: 'rgb(133, 63, 11)', fillOpacity: '0.49' },
+    { d: 'M24,41L4,21L3,40Z', fill: 'rgb(133, 63, 11)', fillOpacity: '0.49', },
     {
         d: 'M138,145L132,115L127,133Z',
         fill: 'rgb(75, 104, 157)',
         fillOpacity: '0.43',
     },
-    { d: 'M43,128L18,66L58,39Z', fill: 'rgb(7, 4, 4)', fillOpacity: '0.83' },
+    { d: 'M43,128L18,66L58,39Z', fill: 'rgb(7, 4, 4)', fillOpacity: '0.83', },
     {
         d: 'M194,16L157,29L176,49Z',
         fill: 'rgb(34, 47, 68)',
@@ -904,8 +904,8 @@ export const warcraft = [
         fill: 'rgb(43, 57, 63)',
         fillOpacity: '1.00',
     },
-    { d: 'M-5,51L1,32L6,51Z', fill: 'rgb(255, 255, 238)', fillOpacity: '0.66' },
-    { d: 'M65,29L120,300L107,-3Z', fill: 'rgb(2, 2, 3)', fillOpacity: '0.40' },
+    { d: 'M-5,51L1,32L6,51Z', fill: 'rgb(255, 255, 238)', fillOpacity: '0.66', },
+    { d: 'M65,29L120,300L107,-3Z', fill: 'rgb(2, 2, 3)', fillOpacity: '0.40', },
     {
         d: 'M234,-17L258,-12L259,15Z',
         fill: 'rgb(94, 155, 236)',
@@ -926,8 +926,8 @@ export const warcraft = [
         fill: 'rgb(18, 31, 46)',
         fillOpacity: '0.67',
     },
-    { d: 'M5,28L26,2L26,38Z', fill: 'rgb(226, 147, 66)', fillOpacity: '0.30' },
-    { d: 'M59,52L69,39L76,67Z', fill: 'rgb(145, 84, 40)', fillOpacity: '0.40' },
+    { d: 'M5,28L26,2L26,38Z', fill: 'rgb(226, 147, 66)', fillOpacity: '0.30', },
+    { d: 'M59,52L69,39L76,67Z', fill: 'rgb(145, 84, 40)', fillOpacity: '0.40', },
     {
         d: 'M192,30L196,107L186,31Z',
         fill: 'rgb(113, 132, 141)',
@@ -963,7 +963,7 @@ export const warcraft = [
         fill: 'rgb(67, 91, 82)',
         fillOpacity: '0.46',
     },
-    { d: 'M21,76L9,72L16,112Z', fill: 'rgb(155, 87, 42)', fillOpacity: '0.36' },
+    { d: 'M21,76L9,72L16,112Z', fill: 'rgb(155, 87, 42)', fillOpacity: '0.36', },
     {
         d: 'M57,3L61,45L44,-1Z',
         fill: 'rgb(255, 239, 186)',
@@ -979,7 +979,7 @@ export const warcraft = [
         fill: 'rgb(88, 60, 48)',
         fillOpacity: '0.54',
     },
-    { d: 'M8,9L2,-7L5,43Z', fill: 'rgb(113, 59, 20)', fillOpacity: '0.57' },
+    { d: 'M8,9L2,-7L5,43Z', fill: 'rgb(113, 59, 20)', fillOpacity: '0.57', },
     {
         d: 'M35,21L47,-20L46,37Z',
         fill: 'rgb(255, 244, 201)',
@@ -990,8 +990,8 @@ export const warcraft = [
         fill: 'rgb(7, 9, 16)',
         fillOpacity: '0.67',
     },
-    { d: 'M150,39L171,45L156,30Z', fill: 'rgb(0, 2, 7)', fillOpacity: '0.50' },
-    { d: 'M237,6L244,32L255,-21Z', fill: 'rgb(0, 0, 2)', fillOpacity: '0.57' },
+    { d: 'M150,39L171,45L156,30Z', fill: 'rgb(0, 2, 7)', fillOpacity: '0.50', },
+    { d: 'M237,6L244,32L255,-21Z', fill: 'rgb(0, 0, 2)', fillOpacity: '0.57', },
     {
         d: 'M209,-24L210,37L186,34Z',
         fill: 'rgb(73, 97, 132)',
@@ -1012,17 +1012,17 @@ export const warcraft = [
         fill: 'rgb(102, 118, 153)',
         fillOpacity: '0.48',
     },
-    { d: 'M3,91L8,107L1,108Z', fill: 'rgb(114, 50, 30)', fillOpacity: '0.46' },
-    { d: 'M65,42L58,18L77,30Z', fill: 'rgb(110, 38, 0)', fillOpacity: '0.36' },
-    { d: 'M151,45L119,5L82,34Z', fill: 'rgb(45, 57, 66)', fillOpacity: '0.54' },
-    { d: 'M19,35L7,73L1,54Z', fill: 'rgb(49, 27, 34)', fillOpacity: '0.48' },
-    { d: 'M219,1L222,131L188,138Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.28' },
+    { d: 'M3,91L8,107L1,108Z', fill: 'rgb(114, 50, 30)', fillOpacity: '0.46', },
+    { d: 'M65,42L58,18L77,30Z', fill: 'rgb(110, 38, 0)', fillOpacity: '0.36', },
+    { d: 'M151,45L119,5L82,34Z', fill: 'rgb(45, 57, 66)', fillOpacity: '0.54', },
+    { d: 'M19,35L7,73L1,54Z', fill: 'rgb(49, 27, 34)', fillOpacity: '0.48', },
+    { d: 'M219,1L222,131L188,138Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.28', },
     {
         d: 'M161,179L133,105L132,118Z',
         fill: 'rgb(0, 4, 8)',
         fillOpacity: '0.52',
     },
-    { d: 'M236,72L240,44L245,72Z', fill: 'rgb(5, 7, 17)', fillOpacity: '0.73' },
+    { d: 'M236,72L240,44L245,72Z', fill: 'rgb(5, 7, 17)', fillOpacity: '0.73', },
     {
         d: 'M166,32L170,27L169,33Z',
         fill: 'rgb(221, 212, 242)',
@@ -1083,7 +1083,7 @@ export const warcraft = [
         fill: 'rgb(253, 208, 148)',
         fillOpacity: '0.52',
     },
-    { d: 'M95,107L56,133L79,88Z', fill: 'rgb(7, 5, 6)', fillOpacity: '0.75' },
+    { d: 'M95,107L56,133L79,88Z', fill: 'rgb(7, 5, 6)', fillOpacity: '0.75', },
     {
         d: 'M153,49L189,76L142,48Z',
         fill: 'rgb(21, 35, 16)',
@@ -1109,22 +1109,22 @@ export const warcraft = [
         fill: 'rgb(178, 110, 60)',
         fillOpacity: '0.41',
     },
-    { d: 'M29,26L32,0L18,37Z', fill: 'rgb(131, 79, 38)', fillOpacity: '0.51' },
-    { d: 'M5,41L16,35L3,55Z', fill: 'rgb(189, 120, 65)', fillOpacity: '0.44' },
-    { d: 'M71,171L123,126L80,116Z', fill: 'rgb(3, 2, 2)', fillOpacity: '0.69' },
-    { d: 'M26,115L81,116L14,40Z', fill: 'rgb(9, 5, 6)', fillOpacity: '0.80' },
+    { d: 'M29,26L32,0L18,37Z', fill: 'rgb(131, 79, 38)', fillOpacity: '0.51', },
+    { d: 'M5,41L16,35L3,55Z', fill: 'rgb(189, 120, 65)', fillOpacity: '0.44', },
+    { d: 'M71,171L123,126L80,116Z', fill: 'rgb(3, 2, 2)', fillOpacity: '0.69', },
+    { d: 'M26,115L81,116L14,40Z', fill: 'rgb(9, 5, 6)', fillOpacity: '0.80', },
     {
         d: 'M16,121L21,171L60,148Z',
         fill: 'rgb(37, 20, 19)',
         fillOpacity: '0.49',
     },
-    { d: 'M67,60L72,76L83,46Z', fill: 'rgb(38, 17, 7)', fillOpacity: '0.52' },
+    { d: 'M67,60L72,76L83,46Z', fill: 'rgb(38, 17, 7)', fillOpacity: '0.52', },
     {
         d: 'M269,159L239,113L250,72Z',
         fill: 'rgb(3, 4, 9)',
         fillOpacity: '0.58',
     },
-    { d: 'M60,94L71,70L75,94Z', fill: 'rgb(33, 46, 67)', fillOpacity: '0.56' },
+    { d: 'M60,94L71,70L75,94Z', fill: 'rgb(33, 46, 67)', fillOpacity: '0.56', },
     {
         d: 'M255,0L249,10L259,24Z',
         fill: 'rgb(90, 119, 167)',
@@ -1135,7 +1135,7 @@ export const warcraft = [
         fill: 'rgb(198, 108, 59)',
         fillOpacity: '0.42',
     },
-    { d: 'M257,31L248,2L235,29Z', fill: 'rgb(3, 4, 9)', fillOpacity: '0.64' },
+    { d: 'M257,31L248,2L235,29Z', fill: 'rgb(3, 4, 9)', fillOpacity: '0.64', },
     {
         d: 'M241,1L207,15L197,-8Z',
         fill: 'rgb(21, 49, 82)',
@@ -1151,7 +1151,7 @@ export const warcraft = [
         fill: 'rgb(255, 255, 210)',
         fillOpacity: '0.26',
     },
-    { d: 'M85,95L87,84L92,98Z', fill: 'rgb(42, 50, 91)', fillOpacity: '0.53' },
+    { d: 'M85,95L87,84L92,98Z', fill: 'rgb(42, 50, 91)', fillOpacity: '0.53', },
     {
         d: 'M144,81L126,108L136,67Z',
         fill: 'rgb(1, 4, 13)',
@@ -1182,8 +1182,8 @@ export const warcraft = [
         fill: 'rgb(78, 103, 96)',
         fillOpacity: '0.42',
     },
-    { d: 'M18,8L18,-19L5,7Z', fill: 'rgb(254, 237, 181)', fillOpacity: '0.48' },
-    { d: 'M28,37L34,24L13,41Z', fill: 'rgb(104, 58, 28)', fillOpacity: '0.49' },
+    { d: 'M18,8L18,-19L5,7Z', fill: 'rgb(254, 237, 181)', fillOpacity: '0.48', },
+    { d: 'M28,37L34,24L13,41Z', fill: 'rgb(104, 58, 28)', fillOpacity: '0.49', },
     {
         d: 'M129,113L133,115L129,125Z',
         fill: 'rgb(102, 123, 178)',
@@ -1204,13 +1204,13 @@ export const warcraft = [
         fill: 'rgb(113, 157, 154)',
         fillOpacity: '0.25',
     },
-    { d: 'M217,90L239,60L211,4Z', fill: 'rgb(0, 3, 8)', fillOpacity: '0.52' },
+    { d: 'M217,90L239,60L211,4Z', fill: 'rgb(0, 3, 8)', fillOpacity: '0.52', },
     {
         d: 'M219,138L224,129L235,129Z',
         fill: 'rgb(121, 140, 173)',
         fillOpacity: '0.44',
     },
-    { d: 'M36,27L32,31L33,53Z', fill: 'rgb(78, 26, 0)', fillOpacity: '0.44' },
+    { d: 'M36,27L32,31L33,53Z', fill: 'rgb(78, 26, 0)', fillOpacity: '0.44', },
     {
         d: 'M240,103L236,103L243,74Z',
         fill: 'rgb(102, 118, 152)',
@@ -1221,14 +1221,14 @@ export const warcraft = [
         fill: 'rgb(124, 143, 175)',
         fillOpacity: '0.51',
     },
-    { d: 'M4,75L4,78L-3,68Z', fill: 'rgb(97, 47, 0)', fillOpacity: '0.66' },
-    { d: 'M25,8L5,16L16,24Z', fill: 'rgb(235, 194, 121)', fillOpacity: '0.41' },
+    { d: 'M4,75L4,78L-3,68Z', fill: 'rgb(97, 47, 0)', fillOpacity: '0.66', },
+    { d: 'M25,8L5,16L16,24Z', fill: 'rgb(235, 194, 121)', fillOpacity: '0.41', },
     {
         d: 'M170,21L144,40L146,-61Z',
         fill: 'rgb(83, 100, 116)',
         fillOpacity: '0.40',
     },
-    { d: 'M211,113L192,56L195,41Z', fill: 'rgb(0, 0, 5)', fillOpacity: '0.50' },
+    { d: 'M211,113L192,56L195,41Z', fill: 'rgb(0, 0, 5)', fillOpacity: '0.50', },
     {
         d: 'M154,80L147,60L146,82Z',
         fill: 'rgb(33, 41, 33)',
@@ -1254,13 +1254,13 @@ export const warcraft = [
         fill: 'rgb(46, 67, 111)',
         fillOpacity: '0.47',
     },
-    { d: 'M14,89L19,70L30,134Z', fill: 'rgb(51, 39, 43)', fillOpacity: '0.63' },
+    { d: 'M14,89L19,70L30,134Z', fill: 'rgb(51, 39, 43)', fillOpacity: '0.63', },
     {
         d: 'M118,65L129,79L146,59Z',
         fill: 'rgb(61, 74, 87)',
         fillOpacity: '0.51',
     },
-    { d: 'M75,27L68,9L63,26Z', fill: 'rgb(213, 139, 58)', fillOpacity: '0.36' },
+    { d: 'M75,27L68,9L63,26Z', fill: 'rgb(213, 139, 58)', fillOpacity: '0.36', },
     {
         d: 'M239,124L208,140L195,155Z',
         fill: 'rgb(109, 132, 164)',
@@ -1281,8 +1281,8 @@ export const warcraft = [
         fill: 'rgb(74, 86, 122)',
         fillOpacity: '0.52',
     },
-    { d: 'M9,27L-13,43L-4,0Z', fill: 'rgb(21, 0, 0)', fillOpacity: '0.49' },
-    { d: 'M3,137L3,121L-2,108Z', fill: 'rgb(142, 51, 8)', fillOpacity: '0.46' },
+    { d: 'M9,27L-13,43L-4,0Z', fill: 'rgb(21, 0, 0)', fillOpacity: '0.49', },
+    { d: 'M3,137L3,121L-2,108Z', fill: 'rgb(142, 51, 8)', fillOpacity: '0.46', },
     {
         d: 'M64,147L68,134L61,148Z',
         fill: 'rgb(255, 225, 184)',
@@ -1298,8 +1298,8 @@ export const warcraft = [
         fill: 'rgb(20, 31, 44)',
         fillOpacity: '0.43',
     },
-    { d: 'M64,50L73,82L61,72Z', fill: 'rgb(84, 88, 104)', fillOpacity: '0.44' },
-    { d: 'M61,46L56,44L54,83Z', fill: 'rgb(10, 2, 1)', fillOpacity: '0.54' },
+    { d: 'M64,50L73,82L61,72Z', fill: 'rgb(84, 88, 104)', fillOpacity: '0.44', },
+    { d: 'M61,46L56,44L54,83Z', fill: 'rgb(10, 2, 1)', fillOpacity: '0.54', },
     {
         d: 'M192,52L201,13L186,-10Z',
         fill: 'rgb(116, 134, 87)',
@@ -1315,8 +1315,8 @@ export const warcraft = [
         fill: 'rgb(44, 59, 87)',
         fillOpacity: '0.47',
     },
-    { d: 'M101,-3L93,18L76,-1Z', fill: 'rgb(15, 14, 19)', fillOpacity: '0.50' },
-    { d: 'M3,104L8,93L4,74Z', fill: 'rgb(158, 105, 55)', fillOpacity: '0.45' },
+    { d: 'M101,-3L93,18L76,-1Z', fill: 'rgb(15, 14, 19)', fillOpacity: '0.50', },
+    { d: 'M3,104L8,93L4,74Z', fill: 'rgb(158, 105, 55)', fillOpacity: '0.45', },
     {
         d: 'M70,-62L33,19L32,4Z',
         fill: 'rgb(235, 196, 131)',
@@ -1327,8 +1327,8 @@ export const warcraft = [
         fill: 'rgb(255, 254, 214)',
         fillOpacity: '0.38',
     },
-    { d: 'M17,51L34,34L30,63Z', fill: 'rgb(1, 1, 0)', fillOpacity: '0.49' },
-    { d: 'M74,11L75,7L89,8Z', fill: 'rgb(109, 70, 38)', fillOpacity: '0.49' },
+    { d: 'M17,51L34,34L30,63Z', fill: 'rgb(1, 1, 0)', fillOpacity: '0.49', },
+    { d: 'M74,11L75,7L89,8Z', fill: 'rgb(109, 70, 38)', fillOpacity: '0.49', },
     {
         d: 'M115,90L144,97L155,89Z',
         fill: 'rgb(34, 51, 73)',
@@ -1349,7 +1349,7 @@ export const warcraft = [
         fill: 'rgb(58, 81, 85)',
         fillOpacity: '0.41',
     },
-    { d: 'M1,73L-20,68L18,70Z', fill: 'rgb(77, 32, 5)', fillOpacity: '0.53' },
+    { d: 'M1,73L-20,68L18,70Z', fill: 'rgb(77, 32, 5)', fillOpacity: '0.53', },
     {
         d: 'M33,30L37,25L30,17Z',
         fill: 'rgb(213, 141, 65)',
@@ -1370,7 +1370,7 @@ export const warcraft = [
         fill: 'rgb(255, 255, 244)',
         fillOpacity: '0.49',
     },
-    { d: 'M27,14L27,-5L35,-3Z', fill: 'rgb(112, 63, 26)', fillOpacity: '0.61' },
+    { d: 'M27,14L27,-5L35,-3Z', fill: 'rgb(112, 63, 26)', fillOpacity: '0.61', },
     {
         d: 'M5,49L2,32L-20,71Z',
         fill: 'rgb(255, 255, 238)',
@@ -1421,9 +1421,9 @@ export const warcraft = [
         fill: 'rgb(208, 159, 114)',
         fillOpacity: '0.52',
     },
-    { d: 'M63,32L73,55L77,21Z', fill: 'rgb(59, 30, 19)', fillOpacity: '0.49' },
-    { d: 'M6,93L0,108L5,106Z', fill: 'rgb(114, 58, 36)', fillOpacity: '0.57' },
-    { d: 'M25,25L30,22L30,10Z', fill: 'rgb(75, 34, 8)', fillOpacity: '0.47' },
+    { d: 'M63,32L73,55L77,21Z', fill: 'rgb(59, 30, 19)', fillOpacity: '0.49', },
+    { d: 'M6,93L0,108L5,106Z', fill: 'rgb(114, 58, 36)', fillOpacity: '0.57', },
+    { d: 'M25,25L30,22L30,10Z', fill: 'rgb(75, 34, 8)', fillOpacity: '0.47', },
     {
         d: 'M215,40L211,44L205,16Z',
         fill: 'rgb(63, 73, 114)',
@@ -1439,7 +1439,7 @@ export const warcraft = [
         fill: 'rgb(84, 109, 105)',
         fillOpacity: '0.50',
     },
-    { d: 'M85,27L98,110L66,30Z', fill: 'rgb(10, 10, 12)', fillOpacity: '0.39' },
+    { d: 'M85,27L98,110L66,30Z', fill: 'rgb(10, 10, 12)', fillOpacity: '0.39', },
     {
         d: 'M60,46L60,31L72,55Z',
         fill: 'rgb(219, 155, 74)',
@@ -1450,19 +1450,19 @@ export const warcraft = [
         fill: 'rgb(253, 224, 156)',
         fillOpacity: '0.53',
     },
-    { d: 'M4,59L11,50L9,71Z', fill: 'rgb(40, 43, 69)', fillOpacity: '0.42' },
+    { d: 'M4,59L11,50L9,71Z', fill: 'rgb(40, 43, 69)', fillOpacity: '0.42', },
     {
         d: 'M178,81L192,42L179,105Z',
         fill: 'rgb(8, 14, 16)',
         fillOpacity: '0.46',
     },
-    { d: 'M112,79L142,85L128,88Z', fill: 'rgb(0, 2, 6)', fillOpacity: '0.57' },
+    { d: 'M112,79L142,85L128,88Z', fill: 'rgb(0, 2, 6)', fillOpacity: '0.57', },
     {
         d: 'M143,74L146,73L141,69Z',
         fill: 'rgb(205, 226, 253)',
         fillOpacity: '0.40',
     },
-    { d: 'M125,71L111,98L93,95Z', fill: 'rgb(7, 11, 21)', fillOpacity: '0.60' },
+    { d: 'M125,71L111,98L93,95Z', fill: 'rgb(7, 11, 21)', fillOpacity: '0.60', },
     {
         d: 'M243,98L324,101L244,69Z',
         fill: 'rgb(8, 12, 27)',
@@ -1606,7 +1606,7 @@ export const issou = [
         fill: 'rgb(255, 229, 229)',
         fillOpacity: '0.46',
     },
-    { d: 'M102,2L23,24L84,35Z', fill: 'rgb(191, 0, 145)', fillOpacity: '0.56' },
+    { d: 'M102,2L23,24L84,35Z', fill: 'rgb(191, 0, 145)', fillOpacity: '0.56', },
     {
         d: 'M147,65L133,40L168,36Z',
         fill: 'rgb(149, 65, 52)',
@@ -1687,7 +1687,7 @@ export const issou = [
         fill: 'rgb(203, 97, 83)',
         fillOpacity: '0.62',
     },
-    { d: 'M3,111L4,86L-28,89Z', fill: 'rgb(61, 1, 41)', fillOpacity: '0.57' },
+    { d: 'M3,111L4,86L-28,89Z', fill: 'rgb(61, 1, 41)', fillOpacity: '0.57', },
     {
         d: 'M172,60L167,86L151,75Z',
         fill: 'rgb(254, 130, 97)',
@@ -1718,7 +1718,7 @@ export const issou = [
         fill: 'rgb(197, 0, 89)',
         fillOpacity: '0.58',
     },
-    { d: 'M73,34L78,20L15,24Z', fill: 'rgb(227, 4, 136)', fillOpacity: '0.34' },
+    { d: 'M73,34L78,20L15,24Z', fill: 'rgb(227, 4, 136)', fillOpacity: '0.34', },
     {
         d: 'M106,55L112,66L119,54Z',
         fill: 'rgb(113, 59, 41)',
@@ -1809,13 +1809,13 @@ export const issou = [
         fill: 'rgb(224, 24, 121)',
         fillOpacity: '0.68',
     },
-    { d: 'M210,21L206,4L196,19Z', fill: 'rgb(67, 0, 28)', fillOpacity: '0.45' },
+    { d: 'M210,21L206,4L196,19Z', fill: 'rgb(67, 0, 28)', fillOpacity: '0.45', },
     {
         d: 'M17,158L40,139L35,128Z',
         fill: 'rgb(175, 96, 140)',
         fillOpacity: '0.48',
     },
-    { d: 'M99,50L7,51L17,15Z', fill: 'rgb(191, 0, 95)', fillOpacity: '0.57' },
+    { d: 'M99,50L7,51L17,15Z', fill: 'rgb(191, 0, 95)', fillOpacity: '0.57', },
     {
         d: 'M114,93L124,108L127,80Z',
         fill: 'rgb(79, 39, 32)',
@@ -1826,7 +1826,7 @@ export const issou = [
         fill: 'rgb(253, 204, 208)',
         fillOpacity: '0.46',
     },
-    { d: 'M74,67L96,97L95,48Z', fill: 'rgb(167, 3, 78)', fillOpacity: '0.62' },
+    { d: 'M74,67L96,97L95,48Z', fill: 'rgb(167, 3, 78)', fillOpacity: '0.62', },
     {
         d: 'M256,94L244,70L256,4Z',
         fill: 'rgb(231, 0, 89)',
@@ -1892,7 +1892,7 @@ export const issou = [
         fill: 'rgb(103, 48, 24)',
         fillOpacity: '0.51',
     },
-    { d: 'M33,135L4,81L23,50Z', fill: 'rgb(167, 2, 96)', fillOpacity: '0.91' },
+    { d: 'M33,135L4,81L23,50Z', fill: 'rgb(167, 2, 96)', fillOpacity: '0.91', },
     {
         d: 'M148,84L137,83L146,93Z',
         fill: 'rgb(78, 32, 20)',
@@ -1968,7 +1968,7 @@ export const issou = [
         fill: 'rgb(141, 71, 48)',
         fillOpacity: '0.53',
     },
-    { d: 'M78,28L77,81L30,74Z', fill: 'rgb(195, 0, 103)', fillOpacity: '0.72' },
+    { d: 'M78,28L77,81L30,74Z', fill: 'rgb(195, 0, 103)', fillOpacity: '0.72', },
     {
         d: 'M243,59L240,11L306,80Z',
         fill: 'rgb(255, 0, 103)',
@@ -2014,8 +2014,8 @@ export const issou = [
         fill: 'rgb(208, 114, 67)',
         fillOpacity: '0.39',
     },
-    { d: 'M3,89L-30,54L3,62Z', fill: 'rgb(111, 0, 61)', fillOpacity: '0.58' },
-    { d: 'M50,-2L72,16L26,21Z', fill: 'rgb(171, 0, 120)', fillOpacity: '0.44' },
+    { d: 'M3,89L-30,54L3,62Z', fill: 'rgb(111, 0, 61)', fillOpacity: '0.58', },
+    { d: 'M50,-2L72,16L26,21Z', fill: 'rgb(171, 0, 120)', fillOpacity: '0.44', },
     {
         d: 'M208,6L207,34L217,32Z',
         fill: 'rgb(158, 13, 73)',
@@ -2101,8 +2101,8 @@ export const issou = [
         fill: 'rgb(170, 141, 144)',
         fillOpacity: '0.51',
     },
-    { d: 'M51,9L96,28L99,7Z', fill: 'rgb(170, 1, 128)', fillOpacity: '0.54' },
-    { d: 'M45,74L77,92L24,87Z', fill: 'rgb(241, 4, 116)', fillOpacity: '0.30' },
+    { d: 'M51,9L96,28L99,7Z', fill: 'rgb(170, 1, 128)', fillOpacity: '0.54', },
+    { d: 'M45,74L77,92L24,87Z', fill: 'rgb(241, 4, 116)', fillOpacity: '0.30', },
     {
         d: 'M121,123L121,129L113,110Z',
         fill: 'rgb(55, 5, 6)',
@@ -2133,7 +2133,7 @@ export const issou = [
         fill: 'rgb(174, 127, 103)',
         fillOpacity: '0.56',
     },
-    { d: 'M98,68L103,44L98,8Z', fill: 'rgb(140, 22, 79)', fillOpacity: '0.59' },
+    { d: 'M98,68L103,44L98,8Z', fill: 'rgb(140, 22, 79)', fillOpacity: '0.59', },
     {
         d: 'M237,91L278,119L274,96Z',
         fill: 'rgb(255, 221, 225)',
@@ -2174,7 +2174,7 @@ export const issou = [
         fill: 'rgb(186, 111, 68)',
         fillOpacity: '0.47',
     },
-    { d: 'M95,64L13,66L30,38Z', fill: 'rgb(215, 3, 125)', fillOpacity: '0.18' },
+    { d: 'M95,64L13,66L30,38Z', fill: 'rgb(215, 3, 125)', fillOpacity: '0.18', },
 ]
 
 export const kaaris = [
@@ -2193,7 +2193,7 @@ export const kaaris = [
         fill: 'rgb(153, 107, 91)',
         fillOpacity: '0.72',
     },
-    { d: 'M96,44L119,137L157,117Z', fill: 'rgb(5, 5, 2)', fillOpacity: '0.55' },
+    { d: 'M96,44L119,137L157,117Z', fill: 'rgb(5, 5, 2)', fillOpacity: '0.55', },
     {
         d: 'M127,126L43,85L10,248Z',
         fill: 'rgb(156, 165, 175)',
@@ -2639,7 +2639,7 @@ export const kaaris = [
         fill: 'rgb(157, 163, 172)',
         fillOpacity: '0.42',
     },
-    { d: 'M138,83L130,83L147,79Z', fill: 'rgb(28, 2, 0)', fillOpacity: '0.47' },
+    { d: 'M138,83L130,83L147,79Z', fill: 'rgb(28, 2, 0)', fillOpacity: '0.47', },
     {
         d: 'M117,95L115,104L148,105Z',
         fill: 'rgb(84, 59, 44)',
@@ -2948,7 +2948,7 @@ export const jojobernard = [
         fill: 'rgb(237, 223, 211)',
         fillOpacity: '0.50',
     },
-    { d: 'M259,51L241,17L307,25Z', fill: 'rgb(5, 4, 15)', fillOpacity: '0.54' },
+    { d: 'M259,51L241,17L307,25Z', fill: 'rgb(5, 4, 15)', fillOpacity: '0.54', },
     {
         d: 'M92,58L77,105L25,39Z',
         fill: 'rgb(223, 247, 255)',
@@ -3014,7 +3014,7 @@ export const jojobernard = [
         fill: 'rgb(127, 138, 176)',
         fillOpacity: '0.44',
     },
-    { d: 'M243,51L239,20L194,26Z', fill: 'rgb(9, 2, 12)', fillOpacity: '0.31' },
+    { d: 'M243,51L239,20L194,26Z', fill: 'rgb(9, 2, 12)', fillOpacity: '0.31', },
     {
         d: 'M71,96L104,60L115,73Z',
         fill: 'rgb(69, 84, 136)',
@@ -3035,7 +3035,7 @@ export const jojobernard = [
         fill: 'rgb(129, 117, 54)',
         fillOpacity: '0.71',
     },
-    { d: 'M180,24L175,1L212,7Z', fill: 'rgb(70, 61, 49)', fillOpacity: '0.49' },
+    { d: 'M180,24L175,1L212,7Z', fill: 'rgb(70, 61, 49)', fillOpacity: '0.49', },
     {
         d: 'M8,126L58,137L7,142Z',
         fill: 'rgb(255, 240, 222)',
@@ -3111,7 +3111,7 @@ export const jojobernard = [
         fill: 'rgb(34, 35, 53)',
         fillOpacity: '0.79',
     },
-    { d: 'M216,93L203,81L254,87Z', fill: 'rgb(0, 0, 10)', fillOpacity: '0.41' },
+    { d: 'M216,93L203,81L254,87Z', fill: 'rgb(0, 0, 10)', fillOpacity: '0.41', },
     {
         d: 'M112,61L118,184L90,63Z',
         fill: 'rgb(57, 68, 108)',
@@ -3197,7 +3197,7 @@ export const jojobernard = [
         fill: 'rgb(124, 68, 78)',
         fillOpacity: '0.53',
     },
-    { d: 'M66,90L59,98L76,92Z', fill: 'rgb(62, 36, 47)', fillOpacity: '0.40' },
+    { d: 'M66,90L59,98L76,92Z', fill: 'rgb(62, 36, 47)', fillOpacity: '0.40', },
     {
         d: 'M123,28L125,39L112,35Z',
         fill: 'rgb(244, 208, 219)',
@@ -3338,7 +3338,7 @@ export const jojobernard = [
         fill: 'rgb(108, 90, 100)',
         fillOpacity: '0.53',
     },
-    { d: 'M27,3L24,34L2,17Z', fill: 'rgb(124, 111, 105)', fillOpacity: '0.47' },
+    { d: 'M27,3L24,34L2,17Z', fill: 'rgb(124, 111, 105)', fillOpacity: '0.47', },
     {
         d: 'M320,77L229,52L246,40Z',
         fill: 'rgb(159, 174, 180)',
@@ -3449,7 +3449,7 @@ export const jojobernard = [
         fill: 'rgb(183, 130, 139)',
         fillOpacity: '0.55',
     },
-    { d: 'M185,14L203,5L185,5Z', fill: 'rgb(14, 9, 18)', fillOpacity: '0.41' },
+    { d: 'M185,14L203,5L185,5Z', fill: 'rgb(14, 9, 18)', fillOpacity: '0.41', },
     {
         d: 'M107,147L116,103L142,145Z',
         fill: 'rgb(31, 34, 60)',
@@ -3590,7 +3590,7 @@ export const jojobernard = [
         fill: 'rgb(83, 95, 139)',
         fillOpacity: '0.52',
     },
-    { d: 'M91,63L88,77L95,74Z', fill: 'rgb(48, 61, 108)', fillOpacity: '0.60' },
+    { d: 'M91,63L88,77L95,74Z', fill: 'rgb(48, 61, 108)', fillOpacity: '0.60', },
     {
         d: 'M31,142L33,150L56,146Z',
         fill: 'rgb(243, 220, 173)',
@@ -3676,8 +3676,8 @@ export const jojobernard = [
         fill: 'rgb(54, 62, 69)',
         fillOpacity: '0.49',
     },
-    { d: 'M51,79L48,102L53,96Z', fill: 'rgb(84, 79, 99)', fillOpacity: '0.54' },
-    { d: 'M237,102L239,94L237,82Z', fill: 'rgb(1, 1, 7)', fillOpacity: '0.48' },
+    { d: 'M51,79L48,102L53,96Z', fill: 'rgb(84, 79, 99)', fillOpacity: '0.54', },
+    { d: 'M237,102L239,94L237,82Z', fill: 'rgb(1, 1, 7)', fillOpacity: '0.48', },
     {
         d: 'M247,42L250,18L280,46Z',
         fill: 'rgb(27, 22, 31)',
@@ -3698,7 +3698,7 @@ export const jojobernard = [
         fill: 'rgb(38, 46, 111)',
         fillOpacity: '0.50',
     },
-    { d: 'M64,94L77,89L72,95Z', fill: 'rgb(71, 58, 66)', fillOpacity: '0.43' },
+    { d: 'M64,94L77,89L72,95Z', fill: 'rgb(71, 58, 66)', fillOpacity: '0.43', },
     {
         d: 'M202,119L224,140L232,128Z',
         fill: 'rgb(103, 95, 100)',
@@ -3854,7 +3854,7 @@ export const jojobernard = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.31',
     },
-    { d: 'M33,82L23,102L11,95Z', fill: 'rgb(95, 94, 93)', fillOpacity: '0.44' },
+    { d: 'M33,82L23,102L11,95Z', fill: 'rgb(95, 94, 93)', fillOpacity: '0.44', },
     {
         d: 'M71,65L114,58L107,47Z',
         fill: 'rgb(223, 246, 255)',
@@ -4003,8 +4003,8 @@ export const pedobear = [
         fill: 'rgb(252, 252, 252)',
         fillOpacity: '1.00',
     },
-    { d: 'M115,84L84,97L114,105Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.56' },
-    { d: 'M144,85L133,44L168,57Z', fill: 'rgb(2, 0, 0)', fillOpacity: '0.76' },
+    { d: 'M115,84L84,97L114,105Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.56', },
+    { d: 'M144,85L133,44L168,57Z', fill: 'rgb(2, 0, 0)', fillOpacity: '0.76', },
     {
         d: 'M59,20L78,3L39,-50Z',
         fill: 'rgb(255, 217, 128)',
@@ -4020,36 +4020,36 @@ export const pedobear = [
         fill: 'rgb(24, 16, 11)',
         fillOpacity: '0.68',
     },
-    { d: 'M55,143L65,146L50,120Z', fill: 'rgb(7, 8, 9)', fillOpacity: '0.84' },
-    { d: 'M203,35L211,-9L182,28Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.50' },
-    { d: 'M42,57L82,45L86,80Z', fill: 'rgb(1, 0, 0)', fillOpacity: '0.68' },
+    { d: 'M55,143L65,146L50,120Z', fill: 'rgb(7, 8, 9)', fillOpacity: '0.84', },
+    { d: 'M203,35L211,-9L182,28Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.50', },
+    { d: 'M42,57L82,45L86,80Z', fill: 'rgb(1, 0, 0)', fillOpacity: '0.68', },
     {
         d: 'M242,181L202,65L207,112Z',
         fill: 'rgb(252, 254, 255)',
         fillOpacity: '0.76',
     },
-    { d: 'M196,35L204,68L177,29Z', fill: 'rgb(1, 0, 1)', fillOpacity: '0.54' },
-    { d: 'M47,61L62,31L55,98Z', fill: 'rgb(141, 85, 45)', fillOpacity: '0.85' },
+    { d: 'M196,35L204,68L177,29Z', fill: 'rgb(1, 0, 1)', fillOpacity: '0.54', },
+    { d: 'M47,61L62,31L55,98Z', fill: 'rgb(141, 85, 45)', fillOpacity: '0.85', },
     {
         d: 'M116,113L144,113L120,155Z',
         fill: 'rgb(8, 1, 0)',
         fillOpacity: '0.54',
     },
-    { d: 'M23,110L41,118L21,123Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53' },
-    { d: 'M95,113L99,83L118,115Z', fill: 'rgb(0, 3, 7)', fillOpacity: '0.46' },
-    { d: 'M59,18L47,45L95,-8Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.58' },
+    { d: 'M23,110L41,118L21,123Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53', },
+    { d: 'M95,113L99,83L118,115Z', fill: 'rgb(0, 3, 7)', fillOpacity: '0.46', },
+    { d: 'M59,18L47,45L95,-8Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.58', },
     {
         d: 'M28,111L2,125L41,72Z',
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.64',
     },
-    { d: 'M192,74L203,80L205,120Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.63' },
+    { d: 'M192,74L203,80L205,120Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.63', },
     {
         d: 'M90,90L139,72L74,72Z',
         fill: 'rgb(187, 126, 68)',
         fillOpacity: '0.50',
     },
-    { d: 'M59,70L74,43L80,78Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.65' },
+    { d: 'M59,70L74,43L80,78Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.65', },
     {
         d: 'M121,81L117,93L105,80Z',
         fill: 'rgb(242, 203, 120)',
@@ -4080,14 +4080,14 @@ export const pedobear = [
         fill: 'rgb(252, 254, 255)',
         fillOpacity: '0.70',
     },
-    { d: 'M70,111L66,90L87,125Z', fill: 'rgb(8, 7, 4)', fillOpacity: '0.72' },
-    { d: 'M133,75L136,48L164,49Z', fill: 'rgb(3, 0, 0)', fillOpacity: '0.65' },
+    { d: 'M70,111L66,90L87,125Z', fill: 'rgb(8, 7, 4)', fillOpacity: '0.72', },
+    { d: 'M133,75L136,48L164,49Z', fill: 'rgb(3, 0, 0)', fillOpacity: '0.65', },
     {
         d: 'M106,107L130,83L132,116Z',
         fill: 'rgb(229, 188, 111)',
         fillOpacity: '0.63',
     },
-    { d: 'M87,98L110,86L102,83Z', fill: 'rgb(0, 7, 4)', fillOpacity: '0.55' },
+    { d: 'M87,98L110,86L102,83Z', fill: 'rgb(0, 7, 4)', fillOpacity: '0.55', },
     {
         d: 'M88,124L119,122L109,140Z',
         fill: 'rgb(255, 176, 219)',
@@ -4103,9 +4103,9 @@ export const pedobear = [
         fill: 'rgb(255, 177, 221)',
         fillOpacity: '0.45',
     },
-    { d: 'M53,32L56,-14L43,8Z', fill: 'rgb(0, 2, 7)', fillOpacity: '0.50' },
-    { d: 'M164,3L158,8L190,23Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.54' },
-    { d: 'M203,67L202,102L190,21Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.78' },
+    { d: 'M53,32L56,-14L43,8Z', fill: 'rgb(0, 2, 7)', fillOpacity: '0.50', },
+    { d: 'M164,3L158,8L190,23Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.54', },
+    { d: 'M203,67L202,102L190,21Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.78', },
     {
         d: 'M48,133L56,131L39,156Z',
         fill: 'rgb(242, 255, 255)',
@@ -4121,7 +4121,7 @@ export const pedobear = [
         fill: 'rgb(0, 0, 0)',
         fillOpacity: '0.47',
     },
-    { d: 'M37,132L53,126L42,139Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57' },
+    { d: 'M37,132L53,126L42,139Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57', },
     {
         d: 'M54,136L58,149L-27,161Z',
         fill: 'rgb(254, 255, 255)',
@@ -4142,13 +4142,13 @@ export const pedobear = [
         fill: 'rgb(143, 85, 45)',
         fillOpacity: '0.80',
     },
-    { d: 'M72,-4L84,7L96,-1Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.59' },
+    { d: 'M72,-4L84,7L96,-1Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.59', },
     {
         d: 'M110,78L81,84L121,85Z',
         fill: 'rgb(217, 178, 106)',
         fillOpacity: '0.61',
     },
-    { d: 'M67,91L81,80L68,110Z', fill: 'rgb(9, 8, 4)', fillOpacity: '0.57' },
+    { d: 'M67,91L81,80L68,110Z', fill: 'rgb(9, 8, 4)', fillOpacity: '0.57', },
     {
         d: 'M45,85L31,119L73,115Z',
         fill: 'rgb(171, 97, 47)',
@@ -4164,13 +4164,13 @@ export const pedobear = [
         fill: 'rgb(251, 202, 120)',
         fillOpacity: '0.43',
     },
-    { d: 'M55,28L94,-1L67,13Z', fill: 'rgb(1, 1, 1)', fillOpacity: '0.73' },
+    { d: 'M55,28L94,-1L67,13Z', fill: 'rgb(1, 1, 1)', fillOpacity: '0.73', },
     {
         d: 'M77,117L62,112L88,174Z',
         fill: 'rgb(165, 97, 50)',
         fillOpacity: '0.51',
     },
-    { d: 'M197,4L187,-18L194,20Z', fill: 'rgb(12, 8, 5)', fillOpacity: '0.83' },
+    { d: 'M197,4L187,-18L194,20Z', fill: 'rgb(12, 8, 5)', fillOpacity: '0.83', },
     {
         d: 'M115,115L112,138L97,113Z',
         fill: 'rgb(255, 170, 215)',
@@ -4191,15 +4191,15 @@ export const pedobear = [
         fill: 'rgb(11, 2, 0)',
         fillOpacity: '0.65',
     },
-    { d: 'M154,76L163,64L130,60Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57' },
+    { d: 'M154,76L163,64L130,60Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57', },
     {
         d: 'M200,163L135,-2L195,24Z',
         fill: 'rgb(87, 43, 14)',
         fillOpacity: '0.43',
     },
-    { d: 'M98,107L85,128L79,117Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53' },
-    { d: 'M134,92L134,80L148,101Z', fill: 'rgb(1, 4, 2)', fillOpacity: '0.48' },
-    { d: 'M187,35L193,47L203,31Z', fill: 'rgb(0, 0, 7)', fillOpacity: '0.60' },
+    { d: 'M98,107L85,128L79,117Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53', },
+    { d: 'M134,92L134,80L148,101Z', fill: 'rgb(1, 4, 2)', fillOpacity: '0.48', },
+    { d: 'M187,35L193,47L203,31Z', fill: 'rgb(0, 0, 7)', fillOpacity: '0.60', },
     {
         d: 'M33,120L-12,154L37,123Z',
         fill: 'rgb(247, 248, 248)',
@@ -4210,17 +4210,17 @@ export const pedobear = [
         fill: 'rgb(214, 174, 103)',
         fillOpacity: '0.58',
     },
-    { d: 'M72,128L60,146L46,123Z', fill: 'rgb(16, 6, 0)', fillOpacity: '0.50' },
-    { d: 'M92,88L95,103L119,92Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.60' },
-    { d: 'M103,113L91,116L93,108Z', fill: 'rgb(0, 1, 4)', fillOpacity: '0.52' },
+    { d: 'M72,128L60,146L46,123Z', fill: 'rgb(16, 6, 0)', fillOpacity: '0.50', },
+    { d: 'M92,88L95,103L119,92Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.60', },
+    { d: 'M103,113L91,116L93,108Z', fill: 'rgb(0, 1, 4)', fillOpacity: '0.52', },
     {
         d: 'M-23,177L48,35L39,-40Z',
         fill: 'rgb(254, 254, 254)',
         fillOpacity: '0.99',
     },
-    { d: 'M202,56L196,43L201,59Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.47' },
-    { d: 'M93,59L66,45L75,76Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
-    { d: 'M48,63L41,61L57,31Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.56' },
+    { d: 'M202,56L196,43L201,59Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.47', },
+    { d: 'M93,59L66,45L75,76Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
+    { d: 'M48,63L41,61L57,31Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.56', },
     {
         d: 'M34,26L51,39L53,28Z',
         fill: 'rgb(247, 249, 250)',
@@ -4231,13 +4231,13 @@ export const pedobear = [
         fill: 'rgb(0, 0, 0)',
         fillOpacity: '0.56',
     },
-    { d: 'M36,107L43,84L33,97Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53' },
+    { d: 'M36,107L43,84L33,97Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53', },
     {
         d: 'M92,131L107,113L106,142Z',
         fill: 'rgb(255, 170, 207)',
         fillOpacity: '0.61',
     },
-    { d: 'M33,102L19,121L35,121Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
+    { d: 'M33,102L19,121L35,121Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
     {
         d: 'M130,116L119,112L116,127Z',
         fill: 'rgb(0, 0, 0)',
@@ -4253,7 +4253,7 @@ export const pedobear = [
         fill: 'rgb(217, 176, 104)',
         fillOpacity: '0.61',
     },
-    { d: 'M137,73L134,55L153,76Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.82' },
+    { d: 'M137,73L134,55L153,76Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.82', },
     {
         d: 'M148,32L52,50L74,12Z',
         fill: 'rgb(140, 85, 45)',
@@ -4269,13 +4269,13 @@ export const pedobear = [
         fill: 'rgb(140, 85, 46)',
         fillOpacity: '0.59',
     },
-    { d: 'M59,32L45,45L42,68Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.42' },
+    { d: 'M59,32L45,45L42,68Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.42', },
     {
         d: 'M137,77L121,22L74,80Z',
         fill: 'rgb(141, 85, 45)',
         fillOpacity: '0.57',
     },
-    { d: 'M57,38L47,18L62,20Z', fill: 'rgb(3, 0, 0)', fillOpacity: '0.51' },
+    { d: 'M57,38L47,18L62,20Z', fill: 'rgb(3, 0, 0)', fillOpacity: '0.51', },
     {
         d: 'M10,127L27,110L38,87Z',
         fill: 'rgb(250, 253, 255)',
@@ -4286,7 +4286,7 @@ export const pedobear = [
         fill: 'rgb(229, 190, 115)',
         fillOpacity: '0.50',
     },
-    { d: 'M163,62L132,63L151,45Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.61' },
+    { d: 'M163,62L132,63L151,45Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.61', },
     {
         d: 'M113,146L125,120L123,133Z',
         fill: 'rgb(204, 122, 63)',
@@ -4322,14 +4322,14 @@ export const pedobear = [
         fill: 'rgb(0, 0, 0)',
         fillOpacity: '0.54',
     },
-    { d: 'M102,71L88,5L65,34Z', fill: 'rgb(138, 84, 46)', fillOpacity: '0.79' },
-    { d: 'M101,83L100,91L118,92Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
+    { d: 'M102,71L88,5L65,34Z', fill: 'rgb(138, 84, 46)', fillOpacity: '0.79', },
+    { d: 'M101,83L100,91L118,92Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
     {
         d: 'M100,107L103,111L85,118Z',
         fill: 'rgb(0, 0, 0)',
         fillOpacity: '0.50',
     },
-    { d: 'M71,92L77,119L65,98Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.51' },
+    { d: 'M71,92L77,119L65,98Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.51', },
     {
         d: 'M59,139L70,110L46,73Z',
         fill: 'rgb(136, 83, 45)',
@@ -4350,8 +4350,8 @@ export const pedobear = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.85',
     },
-    { d: 'M55,17L52,4L63,29Z', fill: 'rgb(7, 7, 3)', fillOpacity: '0.58' },
-    { d: 'M194,28L184,26L160,-1Z', fill: 'rgb(0, 1, 3)', fillOpacity: '0.63' },
+    { d: 'M55,17L52,4L63,29Z', fill: 'rgb(7, 7, 3)', fillOpacity: '0.58', },
+    { d: 'M194,28L184,26L160,-1Z', fill: 'rgb(0, 1, 3)', fillOpacity: '0.63', },
     {
         d: 'M144,115L129,122L110,114Z',
         fill: 'rgb(0, 0, 0)',
@@ -4372,7 +4372,7 @@ export const pedobear = [
         fill: 'rgb(244, 247, 251)',
         fillOpacity: '0.58',
     },
-    { d: 'M161,4L165,-12L168,12Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.60' },
+    { d: 'M161,4L165,-12L168,12Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.60', },
     {
         d: 'M215,141L204,116L207,107Z',
         fill: 'rgb(0, 0, 0)',
@@ -4383,14 +4383,14 @@ export const pedobear = [
         fill: 'rgb(224, 183, 110)',
         fillOpacity: '0.51',
     },
-    { d: 'M40,124L41,116L23,115Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.51' },
+    { d: 'M40,124L41,116L23,115Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.51', },
     {
         d: 'M190,29L162,65L156,27Z',
         fill: 'rgb(100, 59, 31)',
         fillOpacity: '0.76',
     },
-    { d: 'M210,11L204,31L203,-7Z', fill: 'rgb(0, 0, 6)', fillOpacity: '0.56' },
-    { d: 'M32,111L43,140L46,134Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.49' },
+    { d: 'M210,11L204,31L203,-7Z', fill: 'rgb(0, 0, 6)', fillOpacity: '0.56', },
+    { d: 'M32,111L43,140L46,134Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.49', },
     {
         d: 'M96,108L107,107L91,101Z',
         fill: 'rgb(228, 187, 111)',
@@ -4411,8 +4411,8 @@ export const pedobear = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.56',
     },
-    { d: 'M53,24L58,23L51,10Z', fill: 'rgb(146, 83, 37)', fillOpacity: '0.39' },
-    { d: 'M51,48L57,23L45,51Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.50' },
+    { d: 'M53,24L58,23L51,10Z', fill: 'rgb(146, 83, 37)', fillOpacity: '0.39', },
+    { d: 'M51,48L57,23L45,51Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.50', },
     {
         d: 'M227,144L206,135L208,145Z',
         fill: 'rgb(255, 255, 255)',
@@ -4428,7 +4428,7 @@ export const pedobear = [
         fill: 'rgb(71, 38, 16)',
         fillOpacity: '0.50',
     },
-    { d: 'M91,114L69,109L85,122Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
+    { d: 'M91,114L69,109L85,122Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
     {
         d: 'M142,92L141,107L148,111Z',
         fill: 'rgb(0, 0, 0)',
@@ -4439,16 +4439,16 @@ export const pedobear = [
         fill: 'rgb(254, 255, 255)',
         fillOpacity: '0.60',
     },
-    { d: 'M56,61L70,44L90,56Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.52' },
-    { d: 'M112,86L95,86L115,98Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.56' },
+    { d: 'M56,61L70,44L90,56Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.52', },
+    { d: 'M112,86L95,86L115,98Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.56', },
     {
         d: 'M91,80L105,80L87,94Z',
         fill: 'rgb(224, 187, 113)',
         fillOpacity: '0.48',
     },
-    { d: 'M41,70L53,30L43,85Z', fill: 'rgb(0, 0, 1)', fillOpacity: '0.74' },
-    { d: 'M37,85L48,62L35,111Z', fill: 'rgb(1, 1, 2)', fillOpacity: '0.58' },
-    { d: 'M87,10L91,73L86,58Z', fill: 'rgb(138, 84, 46)', fillOpacity: '0.80' },
+    { d: 'M41,70L53,30L43,85Z', fill: 'rgb(0, 0, 1)', fillOpacity: '0.74', },
+    { d: 'M37,85L48,62L35,111Z', fill: 'rgb(1, 1, 2)', fillOpacity: '0.58', },
+    { d: 'M87,10L91,73L86,58Z', fill: 'rgb(138, 84, 46)', fillOpacity: '0.80', },
     {
         d: 'M171,16L159,3L144,5Z',
         fill: 'rgb(107, 62, 31)',
@@ -4464,7 +4464,7 @@ export const pedobear = [
         fill: 'rgb(113, 68, 31)',
         fillOpacity: '0.56',
     },
-    { d: 'M38,-11L50,9L59,-6Z', fill: 'rgb(39, 25, 14)', fillOpacity: '0.62' },
+    { d: 'M38,-11L50,9L59,-6Z', fill: 'rgb(39, 25, 14)', fillOpacity: '0.62', },
     {
         d: 'M139,19L147,37L133,13Z',
         fill: 'rgb(154, 89, 45)',
@@ -4493,7 +4493,7 @@ export const souffrir = [
         fill: 'rgb(248, 230, 232)',
         fillOpacity: '0.92',
     },
-    { d: 'M94,159L111,142L93,92Z', fill: 'rgb(0, 9, 0)', fillOpacity: '0.68' },
+    { d: 'M94,159L111,142L93,92Z', fill: 'rgb(0, 9, 0)', fillOpacity: '0.68', },
     {
         d: 'M240,100L358,153L242,39Z',
         fill: 'rgb(239, 87, 3)',
@@ -4529,7 +4529,7 @@ export const souffrir = [
         fill: 'rgb(255, 76, 36)',
         fillOpacity: '0.81',
     },
-    { d: 'M106,8L88,8L81,28Z', fill: 'rgb(56, 20, 9)', fillOpacity: '0.48' },
+    { d: 'M106,8L88,8L81,28Z', fill: 'rgb(56, 20, 9)', fillOpacity: '0.48', },
     {
         d: 'M229,119L242,114L239,169Z',
         fill: 'rgb(255, 238, 255)',
@@ -4545,7 +4545,7 @@ export const souffrir = [
         fill: 'rgb(224, 161, 133)',
         fillOpacity: '0.55',
     },
-    { d: 'M93,41L81,53L92,59Z', fill: 'rgb(59, 51, 35)', fillOpacity: '0.47' },
+    { d: 'M93,41L81,53L92,59Z', fill: 'rgb(59, 51, 35)', fillOpacity: '0.47', },
     {
         d: 'M243,133L361,83L248,43Z',
         fill: 'rgb(241, 91, 0)',
@@ -4561,8 +4561,8 @@ export const souffrir = [
         fill: 'rgb(252, 178, 127)',
         fillOpacity: '0.39',
     },
-    { d: 'M99,0L87,8L122,23Z', fill: 'rgb(33, 28, 21)', fillOpacity: '0.38' },
-    { d: 'M76,63L84,66L89,96Z', fill: 'rgb(79, 54, 19)', fillOpacity: '0.55' },
+    { d: 'M99,0L87,8L122,23Z', fill: 'rgb(33, 28, 21)', fillOpacity: '0.38', },
+    { d: 'M76,63L84,66L89,96Z', fill: 'rgb(79, 54, 19)', fillOpacity: '0.55', },
     {
         d: 'M121,39L74,46L101,16Z',
         fill: 'rgb(243, 164, 119)',
@@ -4593,7 +4593,7 @@ export const souffrir = [
         fill: 'rgb(249, 246, 249)',
         fillOpacity: '0.61',
     },
-    { d: 'M129,4L141,9L152,48Z', fill: 'rgb(60, 56, 47)', fillOpacity: '0.46' },
+    { d: 'M129,4L141,9L152,48Z', fill: 'rgb(60, 56, 47)', fillOpacity: '0.46', },
     {
         d: 'M83,70L102,44L94,94Z',
         fill: 'rgb(228, 139, 92)',
@@ -4694,7 +4694,7 @@ export const souffrir = [
         fill: 'rgb(247, 121, 82)',
         fillOpacity: '0.46',
     },
-    { d: 'M79,66L99,45L79,47Z', fill: 'rgb(119, 77, 47)', fillOpacity: '0.49' },
+    { d: 'M79,66L99,45L79,47Z', fill: 'rgb(119, 77, 47)', fillOpacity: '0.49', },
     {
         d: 'M134,78L111,103L117,68Z',
         fill: 'rgb(221, 131, 85)',
@@ -4755,7 +4755,7 @@ export const souffrir = [
         fill: 'rgb(235, 148, 111)',
         fillOpacity: '0.49',
     },
-    { d: 'M82,23L76,35L79,53Z', fill: 'rgb(161, 72, 36)', fillOpacity: '0.69' },
+    { d: 'M82,23L76,35L79,53Z', fill: 'rgb(161, 72, 36)', fillOpacity: '0.69', },
     {
         d: 'M142,90L139,144L124,59Z',
         fill: 'rgb(169, 93, 43)',
@@ -4786,7 +4786,7 @@ export const souffrir = [
         fill: 'rgb(239, 76, 30)',
         fillOpacity: '0.45',
     },
-    { d: 'M85,74L94,97L80,82Z', fill: 'rgb(106, 54, 13)', fillOpacity: '0.60' },
+    { d: 'M85,74L94,97L80,82Z', fill: 'rgb(106, 54, 13)', fillOpacity: '0.60', },
     {
         d: 'M71,108L27,137L87,139Z',
         fill: 'rgb(235, 168, 122)',
@@ -4797,7 +4797,7 @@ export const souffrir = [
         fill: 'rgb(194, 98, 52)',
         fillOpacity: '0.47',
     },
-    { d: 'M87,61L85,45L98,49Z', fill: 'rgb(111, 64, 42)', fillOpacity: '0.47' },
+    { d: 'M87,61L85,45L98,49Z', fill: 'rgb(111, 64, 42)', fillOpacity: '0.47', },
     {
         d: 'M236,125L238,69L232,79Z',
         fill: 'rgb(247, 251, 255)',
@@ -4843,7 +4843,7 @@ export const souffrir = [
         fill: 'rgb(217, 139, 87)',
         fillOpacity: '0.60',
     },
-    { d: 'M101,3L88,14L103,15Z', fill: 'rgb(58, 32, 19)', fillOpacity: '0.46' },
+    { d: 'M101,3L88,14L103,15Z', fill: 'rgb(58, 32, 19)', fillOpacity: '0.46', },
     {
         d: 'M83,107L74,110L76,54Z',
         fill: 'rgb(243, 102, 59)',
@@ -4949,13 +4949,13 @@ export const souffrir = [
         fill: 'rgb(164, 102, 73)',
         fillOpacity: '0.61',
     },
-    { d: 'M95,46L81,47L94,49Z', fill: 'rgb(120, 55, 22)', fillOpacity: '0.64' },
+    { d: 'M95,46L81,47L94,49Z', fill: 'rgb(120, 55, 22)', fillOpacity: '0.64', },
     {
         d: 'M106,94L105,105L122,93Z',
         fill: 'rgb(249, 168, 126)',
         fillOpacity: '0.32',
     },
-    { d: 'M92,-6L118,4L124,1Z', fill: 'rgb(145, 73, 41)', fillOpacity: '0.50' },
+    { d: 'M92,-6L118,4L124,1Z', fill: 'rgb(145, 73, 41)', fillOpacity: '0.50', },
     {
         d: 'M101,68L101,64L109,70Z',
         fill: 'rgb(126, 45, 22)',
@@ -4996,7 +4996,7 @@ export const souffrir = [
         fill: 'rgb(135, 70, 15)',
         fillOpacity: '0.45',
     },
-    { d: 'M92,52L84,52L86,57Z', fill: 'rgb(45, 22, 5)', fillOpacity: '0.45' },
+    { d: 'M92,52L84,52L86,57Z', fill: 'rgb(45, 22, 5)', fillOpacity: '0.45', },
     {
         d: 'M100,82L115,79L113,91Z',
         fill: 'rgb(178, 97, 77)',
@@ -5087,7 +5087,7 @@ export const souffrir = [
         fill: 'rgb(255, 109, 72)',
         fillOpacity: '0.45',
     },
-    { d: 'M89,17L96,21L96,-6Z', fill: 'rgb(82, 49, 31)', fillOpacity: '0.32' },
+    { d: 'M89,17L96,21L96,-6Z', fill: 'rgb(82, 49, 31)', fillOpacity: '0.32', },
     {
         d: 'M101,5L122,11L99,1Z',
         fill: 'rgb(162, 128, 102)',
@@ -5211,7 +5211,7 @@ export const couilles = [
         fill: 'rgb(246, 255, 255)',
         fillOpacity: '0.63',
     },
-    { d: 'M84,32L64,57L63,13Z', fill: 'rgb(51, 84, 15)', fillOpacity: '0.57' },
+    { d: 'M84,32L64,57L63,13Z', fill: 'rgb(51, 84, 15)', fillOpacity: '0.57', },
     {
         d: 'M129,164L52,148L90,17Z',
         fill: 'rgb(249, 255, 128)',
@@ -5242,7 +5242,7 @@ export const couilles = [
         fill: 'rgb(81, 86, 17)',
         fillOpacity: '0.60',
     },
-    { d: 'M101,81L119,92L119,68Z', fill: 'rgb(0, 0, 17)', fillOpacity: '0.68' },
+    { d: 'M101,81L119,92L119,68Z', fill: 'rgb(0, 0, 17)', fillOpacity: '0.68', },
     {
         d: 'M124,70L80,82L117,53Z',
         fill: 'rgb(204, 217, 198)',
@@ -5273,13 +5273,13 @@ export const couilles = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.52',
     },
-    { d: 'M40,143L43,190L45,136Z', fill: 'rgb(4, 7, 11)', fillOpacity: '0.65' },
+    { d: 'M40,143L43,190L45,136Z', fill: 'rgb(4, 7, 11)', fillOpacity: '0.65', },
     {
         d: 'M159,61L168,96L140,63Z',
         fill: 'rgb(192, 210, 232)',
         fillOpacity: '0.69',
     },
-    { d: 'M133,30L120,23L134,13Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.43' },
+    { d: 'M133,30L120,23L134,13Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.43', },
     {
         d: 'M181,151L183,170L194,168Z',
         fill: 'rgb(0, 0, 0)',
@@ -5330,7 +5330,7 @@ export const couilles = [
         fill: 'rgb(42, 102, 41)',
         fillOpacity: '0.68',
     },
-    { d: 'M40,161L58,170L43,153Z', fill: 'rgb(1, 1, 0)', fillOpacity: '0.52' },
+    { d: 'M40,161L58,170L43,153Z', fill: 'rgb(1, 1, 0)', fillOpacity: '0.52', },
     {
         d: 'M38,38L63,4L64,49Z',
         fill: 'rgb(255, 255, 255)',
@@ -5401,7 +5401,7 @@ export const couilles = [
         fill: 'rgb(22, 21, 40)',
         fillOpacity: '0.54',
     },
-    { d: 'M18,3L41,8L40,18Z', fill: 'rgb(79, 78, 57)', fillOpacity: '1.00' },
+    { d: 'M18,3L41,8L40,18Z', fill: 'rgb(79, 78, 57)', fillOpacity: '1.00', },
     {
         d: 'M135,6L161,42L133,47Z',
         fill: 'rgb(255, 255, 255)',
@@ -5422,8 +5422,8 @@ export const couilles = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.51',
     },
-    { d: 'M34,54L41,57L40,1Z', fill: 'rgb(0, 0, 11)', fillOpacity: '0.61' },
-    { d: 'M57,159L33,162L36,170Z', fill: 'rgb(1, 0, 0)', fillOpacity: '0.51' },
+    { d: 'M34,54L41,57L40,1Z', fill: 'rgb(0, 0, 11)', fillOpacity: '0.61', },
+    { d: 'M57,159L33,162L36,170Z', fill: 'rgb(1, 0, 0)', fillOpacity: '0.51', },
     {
         d: 'M167,150L172,130L172,196Z',
         fill: 'rgb(9, 7, 4)',
@@ -5439,14 +5439,14 @@ export const couilles = [
         fill: 'rgb(85, 131, 85)',
         fillOpacity: '1.00',
     },
-    { d: 'M239,21L251,13L241,48Z', fill: 'rgb(9, 14, 7)', fillOpacity: '0.60' },
-    { d: 'M126,41L133,17L135,50Z', fill: 'rgb(10, 7, 7)', fillOpacity: '0.63' },
+    { d: 'M239,21L251,13L241,48Z', fill: 'rgb(9, 14, 7)', fillOpacity: '0.60', },
+    { d: 'M126,41L133,17L135,50Z', fill: 'rgb(10, 7, 7)', fillOpacity: '0.63', },
     {
         d: 'M-65,36L12,112L13,-2Z',
         fill: 'rgb(97, 97, 52)',
         fillOpacity: '1.00',
     },
-    { d: 'M49,55L50,36L60,58Z', fill: 'rgb(37, 62, 10)', fillOpacity: '0.60' },
+    { d: 'M49,55L50,36L60,58Z', fill: 'rgb(37, 62, 10)', fillOpacity: '0.60', },
     {
         d: 'M172,142L185,132L173,187Z',
         fill: 'rgb(255, 255, 255)',
@@ -5467,8 +5467,8 @@ export const couilles = [
         fill: 'rgb(51, 43, 34)',
         fillOpacity: '1.00',
     },
-    { d: 'M143,39L148,41L143,60Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.48' },
-    { d: 'M65,38L64,19L92,37Z', fill: 'rgb(11, 69, 30)', fillOpacity: '0.43' },
+    { d: 'M143,39L148,41L143,60Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.48', },
+    { d: 'M65,38L64,19L92,37Z', fill: 'rgb(11, 69, 30)', fillOpacity: '0.43', },
     {
         d: 'M129,110L139,130L127,125Z',
         fill: 'rgb(225, 226, 212)',
@@ -5479,7 +5479,7 @@ export const couilles = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.56',
     },
-    { d: 'M179,56L167,50L251,50Z', fill: 'rgb(3, 2, 0)', fillOpacity: '0.66' },
+    { d: 'M179,56L167,50L251,50Z', fill: 'rgb(3, 2, 0)', fillOpacity: '0.66', },
     {
         d: 'M71,141L49,139L48,158Z',
         fill: 'rgb(229, 230, 254)',
@@ -5510,7 +5510,7 @@ export const couilles = [
         fill: 'rgb(252, 253, 255)',
         fillOpacity: '0.70',
     },
-    { d: 'M172,38L167,58L169,21Z', fill: 'rgb(28, 9, 2)', fillOpacity: '0.50' },
+    { d: 'M172,38L167,58L169,21Z', fill: 'rgb(28, 9, 2)', fillOpacity: '0.50', },
     {
         d: 'M176,106L123,147L170,99Z',
         fill: 'rgb(72, 45, 7)',
@@ -5526,19 +5526,19 @@ export const couilles = [
         fill: 'rgb(98, 95, 35)',
         fillOpacity: '0.60',
     },
-    { d: 'M222,59L229,47L218,9Z', fill: 'rgb(18, 7, 29)', fillOpacity: '0.64' },
+    { d: 'M222,59L229,47L218,9Z', fill: 'rgb(18, 7, 29)', fillOpacity: '0.64', },
     {
         d: 'M96,179L108,182L104,162Z',
         fill: 'rgb(13, 7, 12)',
         fillOpacity: '0.71',
     },
-    { d: 'M1,175L6,181L6,156Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.65' },
+    { d: 'M1,175L6,181L6,156Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.65', },
     {
         d: 'M182,125L147,137L189,76Z',
         fill: 'rgb(241, 236, 17)',
         fillOpacity: '0.52',
     },
-    { d: 'M-1,146L5,151L8,129Z', fill: 'rgb(40, 44, 18)', fillOpacity: '0.65' },
+    { d: 'M-1,146L5,151L8,129Z', fill: 'rgb(40, 44, 18)', fillOpacity: '0.65', },
     {
         d: 'M243,8L246,19L217,17Z',
         fill: 'rgb(252, 255, 255)',
@@ -5599,7 +5599,7 @@ export const couilles = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.45',
     },
-    { d: 'M20,-1L26,58L26,9Z', fill: 'rgb(26, 24, 27)', fillOpacity: '0.49' },
+    { d: 'M20,-1L26,58L26,9Z', fill: 'rgb(26, 24, 27)', fillOpacity: '0.49', },
     {
         d: 'M73,163L88,184L65,173Z',
         fill: 'rgb(51, 30, 19)',
@@ -5615,7 +5615,7 @@ export const couilles = [
         fill: 'rgb(59, 210, 43)',
         fillOpacity: '0.53',
     },
-    { d: 'M120,54L110,50L175,50Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.59' },
+    { d: 'M120,54L110,50L175,50Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.59', },
     {
         d: 'M65,140L65,158L87,137Z',
         fill: 'rgb(37, 39, 6)',
@@ -5636,7 +5636,7 @@ export const couilles = [
         fill: 'rgb(255, 231, 23)',
         fillOpacity: '0.56',
     },
-    { d: 'M89,5L103,9L77,9Z', fill: 'rgb(0, 0, 14)', fillOpacity: '0.56' },
+    { d: 'M89,5L103,9L77,9Z', fill: 'rgb(0, 0, 14)', fillOpacity: '0.56', },
     {
         d: 'M14,133L47,139L-5,139Z',
         fill: 'rgb(50, 49, 16)',
@@ -5702,7 +5702,7 @@ export const couilles = [
         fill: 'rgb(246, 126, 56)',
         fillOpacity: '0.52',
     },
-    { d: 'M87,144L92,146L90,184Z', fill: 'rgb(1, 3, 29)', fillOpacity: '0.55' },
+    { d: 'M87,144L92,146L90,184Z', fill: 'rgb(1, 3, 29)', fillOpacity: '0.55', },
     {
         d: 'M142,38L144,34L150,62Z',
         fill: 'rgb(40, 41, 5)',
@@ -5718,7 +5718,7 @@ export const couilles = [
         fill: 'rgb(242, 242, 253)',
         fillOpacity: '0.60',
     },
-    { d: 'M101,34L84,18L95,19Z', fill: 'rgb(1, 9, 15)', fillOpacity: '0.48' },
+    { d: 'M101,34L84,18L95,19Z', fill: 'rgb(1, 9, 15)', fillOpacity: '0.48', },
     {
         d: 'M115,137L168,137L156,128Z',
         fill: 'rgb(220, 217, 21)',
@@ -5754,7 +5754,7 @@ export const couilles = [
         fill: 'rgb(0, 19, 15)',
         fillOpacity: '0.47',
     },
-    { d: 'M159,15L164,43L156,57Z', fill: 'rgb(27, 0, 4)', fillOpacity: '0.57' },
+    { d: 'M159,15L164,43L156,57Z', fill: 'rgb(27, 0, 4)', fillOpacity: '0.57', },
     {
         d: 'M181,41L182,14L185,47Z',
         fill: 'rgb(32, 33, 31)',
@@ -5765,7 +5765,7 @@ export const couilles = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.51',
     },
-    { d: 'M27,7L16,7L11,14Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
+    { d: 'M27,7L16,7L11,14Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
     {
         d: 'M223,120L240,111L206,37Z',
         fill: 'rgb(45, 204, 105)',
@@ -5786,7 +5786,7 @@ export const couilles = [
         fill: 'rgb(8, 7, 2)',
         fillOpacity: '0.84',
     },
-    { d: 'M77,50L103,62L99,50Z', fill: 'rgb(20, 20, 14)', fillOpacity: '0.46' },
+    { d: 'M77,50L103,62L99,50Z', fill: 'rgb(20, 20, 14)', fillOpacity: '0.46', },
     {
         d: 'M90,111L107,104L130,106Z',
         fill: 'rgb(66, 66, 22)',
@@ -5842,13 +5842,13 @@ export const couilles = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.66',
     },
-    { d: 'M121,42L134,42L134,25Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.45' },
+    { d: 'M121,42L134,42L134,25Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.45', },
     {
         d: 'M113,29L113,53L99,16Z',
         fill: 'rgb(103, 44, 9)',
         fillOpacity: '0.52',
     },
-    { d: 'M88,-3L59,4L69,28Z', fill: 'rgb(125, 63, 117)', fillOpacity: '0.62' },
+    { d: 'M88,-3L59,4L69,28Z', fill: 'rgb(125, 63, 117)', fillOpacity: '0.62', },
     {
         d: 'M103,62L112,57L108,24Z',
         fill: 'rgb(242, 207, 48)',
@@ -5909,7 +5909,7 @@ export const couilles = [
         fill: 'rgb(193, 185, 25)',
         fillOpacity: '0.55',
     },
-    { d: 'M16,163L17,172L25,162Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.50' },
+    { d: 'M16,163L17,172L25,162Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.50', },
     {
         d: 'M50,9L40,11L56,51Z',
         fill: 'rgb(254, 255, 255)',
@@ -5930,13 +5930,13 @@ export const couilles = [
         fill: 'rgb(251, 251, 253)',
         fillOpacity: '0.70',
     },
-    { d: 'M116,82L154,70L159,82Z', fill: 'rgb(0, 7, 46)', fillOpacity: '0.40' },
+    { d: 'M116,82L154,70L159,82Z', fill: 'rgb(0, 7, 46)', fillOpacity: '0.40', },
     {
         d: 'M129,212L170,233L156,168Z',
         fill: 'rgb(39, 28, 21)',
         fillOpacity: '0.99',
     },
-    { d: 'M8,183L66,179L7,177Z', fill: 'rgb(14, 17, 15)', fillOpacity: '0.62' },
+    { d: 'M8,183L66,179L7,177Z', fill: 'rgb(14, 17, 15)', fillOpacity: '0.62', },
     {
         d: 'M108,61L105,69L127,69Z',
         fill: 'rgb(255, 255, 255)',
@@ -5972,7 +5972,7 @@ export const couilles = [
         fill: 'rgb(32, 32, 14)',
         fillOpacity: '0.61',
     },
-    { d: 'M57,49L16,52L65,54Z', fill: 'rgb(3, 11, 20)', fillOpacity: '0.59' },
+    { d: 'M57,49L16,52L65,54Z', fill: 'rgb(3, 11, 20)', fillOpacity: '0.59', },
     {
         d: 'M106,172L104,127L114,178Z',
         fill: 'rgb(255, 255, 254)',
@@ -5993,7 +5993,7 @@ export const couilles = [
         fill: 'rgb(15, 15, 16)',
         fillOpacity: '0.49',
     },
-    { d: 'M92,89L89,90L92,69Z', fill: 'rgb(66, 63, 6)', fillOpacity: '0.54' },
+    { d: 'M92,89L89,90L92,69Z', fill: 'rgb(66, 63, 6)', fillOpacity: '0.54', },
     {
         d: 'M99,147L105,147L111,135Z',
         fill: 'rgb(30, 25, 13)',
@@ -6024,7 +6024,7 @@ export const couilles = [
         fill: 'rgb(143, 128, 22)',
         fillOpacity: '0.55',
     },
-    { d: 'M84,55L74,46L76,43Z', fill: 'rgb(16, 0, 0)', fillOpacity: '0.52' },
+    { d: 'M84,55L74,46L76,43Z', fill: 'rgb(16, 0, 0)', fillOpacity: '0.52', },
     {
         d: 'M143,174L129,155L138,180Z',
         fill: 'rgb(249, 251, 255)',
@@ -6035,19 +6035,19 @@ export const couilles = [
         fill: 'rgb(135, 121, 51)',
         fillOpacity: '0.69',
     },
-    { d: 'M70,180L54,185L70,169Z', fill: 'rgb(2, 6, 0)', fillOpacity: '0.49' },
+    { d: 'M70,180L54,185L70,169Z', fill: 'rgb(2, 6, 0)', fillOpacity: '0.49', },
     {
         d: 'M33,138L36,160L23,148Z',
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.59',
     },
-    { d: 'M69,18L67,53L63,4Z', fill: 'rgb(7, 13, 10)', fillOpacity: '0.56' },
+    { d: 'M69,18L67,53L63,4Z', fill: 'rgb(7, 13, 10)', fillOpacity: '0.56', },
     {
         d: 'M158,27L134,15L150,50Z',
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.48',
     },
-    { d: 'M86,36L91,36L87,47Z', fill: 'rgb(0, 0, 27)', fillOpacity: '0.54' },
+    { d: 'M86,36L91,36L87,47Z', fill: 'rgb(0, 0, 27)', fillOpacity: '0.54', },
     {
         d: 'M68,141L70,126L58,134Z',
         fill: 'rgb(197, 221, 255)',
@@ -6078,13 +6078,13 @@ export const couilles = [
         fill: 'rgb(250, 253, 255)',
         fillOpacity: '0.56',
     },
-    { d: 'M60,151L68,151L69,169Z', fill: 'rgb(0, 0, 13)', fillOpacity: '0.46' },
+    { d: 'M60,151L68,151L69,169Z', fill: 'rgb(0, 0, 13)', fillOpacity: '0.46', },
     {
         d: 'M250,144L233,138L250,151Z',
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.58',
     },
-    { d: 'M113,24L109,27L111,4Z', fill: 'rgb(0, 4, 0)', fillOpacity: '0.68' },
+    { d: 'M113,24L109,27L111,4Z', fill: 'rgb(0, 4, 0)', fillOpacity: '0.68', },
     {
         d: 'M36,25L15,11L31,10Z',
         fill: 'rgb(255, 255, 255)',
@@ -6120,7 +6120,7 @@ export const couilles = [
         fill: 'rgb(0, 4, 4)',
         fillOpacity: '0.47',
     },
-    { d: 'M148,29L145,4L149,20Z', fill: 'rgb(0, 13, 0)', fillOpacity: '0.53' },
+    { d: 'M148,29L145,4L149,20Z', fill: 'rgb(0, 13, 0)', fillOpacity: '0.53', },
     {
         d: 'M136,120L125,122L128,129Z',
         fill: 'rgb(255, 255, 255)',
@@ -6136,8 +6136,8 @@ export const couilles = [
         fill: 'rgb(6, 9, 8)',
         fillOpacity: '0.55',
     },
-    { d: 'M23,56L8,47L13,45Z', fill: 'rgb(12, 14, 5)', fillOpacity: '0.49' },
-    { d: 'M118,89L124,74L103,73Z', fill: 'rgb(0, 0, 5)', fillOpacity: '0.56' },
+    { d: 'M23,56L8,47L13,45Z', fill: 'rgb(12, 14, 5)', fillOpacity: '0.49', },
+    { d: 'M118,89L124,74L103,73Z', fill: 'rgb(0, 0, 5)', fillOpacity: '0.56', },
     {
         d: 'M128,177L128,173L153,184Z',
         fill: 'rgb(0, 0, 0)',
@@ -6153,19 +6153,19 @@ export const couilles = [
         fill: 'rgb(252, 252, 255)',
         fillOpacity: '0.53',
     },
-    { d: 'M128,86L149,68L153,94Z', fill: 'rgb(0, 0, 1)', fillOpacity: '0.41' },
+    { d: 'M128,86L149,68L153,94Z', fill: 'rgb(0, 0, 1)', fillOpacity: '0.41', },
     {
         d: 'M118,166L115,142L115,175Z',
         fill: 'rgb(1, 0, 1)',
         fillOpacity: '0.74',
     },
-    { d: 'M75,13L86,8L78,8Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
+    { d: 'M75,13L86,8L78,8Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
     {
         d: 'M24,52L12,44L22,11Z',
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.51',
     },
-    { d: 'M55,22L51,19L56,-18Z', fill: 'rgb(41, 44, 37)', fillOpacity: '0.62' },
+    { d: 'M55,22L51,19L56,-18Z', fill: 'rgb(41, 44, 37)', fillOpacity: '0.62', },
     {
         d: 'M99,31L99,48L79,26Z',
         fill: 'rgb(255, 255, 255)',
@@ -6176,7 +6176,7 @@ export const couilles = [
         fill: 'rgb(161, 58, 114)',
         fillOpacity: '0.60',
     },
-    { d: 'M222,10L227,5L256,9Z', fill: 'rgb(46, 48, 31)', fillOpacity: '0.66' },
+    { d: 'M222,10L227,5L256,9Z', fill: 'rgb(46, 48, 31)', fillOpacity: '0.66', },
     {
         d: 'M218,166L221,160L237,162Z',
         fill: 'rgb(0, 0, 0)',
@@ -6375,7 +6375,7 @@ export const cartman = [
         fill: 'rgb(50, 180, 206)',
         fillOpacity: '0.65',
     },
-    { d: 'M217,94L217,88L206,93Z', fill: 'rgb(0, 2, 21)', fillOpacity: '0.57' },
+    { d: 'M217,94L217,88L206,93Z', fill: 'rgb(0, 2, 21)', fillOpacity: '0.57', },
     {
         d: 'M61,112L28,74L-13,122Z',
         fill: 'rgb(19, 20, 19)',
@@ -6596,7 +6596,11 @@ export const cartman = [
         fill: 'rgb(253, 233, 0)',
         fillOpacity: '0.53',
     },
-    { d: 'M154,0L113,14L24,0Z', fill: 'rgb(20, 20, 19)', fillOpacity: '0.95' },
+    {
+        d: 'M154,0L113,14L24,0Z',
+        fill: 'rgb(20, 20, 19)',
+        fillOpacity: '0.95',
+    },
     {
         d: 'M215,46L222,62L176,22Z',
         fill: 'rgb(52, 176, 199)',
@@ -6682,7 +6686,11 @@ export const cartman = [
         fill: 'rgb(255, 208, 177)',
         fillOpacity: '0.56',
     },
-    { d: 'M211,91L216,85L215,96Z', fill: 'rgb(0, 2, 9)', fillOpacity: '0.54' },
+    { 
+        d: 'M211,91L216,85L215,96Z', 
+        fill: 'rgb(0, 2, 9)', 
+        fillOpacity: '0.54', 
+    },
     {
         d: 'M12,190L20,161L4,163Z',
         fill: 'rgb(255, 215, 190)',
@@ -6693,7 +6701,11 @@ export const cartman = [
         fill: 'rgb(249, 212, 185)',
         fillOpacity: '0.61',
     },
-    { d: 'M63,56L49,36L40,92Z', fill: 'rgb(19, 21, 21)', fillOpacity: '0.85' },
+    {
+        d: 'M63,56L49,36L40,92Z',
+        fill: 'rgb(19, 21, 21)',
+        fillOpacity: '0.85',
+    },
     {
         d: 'M53,70L146,25L54,98Z',
         fill: 'rgb(46, 183, 212)',
@@ -6829,7 +6841,7 @@ export const cartman = [
         fill: 'rgb(108, 79, 21)',
         fillOpacity: '0.45',
     },
-    { d: 'M195,71L208,60L176,78Z', fill: 'rgb(7, 0, 22)', fillOpacity: '0.43' },
+    { d: 'M195,71L208,60L176,78Z', fill: 'rgb(7, 0, 22)', fillOpacity: '0.43', },
     {
         d: 'M179,64L204,61L199,63Z',
         fill: 'rgb(195, 235, 38)',
@@ -6855,7 +6867,7 @@ export const cartman = [
         fill: 'rgb(156, 45, 34)',
         fillOpacity: '0.71',
     },
-    { d: 'M81,25L64,49L75,40Z', fill: 'rgb(19, 23, 23)', fillOpacity: '0.73' },
+    { d: 'M81,25L64,49L75,40Z', fill: 'rgb(19, 23, 23)', fillOpacity: '0.73', },
     {
         d: 'M186,68L136,83L174,115Z',
         fill: 'rgb(250, 211, 188)',
@@ -7124,7 +7136,7 @@ export const denis = [
         fill: 'rgb(228, 208, 165)',
         fillOpacity: '0.50',
     },
-    { d: 'M-38,31L76,81L8,146Z', fill: 'rgb(40, 40, 36)', fillOpacity: '0.91' },
+    { d: 'M-38,31L76,81L8,146Z', fill: 'rgb(40, 40, 36)', fillOpacity: '0.91', },
     {
         d: 'M210,130L193,147L220,172Z',
         fill: 'rgb(25, 19, 11)',
@@ -7180,7 +7192,7 @@ export const denis = [
         fill: 'rgb(87, 79, 68)',
         fillOpacity: '0.50',
     },
-    { d: 'M44,-3L20,63L93,94Z', fill: 'rgb(64, 63, 66)', fillOpacity: '0.25' },
+    { d: 'M44,-3L20,63L93,94Z', fill: 'rgb(64, 63, 66)', fillOpacity: '0.25', },
     {
         d: 'M127,145L50,137L130,92Z',
         fill: 'rgb(35, 34, 30)',
@@ -7211,7 +7223,7 @@ export const denis = [
         fill: 'rgb(232, 53, 3)',
         fillOpacity: '0.38',
     },
-    { d: 'M169,7L130,-5L208,3Z', fill: 'rgb(25, 25, 25)', fillOpacity: '0.73' },
+    { d: 'M169,7L130,-5L208,3Z', fill: 'rgb(25, 25, 25)', fillOpacity: '0.73', },
     {
         d: 'M50,112L62,127L44,114Z',
         fill: 'rgb(238, 158, 45)',
@@ -7352,7 +7364,7 @@ export const denis = [
         fill: 'rgb(236, 128, 84)',
         fillOpacity: '0.49',
     },
-    { d: 'M158,14L178,5L183,8Z', fill: 'rgb(95, 79, 77)', fillOpacity: '0.52' },
+    { d: 'M158,14L178,5L183,8Z', fill: 'rgb(95, 79, 77)', fillOpacity: '0.52', },
     {
         d: 'M175,96L183,103L184,82Z',
         fill: 'rgb(255, 162, 148)',
@@ -7393,7 +7405,7 @@ export const denis = [
         fill: 'rgb(255, 147, 104)',
         fillOpacity: '0.58',
     },
-    { d: 'M59,80L54,59L73,61Z', fill: 'rgb(58, 57, 58)', fillOpacity: '0.54' },
+    { d: 'M59,80L54,59L73,61Z', fill: 'rgb(58, 57, 58)', fillOpacity: '0.54', },
     {
         d: 'M222,79L217,65L228,28Z',
         fill: 'rgb(38, 43, 46)',
@@ -7424,7 +7436,7 @@ export const denis = [
         fill: 'rgb(255, 140, 109)',
         fillOpacity: '0.48',
     },
-    { d: 'M59,124L51,122L50,124Z', fill: 'rgb(13, 1, 8)', fillOpacity: '0.46' },
+    { d: 'M59,124L51,122L50,124Z', fill: 'rgb(13, 1, 8)', fillOpacity: '0.46', },
     {
         d: 'M253,105L272,90L237,88Z',
         fill: 'rgb(43, 51, 48)',
@@ -7490,7 +7502,7 @@ export const denis = [
         fill: 'rgb(46, 56, 100)',
         fillOpacity: '0.63',
     },
-    { d: 'M22,40L34,5L-3,-15Z', fill: 'rgb(46, 44, 41)', fillOpacity: '0.69' },
+    { d: 'M22,40L34,5L-3,-15Z', fill: 'rgb(46, 44, 41)', fillOpacity: '0.69', },
     {
         d: 'M194,15L199,70L200,25Z',
         fill: 'rgb(46, 38, 30)',
@@ -7606,7 +7618,7 @@ export const denis = [
         fill: 'rgb(210, 130, 105)',
         fillOpacity: '0.50',
     },
-    { d: 'M79,60L85,61L66,12Z', fill: 'rgb(26, 24, 20)', fillOpacity: '0.40' },
+    { d: 'M79,60L85,61L66,12Z', fill: 'rgb(26, 24, 20)', fillOpacity: '0.40', },
     {
         d: 'M162,86L166,87L164,70Z',
         fill: 'rgb(35, 29, 30)',
@@ -7640,7 +7652,7 @@ export const snoop = [
         fill: 'rgb(27, 9, 33)',
         fillOpacity: '0.81',
     },
-    { d: 'M57,63L95,80L71,3Z', fill: 'rgb(13, 0, 3)', fillOpacity: '0.59' },
+    { d: 'M57,63L95,80L71,3Z', fill: 'rgb(13, 0, 3)', fillOpacity: '0.59', },
     {
         d: 'M107,53L195,104L218,-88Z',
         fill: 'rgb(221, 214, 204)',
@@ -7691,7 +7703,7 @@ export const snoop = [
         fill: 'rgb(3, 0, 29)',
         fillOpacity: '0.76',
     },
-    { d: 'M46,93L87,123L64,81Z', fill: 'rgb(6, 3, 34)', fillOpacity: '0.65' },
+    { d: 'M46,93L87,123L64,81Z', fill: 'rgb(6, 3, 34)', fillOpacity: '0.65', },
     {
         d: 'M103,96L64,21L137,24Z',
         fill: 'rgb(106, 19, 18)',
@@ -7702,7 +7714,7 @@ export const snoop = [
         fill: 'rgb(182, 131, 107)',
         fillOpacity: '0.75',
     },
-    { d: 'M114,47L94,25L54,52Z', fill: 'rgb(16, 9, 38)', fillOpacity: '0.69' },
+    { d: 'M114,47L94,25L54,52Z', fill: 'rgb(16, 9, 38)', fillOpacity: '0.69', },
     {
         d: 'M58,101L60,113L30,110Z',
         fill: 'rgb(255, 255, 252)',
@@ -7783,7 +7795,7 @@ export const snoop = [
         fill: 'rgb(210, 212, 206)',
         fillOpacity: '0.84',
     },
-    { d: 'M119,15L87,2L128,37Z', fill: 'rgb(11, 0, 19)', fillOpacity: '0.48' },
+    { d: 'M119,15L87,2L128,37Z', fill: 'rgb(11, 0, 19)', fillOpacity: '0.48', },
     {
         d: 'M202,103L223,111L221,119Z',
         fill: 'rgb(249, 255, 247)',
@@ -7804,7 +7816,7 @@ export const snoop = [
         fill: 'rgb(30, 27, 56)',
         fillOpacity: '0.60',
     },
-    { d: 'M67,18L119,12L83,7Z', fill: 'rgb(83, 0, 0)', fillOpacity: '0.40' },
+    { d: 'M67,18L119,12L83,7Z', fill: 'rgb(83, 0, 0)', fillOpacity: '0.40', },
     {
         d: 'M87,64L118,62L85,47Z',
         fill: 'rgb(255, 209, 177)',
@@ -7820,7 +7832,7 @@ export const snoop = [
         fill: 'rgb(64, 0, 16)',
         fillOpacity: '0.50',
     },
-    { d: 'M113,137L119,92L48,96Z', fill: 'rgb(6, 0, 20)', fillOpacity: '0.48' },
+    { d: 'M113,137L119,92L48,96Z', fill: 'rgb(6, 0, 20)', fillOpacity: '0.48', },
     {
         d: 'M219,70L204,17L210,10Z',
         fill: 'rgb(91, 0, 10)',
@@ -7836,7 +7848,7 @@ export const snoop = [
         fill: 'rgb(78, 2, 15)',
         fillOpacity: '0.50',
     },
-    { d: 'M80,67L70,33L53,55Z', fill: 'rgb(0, 0, 16)', fillOpacity: '0.51' },
+    { d: 'M80,67L70,33L53,55Z', fill: 'rgb(0, 0, 16)', fillOpacity: '0.51', },
     {
         d: 'M230,128L254,164L248,137Z',
         fill: 'rgb(34, 12, 43)',
@@ -7867,7 +7879,7 @@ export const snoop = [
         fill: 'rgb(223, 223, 216)',
         fillOpacity: '0.75',
     },
-    { d: 'M97,58L99,84L74,82Z', fill: 'rgb(49, 10, 39)', fillOpacity: '0.48' },
+    { d: 'M97,58L99,84L74,82Z', fill: 'rgb(49, 10, 39)', fillOpacity: '0.48', },
     {
         d: 'M156,91L175,94L149,115Z',
         fill: 'rgb(20, 12, 44)',
@@ -7883,7 +7895,7 @@ export const snoop = [
         fill: 'rgb(250, 254, 244)',
         fillOpacity: '0.57',
     },
-    { d: 'M223,25L216,29L224,5Z', fill: 'rgb(103, 0, 1)', fillOpacity: '0.48' },
+    { d: 'M223,25L216,29L224,5Z', fill: 'rgb(103, 0, 1)', fillOpacity: '0.48', },
     {
         d: 'M148,102L143,110L146,123Z',
         fill: 'rgb(224, 220, 191)',
@@ -7934,7 +7946,7 @@ export const snoop = [
         fill: 'rgb(182, 188, 189)',
         fillOpacity: '0.49',
     },
-    { d: 'M34,106L51,105L35,99Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.40' },
+    { d: 'M34,106L51,105L35,99Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.40', },
     {
         d: 'M129,78L133,60L141,66Z',
         fill: 'rgb(87, 52, 59)',
@@ -7995,7 +8007,7 @@ export const snoop = [
         fill: 'rgb(225, 239, 233)',
         fillOpacity: '0.44',
     },
-    { d: 'M67,16L76,16L56,58Z', fill: 'rgb(35, 0, 37)', fillOpacity: '0.55' },
+    { d: 'M67,16L76,16L56,58Z', fill: 'rgb(35, 0, 37)', fillOpacity: '0.55', },
     {
         d: 'M122,-34L235,7L169,22Z',
         fill: 'rgb(178, 180, 178)',
@@ -8011,8 +8023,8 @@ export const snoop = [
         fill: 'rgb(222, 223, 217)',
         fillOpacity: '0.60',
     },
-    { d: 'M150,86L137,73L139,87Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.41' },
-    { d: 'M86,68L62,108L105,66Z', fill: 'rgb(18, 5, 31)', fillOpacity: '0.55' },
+    { d: 'M150,86L137,73L139,87Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.41', },
+    { d: 'M86,68L62,108L105,66Z', fill: 'rgb(18, 5, 31)', fillOpacity: '0.55', },
     {
         d: 'M225,28L224,61L208,26Z',
         fill: 'rgb(179, 90, 60)',
@@ -8033,8 +8045,8 @@ export const snoop = [
         fill: 'rgb(7, 0, 26)',
         fillOpacity: '0.62',
     },
-    { d: 'M93,6L79,10L116,13Z', fill: 'rgb(25, 27, 55)', fillOpacity: '0.48' },
-    { d: 'M56,48L92,65L74,75Z', fill: 'rgb(36, 2, 37)', fillOpacity: '0.58' },
+    { d: 'M93,6L79,10L116,13Z', fill: 'rgb(25, 27, 55)', fillOpacity: '0.48', },
+    { d: 'M56,48L92,65L74,75Z', fill: 'rgb(36, 2, 37)', fillOpacity: '0.58', },
     {
         d: 'M140,83L151,94L140,73Z',
         fill: 'rgb(26, 10, 49)',
@@ -8065,13 +8077,13 @@ export const snoop = [
         fill: 'rgb(88, 23, 38)',
         fillOpacity: '0.53',
     },
-    { d: 'M206,23L210,23L206,8Z', fill: 'rgb(25, 0, 19)', fillOpacity: '0.50' },
+    { d: 'M206,23L210,23L206,8Z', fill: 'rgb(25, 0, 19)', fillOpacity: '0.50', },
     {
         d: 'M42,87L60,42L64,15Z',
         fill: 'rgb(209, 210, 205)',
         fillOpacity: '0.90',
     },
-    { d: 'M58,114L113,133L81,84Z', fill: 'rgb(3, 0, 24)', fillOpacity: '0.65' },
+    { d: 'M58,114L113,133L81,84Z', fill: 'rgb(3, 0, 24)', fillOpacity: '0.65', },
     {
         d: 'M66,141L80,144L28,152Z',
         fill: 'rgb(213, 138, 100)',
@@ -8082,7 +8094,7 @@ export const snoop = [
         fill: 'rgb(43, 25, 11)',
         fillOpacity: '0.65',
     },
-    { d: 'M95,26L73,70L104,23Z', fill: 'rgb(8, 0, 27)', fillOpacity: '0.48' },
+    { d: 'M95,26L73,70L104,23Z', fill: 'rgb(8, 0, 27)', fillOpacity: '0.48', },
     {
         d: 'M31,130L18,131L15,123Z',
         fill: 'rgb(22, 16, 24)',
@@ -8253,7 +8265,7 @@ export const snoop = [
         fill: 'rgb(8, 1, 34)',
         fillOpacity: '0.58',
     },
-    { d: 'M105,103L62,119L86,84Z', fill: 'rgb(9, 0, 25)', fillOpacity: '0.70' },
+    { d: 'M105,103L62,119L86,84Z', fill: 'rgb(9, 0, 25)', fillOpacity: '0.70', },
     {
         d: 'M98,85L97,79L116,69Z',
         fill: 'rgb(239, 171, 157)',
@@ -8294,7 +8306,7 @@ export const snoop = [
         fill: 'rgb(143, 80, 77)',
         fillOpacity: '0.52',
     },
-    { d: 'M61,44L96,25L101,37Z', fill: 'rgb(2, 0, 27)', fillOpacity: '0.49' },
+    { d: 'M61,44L96,25L101,37Z', fill: 'rgb(2, 0, 27)', fillOpacity: '0.49', },
     {
         d: 'M34,101L42,107L32,106Z',
         fill: 'rgb(20, 18, 53)',
@@ -8368,7 +8380,7 @@ export const surprise = [
         fill: 'rgb(1, 4, 0)',
         fillOpacity: '0.53',
     },
-    { d: 'M140,91L196,66L58,80Z', fill: 'rgb(46, 10, 0)', fillOpacity: '0.45' },
+    { d: 'M140,91L196,66L58,80Z', fill: 'rgb(46, 10, 0)', fillOpacity: '0.45', },
     {
         d: 'M284,76L195,91L352,143Z',
         fill: 'rgb(240, 220, 224)',
@@ -8424,7 +8436,7 @@ export const surprise = [
         fill: 'rgb(0, 0, 0)',
         fillOpacity: '0.51',
     },
-    { d: 'M81,83L6,87L62,78Z', fill: 'rgb(35, 3, 0)', fillOpacity: '0.61' },
+    { d: 'M81,83L6,87L62,78Z', fill: 'rgb(35, 3, 0)', fillOpacity: '0.61', },
     {
         d: 'M315,290L308,168L282,240Z',
         fill: 'rgb(233, 193, 164)',
@@ -8470,7 +8482,7 @@ export const surprise = [
         fill: 'rgb(163, 73, 8)',
         fillOpacity: '0.35',
     },
-    { d: 'M3,149L0,173L-1,128Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.41' },
+    { d: 'M3,149L0,173L-1,128Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.41', },
     {
         d: 'M261,252L261,419L116,207Z',
         fill: 'rgb(13, 5, 10)',
@@ -8551,7 +8563,7 @@ export const surprise = [
         fill: 'rgb(29, 8, 1)',
         fillOpacity: '0.65',
     },
-    { d: 'M119,89L125,84L60,90Z', fill: 'rgb(4, 0, 0)', fillOpacity: '0.59' },
+    { d: 'M119,89L125,84L60,90Z', fill: 'rgb(4, 0, 0)', fillOpacity: '0.59', },
     {
         d: 'M359,44L347,103L427,95Z',
         fill: 'rgb(185, 193, 227)',
@@ -8602,7 +8614,7 @@ export const surprise = [
         fill: 'rgb(78, 32, 2)',
         fillOpacity: '0.61',
     },
-    { d: 'M268,58L198,65L224,69Z', fill: 'rgb(28, 0, 0)', fillOpacity: '0.57' },
+    { d: 'M268,58L198,65L224,69Z', fill: 'rgb(28, 0, 0)', fillOpacity: '0.57', },
     {
         d: 'M486,53L445,97L480,94Z',
         fill: 'rgb(157, 166, 185)',
@@ -8613,7 +8625,7 @@ export const surprise = [
         fill: 'rgb(233, 219, 231)',
         fillOpacity: '0.53',
     },
-    { d: 'M1,79L1,165L-109,133Z', fill: 'rgb(3, 3, 14)', fillOpacity: '0.92' },
+    { d: 'M1,79L1,165L-109,133Z', fill: 'rgb(3, 3, 14)', fillOpacity: '0.92', },
     {
         d: 'M432,99L478,106L479,94Z',
         fill: 'rgb(248, 249, 255)',
@@ -8664,7 +8676,7 @@ export const surprise = [
         fill: 'rgb(192, 129, 73)',
         fillOpacity: '0.55',
     },
-    { d: 'M277,70L312,80L263,75Z', fill: 'rgb(13, 0, 0)', fillOpacity: '0.52' },
+    { d: 'M277,70L312,80L263,75Z', fill: 'rgb(13, 0, 0)', fillOpacity: '0.52', },
     {
         d: 'M218,68L249,66L247,72Z',
         fill: 'rgb(223, 188, 179)',
@@ -8675,7 +8687,7 @@ export const surprise = [
         fill: 'rgb(221, 206, 203)',
         fillOpacity: '0.41',
     },
-    { d: 'M2,169L1,189L-7,150Z', fill: 'rgb(12, 18, 38)', fillOpacity: '0.61' },
+    { d: 'M2,169L1,189L-7,150Z', fill: 'rgb(12, 18, 38)', fillOpacity: '0.61', },
     {
         d: 'M314,217L312,158L310,198Z',
         fill: 'rgb(112, 97, 96)',
@@ -8766,7 +8778,7 @@ export const surprise = [
         fill: 'rgb(158, 110, 75)',
         fillOpacity: '0.68',
     },
-    { d: 'M1,314L1,160L-12,255Z', fill: 'rgb(14, 8, 9)', fillOpacity: '0.95' },
+    { d: 'M1,314L1,160L-12,255Z', fill: 'rgb(14, 8, 9)', fillOpacity: '0.95', },
     {
         d: 'M273,179L232,146L227,186Z',
         fill: 'rgb(36, 30, 26)',
@@ -8792,7 +8804,7 @@ export const surprise = [
         fill: 'rgb(154, 138, 125)',
         fillOpacity: '0.59',
     },
-    { d: 'M199,73L189,63L164,72Z', fill: 'rgb(38, 0, 0)', fillOpacity: '0.42' },
+    { d: 'M199,73L189,63L164,72Z', fill: 'rgb(38, 0, 0)', fillOpacity: '0.42', },
     {
         d: 'M255,144L264,133L266,169Z',
         fill: 'rgb(152, 138, 103)',
@@ -8828,7 +8840,7 @@ export const surprise = [
         fill: 'rgb(185, 192, 227)',
         fillOpacity: '0.81',
     },
-    { d: 'M155,75L84,80L134,71Z', fill: 'rgb(42, 12, 0)', fillOpacity: '0.68' },
+    { d: 'M155,75L84,80L134,71Z', fill: 'rgb(42, 12, 0)', fillOpacity: '0.68', },
     {
         d: 'M110,322L100,319L109,295Z',
         fill: 'rgb(49, 15, 1)',
@@ -8864,7 +8876,7 @@ export const surprise = [
         fill: 'rgb(204, 194, 194)',
         fillOpacity: '0.58',
     },
-    { d: 'M250,72L223,74L230,79Z', fill: 'rgb(30, 5, 5)', fillOpacity: '0.58' },
+    { d: 'M250,72L223,74L230,79Z', fill: 'rgb(30, 5, 5)', fillOpacity: '0.58', },
     {
         d: 'M44,85L65,89L-14,93Z',
         fill: 'rgb(212, 175, 150)',
@@ -8925,8 +8937,8 @@ export const surprise = [
         fill: 'rgb(133, 123, 118)',
         fillOpacity: '0.53',
     },
-    { d: 'M1,222L12,227L42,226Z', fill: 'rgb(37, 16, 0)', fillOpacity: '0.51' },
-    { d: 'M131,86L170,77L185,81Z', fill: 'rgb(19, 5, 5)', fillOpacity: '0.45' },
+    { d: 'M1,222L12,227L42,226Z', fill: 'rgb(37, 16, 0)', fillOpacity: '0.51', },
+    { d: 'M131,86L170,77L185,81Z', fill: 'rgb(19, 5, 5)', fillOpacity: '0.45', },
     {
         d: 'M320,81L285,75L353,80Z',
         fill: 'rgb(19, 10, 11)',
@@ -8957,7 +8969,7 @@ export const surprise = [
         fill: 'rgb(32, 10, 12)',
         fillOpacity: '0.66',
     },
-    { d: 'M51,97L56,95L51,88Z', fill: 'rgb(44, 16, 28)', fillOpacity: '0.39' },
+    { d: 'M51,97L56,95L51,88Z', fill: 'rgb(44, 16, 28)', fillOpacity: '0.39', },
     {
         d: 'M437,82L445,76L426,84Z',
         fill: 'rgb(46, 69, 80)',
@@ -8968,7 +8980,7 @@ export const surprise = [
         fill: 'rgb(218, 210, 240)',
         fillOpacity: '0.37',
     },
-    { d: 'M130,82L126,86L142,84Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57' },
+    { d: 'M130,82L126,86L142,84Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57', },
     {
         d: 'M110,248L47,267L91,218Z',
         fill: 'rgb(147, 131, 114)',
@@ -9072,7 +9084,7 @@ export const sncf = [
         fill: 'rgb(189, 0, 82)',
         fillOpacity: '0.63',
     },
-    { d: 'M61,61L36,71L74,89Z', fill: 'rgb(144, 0, 95)', fillOpacity: '0.58' },
+    { d: 'M61,61L36,71L74,89Z', fill: 'rgb(144, 0, 95)', fillOpacity: '0.58', },
     {
         d: 'M265,-112L136,-3L275,63Z',
         fill: 'rgb(0, 0, 0)',
@@ -9133,13 +9145,13 @@ export const sncf = [
         fill: 'rgb(116, 0, 121)',
         fillOpacity: '0.66',
     },
-    { d: 'M-3,-42L95,3L250,32Z', fill: 'rgb(4, 0, 1)', fillOpacity: '0.99' },
+    { d: 'M-3,-42L95,3L250,32Z', fill: 'rgb(4, 0, 1)', fillOpacity: '0.99', },
     {
         d: 'M249,74L255,54L219,36Z',
         fill: 'rgb(242, 9, 0)',
         fillOpacity: '0.60',
     },
-    { d: 'M41,-1L115,6L87,-119Z', fill: 'rgb(16, 0, 9)', fillOpacity: '0.96' },
+    { d: 'M41,-1L115,6L87,-119Z', fill: 'rgb(16, 0, 9)', fillOpacity: '0.96', },
     {
         d: 'M68,85L95,63L74,56Z',
         fill: 'rgb(253, 255, 255)',
@@ -9235,7 +9247,7 @@ export const sncf = [
         fill: 'rgb(129, 20, 121)',
         fillOpacity: '0.58',
     },
-    { d: 'M42,76L51,59L71,84Z', fill: 'rgb(166, 0, 121)', fillOpacity: '0.53' },
+    { d: 'M42,76L51,59L71,84Z', fill: 'rgb(166, 0, 121)', fillOpacity: '0.53', },
     {
         d: 'M18,99L-20,177L7,-61Z',
         fill: 'rgb(127, 27, 113)',
@@ -9256,7 +9268,7 @@ export const sncf = [
         fill: 'rgb(220, 23, 50)',
         fillOpacity: '0.62',
     },
-    { d: 'M257,49L250,78L254,145Z', fill: 'rgb(4, 0, 0)', fillOpacity: '0.93' },
+    { d: 'M257,49L250,78L254,145Z', fill: 'rgb(4, 0, 0)', fillOpacity: '0.93', },
     {
         d: 'M143,110L123,97L140,116Z',
         fill: 'rgb(134, 72, 94)',
@@ -9287,8 +9299,8 @@ export const sncf = [
         fill: 'rgb(205, 15, 71)',
         fillOpacity: '0.75',
     },
-    { d: 'M349,-67L249,49L205,29Z', fill: 'rgb(1, 0, 0)', fillOpacity: '0.93' },
-    { d: 'M60,51L75,2L95,63Z', fill: 'rgb(183, 12, 113)', fillOpacity: '0.84' },
+    { d: 'M349,-67L249,49L205,29Z', fill: 'rgb(1, 0, 0)', fillOpacity: '0.93', },
+    { d: 'M60,51L75,2L95,63Z', fill: 'rgb(183, 12, 113)', fillOpacity: '0.84', },
     {
         d: 'M99,89L91,106L69,88Z',
         fill: 'rgb(183, 19, 106)',
@@ -9319,7 +9331,7 @@ export const sncf = [
         fill: 'rgb(220, 2, 21)',
         fillOpacity: '0.43',
     },
-    { d: 'M41,72L56,68L45,62Z', fill: 'rgb(150, 4, 118)', fillOpacity: '0.53' },
+    { d: 'M41,72L56,68L45,62Z', fill: 'rgb(150, 4, 118)', fillOpacity: '0.53', },
     {
         d: 'M21,67L-55,98L25,85Z',
         fill: 'rgb(133, 28, 115)',
@@ -9375,7 +9387,7 @@ export const sncf = [
         fill: 'rgb(113, 96, 104)',
         fillOpacity: '0.52',
     },
-    { d: 'M69,86L37,68L69,62Z', fill: 'rgb(161, 0, 119)', fillOpacity: '0.44' },
+    { d: 'M69,86L37,68L69,62Z', fill: 'rgb(161, 0, 119)', fillOpacity: '0.44', },
     {
         d: 'M58,61L39,66L43,76Z',
         fill: 'rgb(141, 32, 116)',
@@ -9481,7 +9493,7 @@ export const sncf = [
         fill: 'rgb(246, 252, 245)',
         fillOpacity: '0.48',
     },
-    { d: 'M89,4L43,1L91,38Z', fill: 'rgb(182, 10, 118)', fillOpacity: '0.65' },
+    { d: 'M89,4L43,1L91,38Z', fill: 'rgb(182, 10, 118)', fillOpacity: '0.65', },
     {
         d: 'M39,74L43,64L70,85Z',
         fill: 'rgb(172, 13, 129)',
@@ -9492,7 +9504,7 @@ export const sncf = [
         fill: 'rgb(248, 252, 250)',
         fillOpacity: '0.63',
     },
-    { d: 'M57,54L62,1L74,56Z', fill: 'rgb(177, 14, 122)', fillOpacity: '0.91' },
+    { d: 'M57,54L62,1L74,56Z', fill: 'rgb(177, 14, 122)', fillOpacity: '0.91', },
     {
         d: 'M60,99L48,88L57,93Z',
         fill: 'rgb(122, 141, 124)',
@@ -9583,7 +9595,7 @@ export const sncf = [
         fill: 'rgb(248, 255, 255)',
         fillOpacity: '0.50',
     },
-    { d: 'M95,-5L114,8L122,-28Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55' },
+    { d: 'M95,-5L114,8L122,-28Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
     {
         d: 'M228,56L181,21L245,48Z',
         fill: 'rgb(227, 24, 31)',
@@ -9619,7 +9631,7 @@ export const sncf = [
         fill: 'rgb(110, 118, 106)',
         fillOpacity: '0.47',
     },
-    { d: 'M79,87L89,90L72,94Z', fill: 'rgb(183, 9, 109)', fillOpacity: '0.57' },
+    { d: 'M79,87L89,90L72,94Z', fill: 'rgb(183, 9, 109)', fillOpacity: '0.57', },
     {
         d: 'M54,114L18,105L17,114Z',
         fill: 'rgb(255, 255, 255)',
@@ -9723,7 +9735,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(255, 252, 251)',
         fillOpacity: '0.60',
     },
-    { d: 'M63,94L-43,44L24,214Z', fill: 'rgb(3, 11, 7)', fillOpacity: '0.65' },
+    { d: 'M63,94L-43,44L24,214Z', fill: 'rgb(3, 11, 7)', fillOpacity: '0.65', },
     {
         d: 'M142,102L110,113L167,144Z',
         fill: 'rgb(255, 253, 255)',
@@ -9744,7 +9756,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(238, 176, 180)',
         fillOpacity: '0.53',
     },
-    { d: 'M84,142L97,105L93,171Z', fill: 'rgb(16, 7, 0)', fillOpacity: '0.36' },
+    { d: 'M84,142L97,105L93,171Z', fill: 'rgb(16, 7, 0)', fillOpacity: '0.36', },
     {
         d: 'M87,103L129,105L144,60Z',
         fill: 'rgb(111, 67, 72)',
@@ -9840,7 +9852,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(70, 54, 35)',
         fillOpacity: '0.64',
     },
-    { d: 'M111,37L124,32L99,57Z', fill: 'rgb(37, 5, 2)', fillOpacity: '0.57' },
+    { d: 'M111,37L124,32L99,57Z', fill: 'rgb(37, 5, 2)', fillOpacity: '0.57', },
     {
         d: 'M70,78L106,86L104,57Z',
         fill: 'rgb(67, 29, 27)',
@@ -9861,7 +9873,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(234, 201, 193)',
         fillOpacity: '0.66',
     },
-    { d: 'M96,36L66,51L59,-46Z', fill: 'rgb(36, 50, 3)', fillOpacity: '0.48' },
+    { d: 'M96,36L66,51L59,-46Z', fill: 'rgb(36, 50, 3)', fillOpacity: '0.48', },
     {
         d: 'M134,102L148,51L151,105Z',
         fill: 'rgb(37, 21, 25)',
@@ -9892,7 +9904,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(87, 81, 100)',
         fillOpacity: '0.50',
     },
-    { d: 'M4,-1L22,62L-46,36Z', fill: 'rgb(27, 44, 11)', fillOpacity: '0.59' },
+    { d: 'M4,-1L22,62L-46,36Z', fill: 'rgb(27, 44, 11)', fillOpacity: '0.59', },
     {
         d: 'M82,133L93,106L90,121Z',
         fill: 'rgb(255, 255, 245)',
@@ -10063,8 +10075,8 @@ export const arreteLaDrogue = [
         fill: 'rgb(126, 109, 107)',
         fillOpacity: '0.50',
     },
-    { d: 'M86,92L83,83L100,93Z', fill: 'rgb(64, 23, 26)', fillOpacity: '0.51' },
-    { d: 'M69,93L61,72L78,67Z', fill: 'rgb(47, 40, 33)', fillOpacity: '0.60' },
+    { d: 'M86,92L83,83L100,93Z', fill: 'rgb(64, 23, 26)', fillOpacity: '0.51', },
+    { d: 'M69,93L61,72L78,67Z', fill: 'rgb(47, 40, 33)', fillOpacity: '0.60', },
     {
         d: 'M222,-8L205,-7L207,11Z',
         fill: 'rgb(192, 244, 95)',
@@ -10080,7 +10092,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.61',
     },
-    { d: 'M29,188L54,127L-5,103Z', fill: 'rgb(1, 0, 5)', fillOpacity: '0.42' },
+    { d: 'M29,188L54,127L-5,103Z', fill: 'rgb(1, 0, 5)', fillOpacity: '0.42', },
     {
         d: 'M129,8L126,25L139,16Z',
         fill: 'rgb(129, 146, 78)',
@@ -10106,14 +10118,14 @@ export const arreteLaDrogue = [
         fill: 'rgb(255, 255, 255)',
         fillOpacity: '0.51',
     },
-    { d: 'M25,57L49,38L39,68Z', fill: 'rgb(108, 99, 82)', fillOpacity: '0.50' },
+    { d: 'M25,57L49,38L39,68Z', fill: 'rgb(108, 99, 82)', fillOpacity: '0.50', },
     {
         d: 'M145,103L120,111L149,107Z',
         fill: 'rgb(250, 249, 251)',
         fillOpacity: '0.53',
     },
-    { d: 'M192,7L181,45L173,5Z', fill: 'rgb(39, 56, 15)', fillOpacity: '0.55' },
-    { d: 'M28,4L4,12L21,49Z', fill: 'rgb(82, 101, 47)', fillOpacity: '0.57' },
+    { d: 'M192,7L181,45L173,5Z', fill: 'rgb(39, 56, 15)', fillOpacity: '0.55', },
+    { d: 'M28,4L4,12L21,49Z', fill: 'rgb(82, 101, 47)', fillOpacity: '0.57', },
     {
         d: 'M253,86L249,98L249,79Z',
         fill: 'rgb(231, 235, 213)',
@@ -10149,7 +10161,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(129, 123, 112)',
         fillOpacity: '0.51',
     },
-    { d: 'M73,105L64,76L45,85Z', fill: 'rgb(86, 89, 84)', fillOpacity: '0.59' },
+    { d: 'M73,105L64,76L45,85Z', fill: 'rgb(86, 89, 84)', fillOpacity: '0.59', },
     {
         d: 'M125,124L150,124L146,104Z',
         fill: 'rgb(252, 243, 253)',
@@ -10185,7 +10197,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(78, 58, 56)',
         fillOpacity: '0.64',
     },
-    { d: 'M48,65L39,52L44,77Z', fill: 'rgb(37, 28, 22)', fillOpacity: '0.52' },
+    { d: 'M48,65L39,52L44,77Z', fill: 'rgb(37, 28, 22)', fillOpacity: '0.52', },
     {
         d: 'M110,77L119,81L125,60Z',
         fill: 'rgb(98, 52, 44)',
@@ -10211,7 +10223,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(125, 129, 93)',
         fillOpacity: '0.52',
     },
-    { d: 'M62,51L40,41L57,-20Z', fill: 'rgb(50, 60, 25)', fillOpacity: '0.51' },
+    { d: 'M62,51L40,41L57,-20Z', fill: 'rgb(50, 60, 25)', fillOpacity: '0.51', },
     {
         d: 'M122,80L115,73L135,79Z',
         fill: 'rgb(47, 16, 15)',
@@ -10222,7 +10234,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(55, 65, 38)',
         fillOpacity: '0.48',
     },
-    { d: 'M37,3L44,3L42,-1Z', fill: 'rgb(195, 213, 230)', fillOpacity: '0.33' },
+    { d: 'M37,3L44,3L42,-1Z', fill: 'rgb(195, 213, 230)', fillOpacity: '0.33', },
     {
         d: 'M79,135L76,183L84,126Z',
         fill: 'rgb(64, 62, 84)',
@@ -10233,7 +10245,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(147, 160, 93)',
         fillOpacity: '0.54',
     },
-    { d: 'M39,12L32,23L52,9Z', fill: 'rgb(25, 43, 13)', fillOpacity: '0.46' },
+    { d: 'M39,12L32,23L52,9Z', fill: 'rgb(25, 43, 13)', fillOpacity: '0.46', },
     {
         d: 'M116,132L108,130L121,144Z',
         fill: 'rgb(231, 216, 221)',
@@ -10244,7 +10256,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(212, 168, 159)',
         fillOpacity: '0.36',
     },
-    { d: 'M89,54L72,68L67,58Z', fill: 'rgb(47, 48, 33)', fillOpacity: '0.64' },
+    { d: 'M89,54L72,68L67,58Z', fill: 'rgb(47, 48, 33)', fillOpacity: '0.64', },
     {
         d: 'M160,39L171,45L165,58Z',
         fill: 'rgb(118, 135, 74)',
@@ -10255,13 +10267,13 @@ export const arreteLaDrogue = [
         fill: 'rgb(103, 78, 65)',
         fillOpacity: '0.45',
     },
-    { d: 'M78,59L87,70L75,91Z', fill: 'rgb(86, 88, 71)', fillOpacity: '0.54' },
+    { d: 'M78,59L87,70L75,91Z', fill: 'rgb(86, 88, 71)', fillOpacity: '0.54', },
     {
         d: 'M49,59L47,71L56,73Z',
         fill: 'rgb(113, 106, 106)',
         fillOpacity: '0.46',
     },
-    { d: 'M68,96L50,129L13,97Z', fill: 'rgb(34, 45, 32)', fillOpacity: '0.63' },
+    { d: 'M68,96L50,129L13,97Z', fill: 'rgb(34, 45, 32)', fillOpacity: '0.63', },
     {
         d: 'M209,50L213,61L204,65Z',
         fill: 'rgb(145, 138, 129)',
@@ -10277,7 +10289,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(174, 195, 187)',
         fillOpacity: '0.55',
     },
-    { d: 'M20,62L28,48L-17,36Z', fill: 'rgb(39, 49, 25)', fillOpacity: '0.65' },
+    { d: 'M20,62L28,48L-17,36Z', fill: 'rgb(39, 49, 25)', fillOpacity: '0.65', },
     {
         d: 'M114,107L134,103L145,65Z',
         fill: 'rgb(91, 80, 89)',
@@ -10293,7 +10305,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(104, 94, 93)',
         fillOpacity: '0.47',
     },
-    { d: 'M57,37L43,70L48,41Z', fill: 'rgb(36, 32, 15)', fillOpacity: '0.44' },
+    { d: 'M57,37L43,70L48,41Z', fill: 'rgb(36, 32, 15)', fillOpacity: '0.44', },
     {
         d: 'M280,106L249,121L242,109Z',
         fill: 'rgb(69, 81, 45)',
@@ -10319,7 +10331,7 @@ export const arreteLaDrogue = [
         fill: 'rgb(146, 112, 104)',
         fillOpacity: '0.39',
     },
-    { d: 'M94,25L84,4L96,-19Z', fill: 'rgb(89, 111, 50)', fillOpacity: '0.62' },
+    { d: 'M94,25L84,4L96,-19Z', fill: 'rgb(89, 111, 50)', fillOpacity: '0.62', },
     {
         d: 'M230,90L246,93L237,89Z',
         fill: 'rgb(195, 189, 197)',
@@ -10378,7 +10390,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(163, 153, 132)',
         fillOpacity: '0.82',
     },
-    { d: 'M-93,-89L29,253L33,-6Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.97' },
+    { d: 'M-93,-89L29,253L33,-6Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.97', },
     {
         d: 'M217,20L238,243L305,-134Z',
         fill: 'rgb(4, 4, 3)',
@@ -10414,7 +10426,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(207, 208, 196)',
         fillOpacity: '0.57',
     },
-    { d: 'M79,67L43,63L68,91Z', fill: 'rgb(75, 89, 60)', fillOpacity: '0.58' },
+    { d: 'M79,67L43,63L68,91Z', fill: 'rgb(75, 89, 60)', fillOpacity: '0.58', },
     {
         d: 'M196,83L203,37L182,86Z',
         fill: 'rgb(224, 227, 206)',
@@ -10445,7 +10457,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(200, 194, 177)',
         fillOpacity: '0.57',
     },
-    { d: 'M158,56L90,36L104,93Z', fill: 'rgb(43, 22, 3)', fillOpacity: '0.38' },
+    { d: 'M158,56L90,36L104,93Z', fill: 'rgb(43, 22, 3)', fillOpacity: '0.38', },
     {
         d: 'M122,73L123,130L133,75Z',
         fill: 'rgb(225, 101, 100)',
@@ -10481,7 +10493,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(229, 210, 185)',
         fillOpacity: '0.31',
     },
-    { d: 'M43,129L16,126L28,147Z', fill: 'rgb(4, 10, 0)', fillOpacity: '0.38' },
+    { d: 'M43,129L16,126L28,147Z', fill: 'rgb(4, 10, 0)', fillOpacity: '0.38', },
     {
         d: 'M167,73L156,26L152,76Z',
         fill: 'rgb(244, 244, 222)',
@@ -10507,7 +10519,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(42, 48, 28)',
         fillOpacity: '0.54',
     },
-    { d: 'M222,23L231,-50L291,93Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.82' },
+    { d: 'M222,23L231,-50L291,93Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.82', },
     {
         d: 'M126,32L136,29L135,41Z',
         fill: 'rgb(255, 246, 224)',
@@ -10578,13 +10590,13 @@ export const maisOuiCestClair = [
         fill: 'rgb(247, 221, 192)',
         fillOpacity: '0.43',
     },
-    { d: 'M423,39L224,154L224,85Z', fill: 'rgb(1, 1, 1)', fillOpacity: '1.00' },
+    { d: 'M423,39L224,154L224,85Z', fill: 'rgb(1, 1, 1)', fillOpacity: '1.00', },
     {
         d: 'M93,37L32,-9L32,32Z',
         fill: 'rgb(249, 246, 241)',
         fillOpacity: '0.88',
     },
-    { d: 'M81,71L69,85L58,66Z', fill: 'rgb(57, 71, 38)', fillOpacity: '0.51' },
+    { d: 'M81,71L69,85L58,66Z', fill: 'rgb(57, 71, 38)', fillOpacity: '0.51', },
     {
         d: 'M183,74L200,73L199,90Z',
         fill: 'rgb(163, 155, 131)',
@@ -10615,7 +10627,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(96, 127, 125)',
         fillOpacity: '0.53',
     },
-    { d: 'M94,14L93,42L105,3Z', fill: 'rgb(77, 69, 60)', fillOpacity: '0.48' },
+    { d: 'M94,14L93,42L105,3Z', fill: 'rgb(77, 69, 60)', fillOpacity: '0.48', },
     {
         d: 'M140,51L196,-38L184,58Z',
         fill: 'rgb(255, 255, 241)',
@@ -10631,7 +10643,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(172, 176, 154)',
         fillOpacity: '0.45',
     },
-    { d: 'M186,20L191,8L233,7Z', fill: 'rgb(96, 99, 81)', fillOpacity: '0.29' },
+    { d: 'M186,20L191,8L233,7Z', fill: 'rgb(96, 99, 81)', fillOpacity: '0.29', },
     {
         d: 'M132,102L123,122L118,85Z',
         fill: 'rgb(203, 95, 94)',
@@ -10657,7 +10669,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(184, 81, 83)',
         fillOpacity: '0.41',
     },
-    { d: 'M117,34L96,17L92,33Z', fill: 'rgb(56, 52, 39)', fillOpacity: '0.44' },
+    { d: 'M117,34L96,17L92,33Z', fill: 'rgb(56, 52, 39)', fillOpacity: '0.44', },
     {
         d: 'M224,123L186,173L224,141Z',
         fill: 'rgb(167, 152, 129)',
@@ -10718,13 +10730,13 @@ export const maisOuiCestClair = [
         fill: 'rgb(255, 255, 252)',
         fillOpacity: '0.64',
     },
-    { d: 'M276,76L223,85L233,30Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.78' },
+    { d: 'M276,76L223,85L233,30Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.78', },
     {
         d: 'M149,130L135,116L140,115Z',
         fill: 'rgb(188, 179, 158)',
         fillOpacity: '0.52',
     },
-    { d: 'M32,5L31,-12L29,36Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57' },
+    { d: 'M32,5L31,-12L29,36Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.57', },
     {
         d: 'M111,135L77,104L106,92Z',
         fill: 'rgb(225, 96, 104)',
@@ -10760,7 +10772,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(158, 160, 141)',
         fillOpacity: '0.41',
     },
-    { d: 'M32,147L32,73L-40,137Z', fill: 'rgb(1, 1, 1)', fillOpacity: '1.00' },
+    { d: 'M32,147L32,73L-40,137Z', fill: 'rgb(1, 1, 1)', fillOpacity: '1.00', },
     {
         d: 'M132,40L163,48L129,23Z',
         fill: 'rgb(249, 244, 227)',
@@ -10781,7 +10793,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(242, 238, 219)',
         fillOpacity: '0.64',
     },
-    { d: 'M41,57L21,37L36,48Z', fill: 'rgb(38, 37, 29)', fillOpacity: '0.45' },
+    { d: 'M41,57L21,37L36,48Z', fill: 'rgb(38, 37, 29)', fillOpacity: '0.45', },
     {
         d: 'M194,95L193,106L208,99Z',
         fill: 'rgb(205, 192, 171)',
@@ -10842,7 +10854,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(242, 239, 217)',
         fillOpacity: '0.55',
     },
-    { d: 'M81,75L70,67L68,83Z', fill: 'rgb(72, 76, 43)', fillOpacity: '0.63' },
+    { d: 'M81,75L70,67L68,83Z', fill: 'rgb(72, 76, 43)', fillOpacity: '0.63', },
     {
         d: 'M49,68L32,35L60,56Z',
         fill: 'rgb(195, 196, 181)',
@@ -10933,7 +10945,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(82, 97, 75)',
         fillOpacity: '0.54',
     },
-    { d: 'M92,45L91,37L100,58Z', fill: 'rgb(75, 64, 60)', fillOpacity: '0.57' },
+    { d: 'M92,45L91,37L100,58Z', fill: 'rgb(75, 64, 60)', fillOpacity: '0.57', },
     {
         d: 'M127,56L122,50L125,44Z',
         fill: 'rgb(132, 108, 100)',
@@ -10964,7 +10976,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(77, 49, 42)',
         fillOpacity: '0.49',
     },
-    { d: 'M101,61L90,64L94,55Z', fill: 'rgb(93, 57, 45)', fillOpacity: '0.59' },
+    { d: 'M101,61L90,64L94,55Z', fill: 'rgb(93, 57, 45)', fillOpacity: '0.59', },
     {
         d: 'M215,135L256,174L166,134Z',
         fill: 'rgb(151, 131, 106)',
@@ -11040,7 +11052,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(200, 184, 154)',
         fillOpacity: '0.50',
     },
-    { d: 'M128,25L97,8L118,7Z', fill: 'rgb(104, 96, 88)', fillOpacity: '0.50' },
+    { d: 'M128,25L97,8L118,7Z', fill: 'rgb(104, 96, 88)', fillOpacity: '0.50', },
     {
         d: 'M218,-14L224,10L222,14Z',
         fill: 'rgb(114, 123, 104)',
@@ -11216,7 +11228,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(109, 108, 99)',
         fillOpacity: '0.45',
     },
-    { d: 'M95,64L92,57L137,64Z', fill: 'rgb(53, 40, 29)', fillOpacity: '0.46' },
+    { d: 'M95,64L92,57L137,64Z', fill: 'rgb(53, 40, 29)', fillOpacity: '0.46', },
     {
         d: 'M155,96L168,92L148,109Z',
         fill: 'rgb(205, 201, 186)',
@@ -11262,7 +11274,7 @@ export const maisOuiCestClair = [
         fill: 'rgb(134, 30, 31)',
         fillOpacity: '0.49',
     },
-    { d: 'M46,62L36,53L64,84Z', fill: 'rgb(100, 91, 73)', fillOpacity: '0.40' },
+    { d: 'M46,62L36,53L64,84Z', fill: 'rgb(100, 91, 73)', fillOpacity: '0.40', },
     {
         d: 'M98,76L84,81L93,57Z',
         fill: 'rgb(202, 108, 108)',
@@ -11279,3 +11291,893 @@ export const maisOuiCestClair = [
         fillOpacity: '0.49',
     },
 ]
+
+export const drums = [
+    { d: 'M96,17L36,9L54,60Z', fill: 'rgb(123, 110, 94)', fillOpacity: '0.58', },
+    {
+        d: 'M49,125L70,153L82,127Z',
+        fill: 'rgb(111, 112, 114)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M54,94L62,130L62,34Z',
+        fill: 'rgb(232, 239, 249)',
+        fillOpacity: '0.33',
+    },
+    {
+        d: 'M28,58L24,127L21,56Z',
+        fill: 'rgb(164, 168, 174)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M201,38L179,37L194,45Z',
+        fill: 'rgb(190, 171, 152)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M194,21L172,9L208,2Z',
+        fill: 'rgb(161, 144, 124)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M135,77L115,38L170,51Z',
+        fill: 'rgb(126, 128, 132)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M53,125L26,152L13,157Z',
+        fill: 'rgb(174, 175, 177)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M243,160L201,42L159,49Z',
+        fill: 'rgb(17, 17, 17)',
+        fillOpacity: '0.95',
+    },
+    {
+        d: 'M210,74L211,26L213,64Z',
+        fill: 'rgb(154, 157, 161)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M34,17L112,21L91,30Z',
+        fill: 'rgb(134, 115, 95)',
+        fillOpacity: '0.60',
+    },
+    {
+        d: 'M17,173L265,173L198,137Z',
+        fill: 'rgb(1, 0, 0)',
+        fillOpacity: '0.63',
+    },
+    {
+        d: 'M108,26L77,54L173,126Z',
+        fill: 'rgb(99, 101, 103)',
+        fillOpacity: '0.36',
+    },
+    {
+        d: 'M160,13L197,6L180,16Z',
+        fill: 'rgb(138, 122, 103)',
+        fillOpacity: '0.66',
+    },
+    {
+        d: 'M214,42L205,28L222,40Z',
+        fill: 'rgb(173, 175, 178)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M41,42L70,43L40,52Z',
+        fill: 'rgb(99, 103, 110)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M135,40L155,40L131,70Z',
+        fill: 'rgb(130, 132, 137)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M48,25L77,28L36,16Z',
+        fill: 'rgb(207, 169, 113)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M35,20L30,48L91,37Z',
+        fill: 'rgb(16, 16, 16)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M213,-11L-27,110L217,229Z',
+        fill: 'rgb(106, 106, 106)',
+        fillOpacity: '0.37',
+    },
+    {
+        d: 'M213,78L198,168L213,139Z',
+        fill: 'rgb(148, 149, 150)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M206,108L214,110L253,146Z',
+        fill: 'rgb(139, 139, 141)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M57,117L83,138L60,155Z',
+        fill: 'rgb(98, 99, 100)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M29,95L4,129L9,155Z',
+        fill: 'rgb(119, 121, 123)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M-76,106L25,86L8,125Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.96',
+    },
+    {
+        d: 'M162,94L147,115L142,92Z',
+        fill: 'rgb(109, 116, 125)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M165,78L171,62L152,63Z',
+        fill: 'rgb(129, 129, 128)',
+        fillOpacity: '0.60',
+    },
+    {
+        d: 'M28,54L27,136L51,95Z',
+        fill: 'rgb(1, 1, 1)',
+        fillOpacity: '0.81',
+    },
+    {
+        d: 'M75,132L99,164L82,157Z',
+        fill: 'rgb(122, 123, 125)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M122,43L139,46L121,52Z',
+        fill: 'rgb(174, 176, 181)',
+        fillOpacity: '0.52',
+    },
+    { d: 'M26,64L10,70L43,47Z', fill: 'rgb(97, 97, 98)', fillOpacity: '0.62', },
+    {
+        d: 'M158,44L210,43L183,35Z',
+        fill: 'rgb(143, 130, 117)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M107,184L111,129L113,150Z',
+        fill: 'rgb(192, 196, 203)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M23,129L26,109L27,140Z',
+        fill: 'rgb(224, 226, 230)',
+        fillOpacity: '0.37',
+    },
+    { d: 'M170,82L210,53L173,99Z', fill: 'rgb(7, 7, 7)', fillOpacity: '0.63', },
+    {
+        d: 'M61,75L42,66L122,73Z',
+        fill: 'rgb(138, 137, 136)',
+        fillOpacity: '0.33',
+    },
+    { d: 'M92,-21L209,35L124,39Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.83', },
+    {
+        d: 'M235,-1L198,5L194,15Z',
+        fill: 'rgb(122, 109, 94)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M27,136L17,137L38,129Z',
+        fill: 'rgb(125, 126, 129)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M176,45L187,37L187,26Z',
+        fill: 'rgb(123, 114, 106)',
+        fillOpacity: '0.65',
+    },
+    {
+        d: 'M49,69L54,59L51,112Z',
+        fill: 'rgb(115, 117, 120)',
+        fillOpacity: '0.50',
+    },
+    { d: 'M63,10L33,14L54,-95Z', fill: 'rgb(1, 1, 1)', fillOpacity: '1.00', },
+    { d: 'M76,143L96,167L52,160Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.61', },
+    {
+        d: 'M214,140L230,131L232,125Z',
+        fill: 'rgb(190, 189, 190)',
+        fillOpacity: '0.44',
+    },
+    {
+        d: 'M177,83L156,84L163,65Z',
+        fill: 'rgb(99, 99, 99)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M145,59L140,50L137,84Z',
+        fill: 'rgb(138, 140, 145)',
+        fillOpacity: '0.65',
+    },
+    {
+        d: 'M186,117L184,83L186,50Z',
+        fill: 'rgb(150, 152, 155)',
+        fillOpacity: '0.66',
+    },
+    {
+        d: 'M215,39L229,50L236,60Z',
+        fill: 'rgb(234, 236, 237)',
+        fillOpacity: '0.39',
+    },
+    { d: 'M50,125L27,97L50,53Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.62', },
+    {
+        d: 'M195,98L183,88L200,118Z',
+        fill: 'rgb(146, 149, 152)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M49,126L62,121L59,126Z',
+        fill: 'rgb(145, 148, 152)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M231,165L203,137L205,181Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M98,72L91,58L92,35Z',
+        fill: 'rgb(125, 127, 132)',
+        fillOpacity: '0.52',
+    },
+    { d: 'M190,27L239,32L238,-11Z', fill: 'rgb(1, 1, 1)', fillOpacity: '0.77', },
+    {
+        d: 'M59,50L69,40L45,33Z',
+        fill: 'rgb(234, 234, 240)',
+        fillOpacity: '0.20',
+    },
+    {
+        d: 'M12,159L25,150L8,167Z',
+        fill: 'rgb(144, 148, 152)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M107,25L33,16L70,11Z',
+        fill: 'rgb(143, 126, 109)',
+        fillOpacity: '0.41',
+    },
+    {
+        d: 'M51,89L49,105L52,123Z',
+        fill: 'rgb(192, 197, 205)',
+        fillOpacity: '0.39',
+    },
+    {
+        d: 'M133,74L123,58L129,50Z',
+        fill: 'rgb(28, 27, 27)',
+        fillOpacity: '0.55',
+    },
+    { d: 'M111,170L68,97L88,150Z', fill: 'rgb(2, 2, 1)', fillOpacity: '0.70', },
+    {
+        d: 'M54,150L70,146L64,151Z',
+        fill: 'rgb(182, 182, 187)',
+        fillOpacity: '0.38',
+    },
+    {
+        d: 'M43,121L54,128L43,118Z',
+        fill: 'rgb(178, 180, 184)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M54,34L23,34L49,37Z',
+        fill: 'rgb(223, 206, 188)',
+        fillOpacity: '0.35',
+    },
+    {
+        d: 'M210,30L212,40L216,33Z',
+        fill: 'rgb(203, 205, 208)',
+        fillOpacity: '0.48',
+    },
+    { d: 'M83,116L94,77L66,76Z', fill: 'rgb(12, 11, 10)', fillOpacity: '0.46', },
+    { d: 'M69,71L92,57L63,38Z', fill: 'rgb(2, 2, 2)', fillOpacity: '0.80', },
+    {
+        d: 'M128,101L108,93L119,105Z',
+        fill: 'rgb(82, 83, 86)',
+        fillOpacity: '0.56',
+    },
+    { d: 'M49,33L54,60L54,45Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.64', },
+    { d: 'M4,73L38,56L-35,100Z', fill: 'rgb(90, 91, 91)', fillOpacity: '0.44', },
+    {
+        d: 'M195,21L216,38L187,9Z',
+        fill: 'rgb(182, 180, 181)',
+        fillOpacity: '0.46',
+    },
+    { d: 'M69,145L62,149L69,132Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.45', },
+    {
+        d: 'M242,138L245,139L257,151Z',
+        fill: 'rgb(164, 165, 166)',
+        fillOpacity: '0.57',
+    },
+    { d: 'M186,72L209,37L209,103Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.80', },
+    { d: 'M146,35L74,27L64,39Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.70', },
+    { d: 'M187,27L102,38L100,-17Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.84', },
+    {
+        d: 'M27,104L38,111L55,132Z',
+        fill: 'rgb(125, 126, 129)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M97,42L127,39L114,37Z',
+        fill: 'rgb(110, 108, 107)',
+        fillOpacity: '0.44',
+    },
+    {
+        d: 'M209,61L210,110L215,90Z',
+        fill: 'rgb(109, 110, 114)',
+        fillOpacity: '0.58',
+    },
+    { d: 'M67,114L108,147L79,140Z', fill: 'rgb(7, 7, 7)', fillOpacity: '0.67', },
+    {
+        d: 'M210,42L206,30L214,33Z',
+        fill: 'rgb(169, 173, 178)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M229,133L206,140L207,146Z',
+        fill: 'rgb(115, 114, 115)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M70,96L59,75L56,107Z',
+        fill: 'rgb(118, 121, 128)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M199,162L190,145L182,120Z',
+        fill: 'rgb(136, 136, 139)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M113,106L88,117L58,139Z',
+        fill: 'rgb(87, 89, 92)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M118,64L91,66L116,90Z',
+        fill: 'rgb(90, 88, 88)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M9,135L12,171L-3,132Z',
+        fill: 'rgb(37, 38, 39)',
+        fillOpacity: '0.57',
+    },
+    { d: 'M188,46L164,43L154,57Z', fill: 'rgb(1, 1, 1)', fillOpacity: '0.57', },
+    {
+        d: 'M88,89L91,99L92,85Z',
+        fill: 'rgb(107, 109, 113)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M183,93L178,96L180,90Z',
+        fill: 'rgb(163, 165, 169)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M111,125L101,133L129,153Z',
+        fill: 'rgb(99, 99, 99)',
+        fillOpacity: '0.34',
+    },
+    {
+        d: 'M128,152L140,163L191,138Z',
+        fill: 'rgb(51, 50, 50)',
+        fillOpacity: '0.53',
+    },
+    { d: 'M194,13L197,18L202,12Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.55', },
+    {
+        d: 'M199,121L181,130L195,112Z',
+        fill: 'rgb(3, 2, 2)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M20,117L26,120L27,103Z',
+        fill: 'rgb(139, 141, 143)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M132,50L132,60L143,66Z',
+        fill: 'rgb(143, 146, 153)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M211,111L209,133L215,111Z',
+        fill: 'rgb(150, 151, 152)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M44,49L53,28L48,51Z',
+        fill: 'rgb(129, 127, 127)',
+        fillOpacity: '0.50',
+    },
+    { d: 'M86,53L102,38L84,42Z', fill: 'rgb(92, 91, 91)', fillOpacity: '0.47', },
+    {
+        d: 'M78,144L95,161L92,161Z',
+        fill: 'rgb(180, 181, 185)',
+        fillOpacity: '0.50',
+    },
+    { d: 'M199,31L174,25L185,11Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.64', },
+    {
+        d: 'M141,44L132,48L140,59Z',
+        fill: 'rgb(60, 62, 66)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M104,166L110,146L100,144Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M95,76L148,88L129,77Z',
+        fill: 'rgb(108, 107, 107)',
+        fillOpacity: '0.41',
+    },
+    {
+        d: 'M100,167L81,140L100,174Z',
+        fill: 'rgb(134, 136, 140)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M212,73L211,28L211,145Z',
+        fill: 'rgb(159, 160, 163)',
+        fillOpacity: '0.80',
+    },
+    { d: 'M22,74L19,68L20,94Z', fill: 'rgb(76, 77, 77)', fillOpacity: '0.41', },
+    {
+        d: 'M144,69L165,42L147,41Z',
+        fill: 'rgb(54, 54, 56)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M194,115L201,113L194,99Z',
+        fill: 'rgb(109, 110, 113)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M254,151L252,145L213,111Z',
+        fill: 'rgb(141, 141, 143)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M204,27L239,13L194,11Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.60',
+    },
+    {
+        d: 'M13,123L9,122L1,164Z',
+        fill: 'rgb(4, 4, 4)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M95,132L98,96L90,114Z',
+        fill: 'rgb(107, 108, 111)',
+        fillOpacity: '0.36',
+    },
+    {
+        d: 'M76,118L62,114L71,128Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M183,62L187,35L187,73Z',
+        fill: 'rgb(109, 108, 108)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M176,71L160,65L165,62Z',
+        fill: 'rgb(161, 160, 159)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M192,45L207,40L193,37Z',
+        fill: 'rgb(128, 118, 110)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M210,130L203,119L206,148Z',
+        fill: 'rgb(95, 95, 95)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M192,143L192,149L189,139Z',
+        fill: 'rgb(182, 185, 190)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M62,44L52,66L53,60Z',
+        fill: 'rgb(160, 162, 168)',
+        fillOpacity: '0.61',
+    },
+    {
+        d: 'M164,37L202,44L170,42Z',
+        fill: 'rgb(129, 119, 108)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M202,136L193,125L188,140Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M255,-20L224,46L215,36Z',
+        fill: 'rgb(1, 1, 1)',
+        fillOpacity: '1.00',
+    },
+    {
+        d: 'M143,65L161,63L152,85Z',
+        fill: 'rgb(18, 17, 16)',
+        fillOpacity: '0.41',
+    },
+    {
+        d: 'M66,133L78,135L65,123Z',
+        fill: 'rgb(189, 189, 196)',
+        fillOpacity: '0.34',
+    },
+    {
+        d: 'M50,72L56,62L56,117Z',
+        fill: 'rgb(15, 15, 14)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M112,84L137,108L150,88Z',
+        fill: 'rgb(43, 44, 47)',
+        fillOpacity: '0.77',
+    },
+    {
+        d: 'M60,108L80,92L63,80Z',
+        fill: 'rgb(61, 62, 63)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M20,84L26,92L25,79Z',
+        fill: 'rgb(133, 136, 144)',
+        fillOpacity: '0.44',
+    },
+    {
+        d: 'M91,103L85,121L76,99Z',
+        fill: 'rgb(5, 0, 1)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M166,17L163,14L191,13Z',
+        fill: 'rgb(156, 128, 92)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M97,29L103,25L89,16Z',
+        fill: 'rgb(127, 116, 108)',
+        fillOpacity: '0.53',
+    },
+    { 
+        d: 'M149,26L173,49L158,41Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M61,145L50,145L52,132Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M48,146L36,137L59,150Z',
+        fill: 'rgb(155, 154, 154)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M125,53L158,39L137,39Z',
+        fill: 'rgb(128, 129, 131)',
+        fillOpacity: '0.57',
+    },
+    {
+        d: 'M59,156L64,141L59,131Z',
+        fill: 'rgb(155, 154, 156)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M120,43L127,61L99,42Z',
+        fill: 'rgb(35, 36, 39)',
+        fillOpacity: '0.50',
+    },
+    { d: 'M186,91L206,100L188,66Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.58', },
+    { d: 'M59,44L61,40L43,38Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.53', },
+    { d: 'M176,70L170,94L182,79Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.52', },
+    { d: 'M16,114L24,89L-9,139Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.64', },
+    {
+        d: 'M72,136L57,128L74,154Z',
+        fill: 'rgb(40, 39, 41)',
+        fillOpacity: '0.44',
+    },
+    {
+        d: 'M105,84L95,97L95,81Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.60'
+    },
+    {
+        d: 'M58,50L51,63L48,49Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.47'
+    },
+    {
+        d: 'M190,3L209,3L253,-29Z', fill: 'rgb(4, 3, 3)', fillOpacity: '0.94'
+    },
+    {
+        d: 'M85,144L91,154L76,139Z',
+        fill: 'rgb(155, 155, 158)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M79,74L76,68L79,83Z',
+        fill: 'rgb(104, 104, 105)',
+        fillOpacity: '0.62',
+    },
+    {
+        d: 'M152,99L148,93L148,112Z',
+        fill: 'rgb(143, 149, 157)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M43,132L56,130L51,127Z',
+        fill: 'rgb(137, 138, 140)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M161,53L167,69L161,62Z',
+        fill: 'rgb(148, 147, 146)',
+        fillOpacity: '0.45',
+    },
+    {
+        d: 'M68,23L63,38L69,32Z',
+        fill: 'rgb(115, 108, 104)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M138,63L134,57L145,58Z',
+        fill: 'rgb(182, 186, 194)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M208,139L203,120L215,145Z',
+        fill: 'rgb(139, 139, 141)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M200,2L217,7L221,5Z',
+        fill: 'rgb(131, 122, 113)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M38,21L74,14L49,12Z',
+        fill: 'rgb(130, 109, 84)',
+        fillOpacity: '0.58',
+    },
+    {
+        d: 'M27,63L25,59L31,56Z',
+        fill: 'rgb(176, 179, 183)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M13,145L6,149L11,131Z',
+        fill: 'rgb(94, 94, 95)',
+        fillOpacity: '0.49',
+    },
+    { d: 'M52,42L56,53L44,60Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.54', },
+    { d: 'M31,19L61,39L65,30Z', fill: 'rgb(0, 0, 0)', fillOpacity: '0.54', },
+    {
+        d: 'M197,143L187,133L209,128Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.47',
+    },
+    {
+        d: 'M42,38L55,25L50,38Z',
+        fill: 'rgb(111, 105, 99)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M304,110L222,118L211,91Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.70',
+    },
+    {
+        d: 'M152,61L155,36L158,62Z',
+        fill: 'rgb(113, 113, 113)',
+        fillOpacity: '0.63',
+    },
+    {
+        d: 'M177,148L135,181L260,201Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.97',
+    },
+    {
+        d: 'M195,16L188,14L196,24Z',
+        fill: 'rgb(161, 167, 175)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M208,110L209,130L197,102Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.60',
+    },
+    {
+        d: 'M87,121L121,123L114,134Z',
+        fill: 'rgb(70, 70, 70)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M221,65L209,64L209,61Z',
+        fill: 'rgb(140, 143, 147)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M117,68L139,72L136,76Z',
+        fill: 'rgb(27, 26, 27)',
+        fillOpacity: '0.59',
+    },
+    {
+        d: 'M202,153L205,150L202,166Z',
+        fill: 'rgb(122, 123, 126)',
+        fillOpacity: '0.46',
+    },
+    {
+        d: 'M79,148L74,133L76,110Z',
+        fill: 'rgb(111, 111, 113)',
+        fillOpacity: '0.42',
+    },
+    {
+        d: 'M146,43L143,64L139,43Z',
+        fill: 'rgb(173, 175, 180)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M115,81L96,102L95,122Z',
+        fill: 'rgb(21, 20, 21)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M13,120L23,136L15,116Z',
+        fill: 'rgb(126, 128, 131)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M168,64L174,61L174,83Z',
+        fill: 'rgb(95, 94, 93)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M78,69L131,64L107,70Z',
+        fill: 'rgb(107, 105, 104)',
+        fillOpacity: '0.48',
+    },
+    {
+        d: 'M236,61L215,114L212,110Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.70',
+    },
+    {
+        d: 'M150,160L113,132L189,99Z',
+        fill: 'rgb(35, 36, 37)',
+        fillOpacity: '0.88',
+    },
+    {
+        d: 'M117,62L117,35L110,52Z',
+        fill: 'rgb(99, 101, 105)',
+        fillOpacity: '0.52',
+    },
+    {
+        d: 'M11,165L4,149L17,165Z',
+        fill: 'rgb(41, 43, 46)',
+        fillOpacity: '0.50',
+    },
+    {
+        d: 'M54,154L93,162L76,146Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.67'
+    },
+    {
+        d: 'M109,132L110,180L112,147Z',
+        fill: 'rgb(142, 145, 149)',
+        fillOpacity: '0.43',
+    },
+    {
+        d: 'M187,43L160,53L176,68Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.52'
+    },
+    {
+        d: 'M68,132L72,141L67,136Z',
+        fill: 'rgb(7, 6, 5)',
+        fillOpacity: '0.51'
+    },
+    {
+        d: 'M41,145L52,137L39,150Z',
+        fill: 'rgb(148, 149, 151)',
+        fillOpacity: '0.40',
+    },
+    {
+        d: 'M69,41L64,38L55,38Z',
+        fill: 'rgb(145, 133, 123)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M189,4L214,9L220,4Z',
+        fill: 'rgb(139, 127, 117)',
+        fillOpacity: '0.56',
+    },
+    {
+        d: 'M6,129L13,127L3,137Z',
+        fill: 'rgb(107, 109, 112)',
+        fillOpacity: '0.51',
+    },
+    {
+        d: 'M131,45L126,58L135,16Z',
+        fill: 'rgb(23, 24, 24)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M50,126L40,126L7,158Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.52'
+    },
+    {
+        d: 'M60,126L51,117L53,110Z',
+        fill: 'rgb(1, 2, 3)',
+        fillOpacity: '0.46'
+    },
+    {
+        d: 'M27,131L43,122L37,114Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.58'
+    },
+    {
+        d: 'M186,72L183,93L187,122Z',
+        fill: 'rgb(114, 115, 117)',
+        fillOpacity: '0.54',
+    },
+    {
+        d: 'M199,116L190,131L211,112Z',
+        fill: 'rgb(74, 76, 78)',
+        fillOpacity: '0.53',
+    },
+    {
+        d: 'M196,103L211,113L186,43Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.67',
+    },
+    {
+        d: 'M27,70L24,71L23,86Z',
+        fill: 'rgb(145, 149, 155)',
+        fillOpacity: '0.49',
+    },
+    {
+        d: 'M157,66L173,63L165,63Z',
+        fill: 'rgb(240, 241, 244)',
+        fillOpacity: '0.35',
+    },
+    {
+        d: 'M87,100L114,80L94,104Z',
+        fill: 'rgb(88, 89, 90)',
+        fillOpacity: '0.39',
+    },
+    {
+        d: 'M192,29L204,28L209,43Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.55',
+    },
+    {
+        d: 'M101,181L95,171L90,151Z',
+        fill: 'rgb(127, 130, 135)',
+        fillOpacity: '0.31',
+    },
+    {
+        d: 'M228,128L212,136L213,116Z',
+        fill: 'rgb(0, 0, 0)',
+        fillOpacity: '0.64',
+    },
+];
