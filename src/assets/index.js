@@ -14,6 +14,7 @@ import {
     maisOuiCestClair,
     warcraft,
     kassosLapin,
+    badumtss,
 } from './data'
 import sncfSound from './jingle-sncf-hq.mp3'
 import surpriseSound from './surprise.mp3'
@@ -30,6 +31,7 @@ import issouSound from './issou.mp3'
 import maisOuiCestClairSound from './maisOuiCestClair.mp3'
 import warcraftSound from './warcraft.mp3'
 import kassosLapinSound from './kassos_lapin.mp3'
+import badumtssSound from './ba-dum-tss.mp3'
 
 export { default as logo } from './logo.png'
 export { default as silence } from './silence.mp3'
@@ -124,5 +126,11 @@ export const data = {
         name: 'Tu risques de te faire pincer très fort',
         image: kassosLapin,
         sound: kassosLapinSound,
+    },
+    16: {
+        id: 16,
+        name: 'BADUM TSS',
+        image: badumtss,
+        sound: badumtssSound,
     },
 }
