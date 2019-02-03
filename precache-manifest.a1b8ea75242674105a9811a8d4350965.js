@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "65a0a7bd5123ad00d7c338682d1c43d0",
-    "url": "/labwhat/static/media/je-vous-emmerde-et-je-rentre-a-ma-maison.65a0a7bd.mp3"
+    "revision": "a284f2a82a1bcffe72a0",
+    "url": "/labwhat/static/css/main.ecadb2e8.chunk.css"
   },
   {
-    "revision": "58edc34487e8e66d462b",
-    "url": "/labwhat/static/css/main.101e6b10.chunk.css"
+    "revision": "a284f2a82a1bcffe72a0",
+    "url": "/labwhat/static/js/main.a284f2a8.chunk.js"
   },
   {
-    "revision": "7409e47ee5c21786126f",
-    "url": "/labwhat/static/js/1.7409e47e.chunk.js"
+    "revision": "82e5aabf333167a534d1",
+    "url": "/labwhat/static/js/1.82e5aabf.chunk.js"
   },
   {
     "revision": "62447b614a590b4256ff",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/ah.e96707cb.mp3"
   },
   {
-    "revision": "58edc34487e8e66d462b",
-    "url": "/labwhat/static/js/main.58edc344.chunk.js"
+    "revision": "65a0a7bd5123ad00d7c338682d1c43d0",
+    "url": "/labwhat/static/media/je-vous-emmerde-et-je-rentre-a-ma-maison.65a0a7bd.mp3"
   },
   {
     "revision": "ffc0f4e7eef8f28aaf7ea2d4d851ae0c",
@@ -84,7 +84,11 @@ self.__precacheManifest = [
     "url": "/labwhat/static/media/kassos_lapin.f7a77756.mp3"
   },
   {
-    "revision": "b33ba11aab29154f2abbe7de243d7184",
+    "revision": "855cdc9b1dc96875250144b8c653af55",
+    "url": "/labwhat/static/media/ba-dum-tss.855cdc9b.mp3"
+  },
+  {
+    "revision": "250af13c21a109f6abf3c27641a94def",
     "url": "/labwhat/index.html"
   }
 ];
